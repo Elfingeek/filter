@@ -1,0 +1,69 @@
+[AdBlock]
+! Title: General Mobile
+! Description: For Browser of Mobile
+! Expires: 3 days
+! ============> App
+*appdownload
+*app-download
+*applaunch
+*applink.
+*jump-app
+*openapp
+*open-app
+*open-newsapp
+/invoke/app*
+/invokeBaidu*
+! ----
+*adserv
+*advert
+*mobad
+*mobilead
+*mobile_ad
+_wxAd_
+/AppMeasurement*
+! ============> CSS
+##[class*="m-app-"i]
+##a[href*="openApp"i]
+##[id*="openApp"i]
+##[class*="openApp"i]
+##a[href*="open-app"i]
+##[id*="open-app"i]
+##[class*="open-app"i]
+##a[href*="openInApp"i]
+##[id*="openInApp"i]
+##[class*="openInApp"i]
+##[id*="app-open"i]
+##[class*="app-open"i]
+##[id*="appdown"i]
+##[id*="downapp"i]
+##[class*="downapp"i]
+##a[href*="down-app"i]
+##[id*="down-app"i]
+##[class*="down-app"i]
+##[id*="downloadBtn"i]
+##[class*="downloadBtn"i]
+##a[href*="download-app"i]
+##[id*="download-app"i]
+##[class*="download-app"i]
+##[id*="MobileApp"i]
+##[class*="MobileApp"i]
+##[id*="moblink"i]
+##[class*="moblink"i]
+##[id*="bdshare"i]
+##[class*="bdshare"i]
+##[id*="bd-share"i]
+##[class*="bd-share"i]
+coolapk.com##.under
+apklinker.com###gadvheader
+baidu.com##.yitiao-container
+ithome.com##.grade
+ithome.com##.hot-app
+ithome.com##a.brand-column-lapin
+163.com##.logoTop
+163.com##.logoBottom
+163.com##.slider-footer
+163.com##.hotRank
+163.com##.g-relative-new
+youtube.com##ytm-promoted-sparkles-web-renderer
+youtube.com##ytm-promoted-sparkles-text-search-renderer
+youtube.com##ytm-item-section-renderer[data-content-type="related"]
