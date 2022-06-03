@@ -1,0 +1,87 @@
+[AdBlock]
+! Title: DNS Mobile
+! Description: For Adguard Mobile
+! Expires: 3 days
+! ----- AD
+*adserv
+*advert
+*mobad
+*mobilead
+*promo
+*push
+*pangolin
+*firstpage
+*openadsdk
+*startapp
+*startpage
+*game
+*banner
+-ad-
+-ad.
+-ads.
+-adv.
+! ----- privacy
+*firebase
+*feedback
+*analysis
+*analytic
+*applog
+*collect
+*counter
+*click
+*clk.
+*crash
+*monitor
+*report
+*tracking
+*trace
+*trac.
+*trk.
+*zhanzhang
+-log-
+! -----> MIUI
+||sec.miui.com
+||a.market.xiaomi.com
+||experiment.xiaomi.com
+||wtradv.market.xiaomi.com
+! -----> wifi key
+||d.wifi188.com
+||im-gb.com
+||wkanx.com
+||onewsimg.com
+||lsttapppro.com
+||lianwangtech.com
+! -----> Tencent
+||mj.weimob.net
+||mqqad.html5.qq.com
+||android.rqd.qq.com
+||wxs.qq.com
+||wxsnsdy.tc.qq.com
+||wxsnsad.tc.qq.com
+||badjs.weixinbridge.com
+||messpop.shenzhentong.com
+||szt-obs-image.
+! --------
+||admob.
+||admobile.
+||inmobi.
+||inmobicdn.
+||poplayer.
+||openstorage.cn
+||app-measurement.com
+||amdc.m.taobao.com
+||amdcopen.m.taobao.com
+||domob.cn
+||domob.com
+||duapps.com
+||appads.com
+||appjiagu.com
+||appspot.com
+||appsflyer.com
+||applovin.com
+||flurry.com
+||iflyad.com
+||xfinfr.com
+||igexin.com
+||aiclk.com
+||voiceads.cn
