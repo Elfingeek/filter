@@ -8,8 +8,6 @@
 ||w3cschool.cn/attachments/image
 ||image.zhangxinxu.com/image/blog
 /image_water
-/game_pop
-/game_swap
 /radar-sdk
 /pb_track
 /common-bawu-report
@@ -33,8 +31,6 @@ smzdm.com##.product-card
 baike.baidu.com##.J-secondsknow-large-container
 baike.baidu.com##.J-wgt-seconds-know-container
 baike.baidu.com##.poster-middle,.tashuo-bottom
-wenku.baidu.com##.fc-parallax-scrolling
-wenku.baidu.com##.hx-bottom-wrapper
 tieba.baidu.com##.j_user_sign
 tieba.baidu.com##[ad-dom-img]
 tieba.baidu.com##.fengchao-wrap-box
