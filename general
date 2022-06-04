@@ -374,6 +374,8 @@ _gads_
 /tan1.
 /tanad.
 /tc/*
+/game_pop
+/game_swap
 /gettashuolist*
 /getrelatedbusiness*
 ! ----- privacy
@@ -502,18 +504,12 @@ _gads_
 /sdc1.js
 /sdc2.js
 /sdc3.js
-/sdctag.js
-/sdctag1.js
-/sdctag2.js
-/dcs_tag.
-/dcs_tag_
-/dcs_tag1.
-/dcs_tag2.
-/dcstag_
+/sdctag
+/dcs_tag
+/dcstag
 /usertrack*
 /weblog.
-/webstat.
-/webstats
+/webstat
 ! =============> CSS
 ! ----- Ad
 ###ad
