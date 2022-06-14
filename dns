@@ -16,6 +16,7 @@
 *google-ad
 *google-a-d
 *google_ad
+*googletag
 *syndication
 *pagead
 *umeng
@@ -35,6 +36,7 @@
 *tracks.com
 *tracking.com
 *tracking.net
+*scorecardresearch.com
 *clk.com
 *cnzz.com
 *counter.com
@@ -152,7 +154,13 @@
 ||zz.bdstatic.com
 ||baidustatic.com
 ||hectorstatic.baidu.com
+||fc1tn.baidu.com
+||cstm.baidu.com
+||baike.baidu.com/api/second
 ||staticsns.cdn.bcebos.com
+||baikevideo.cdn.bcebos.com
+||tieba-ares.cdn.bcebos.com
+||ns-strategy.cdn.bcebos.com
 ! -----> Tencent
 *aegis.qq.com
 *trace.qq.com
@@ -178,6 +186,7 @@
 ||aliyunxin.com
 ||eco.taobao.com
 ||fourier.taobao.com
+||video.taobao.com
 ! -----> Netease
 ||g.163.com
 ||g1.163.com
@@ -193,7 +202,6 @@
 ||amazon-adsystem.com
 ||actonservice.com
 ||actonsoftware.com
-||scorecardresearch.com
 ||lianmeng.360.cn
 ||union.360.cn
 ||irs01.com
