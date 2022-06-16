@@ -130,6 +130,7 @@ _adunit*
 /badjs*
 /jads.
 /jsad*
+/js_ad*
 /xads.
 /adba*
 /adbe*
@@ -419,6 +420,7 @@ _gads_
 /analyticstrack*
 /analytics-event*
 /analytics.js
+/analytics-helper.js
 /analytics.log.
 /analytics.min.
 /analytics.php
@@ -435,14 +437,16 @@ _gads_
 /analytics/smarttag
 /Analytics/tracking
 /assets/analytics
+/sranalytics.
 /atrk.js
 /astrack.js
 /awstats.js
 /autotrack.
 /comscore*
 .gif?
-/tj.
+/tj.js
 /piwik
+/pixel
 /csi?v=
 /cls_report?
 /cls_rpt.
@@ -546,6 +550,7 @@ _gads_
 /trackpush
 /trackIt.js
 /trackjs.js
+/mtracking.
 .histats.
 .hit.gemius.
 .hit.stat24.
