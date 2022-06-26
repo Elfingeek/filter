@@ -34,9 +34,10 @@ baike.baidu.com##.poster-middle,.tashuo-bottom
 tieba.baidu.com##.j_user_sign
 tieba.baidu.com##[ad-dom-img]
 tieba.baidu.com##.fengchao-wrap-box
-youtube.com###secondary,#merch-shelf
+youtube.com###secondary
+youtube.com##ytd-merch-shelf-renderer
+youtube.com##ytd-promoted-sparkles-web-renderer
 youtube.com##.ytd-clarification-renderer
 youtube.com##.ytd-statement-banner-renderer
-youtube.com##ytd-promoted-sparkles-web-renderer
 youtube.com##.ytd-promoted-sparkles-text-search-renderer
 youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, undefined)
