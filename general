@@ -434,8 +434,6 @@ _gads_
 /analytics/rt?
 /analytics/track
 /analytics/visit
-/analytics/smarttag
-/Analytics/tracking
 /assets/analytics
 /sranalytics.
 /atrk.js
@@ -537,8 +535,8 @@ _gads_
 /usertrack*
 /weblog.
 /webstat
-/acclog.cgi?
-/acclog.js
+/acclog.
+/accessLog?
 /fingerprint.
 /fingerprint2.
 /fprnt.min.js
@@ -546,11 +544,13 @@ _gads_
 /smartpixel
 /smarttag
 /tealeaf
+/tealium
 /trackad.
 /trackpush
 /trackIt.js
 /trackjs.js
-/mtracking.
+/mtrack
+/nettrack
 .histats.
 .hit.gemius.
 .hit.stat24.
