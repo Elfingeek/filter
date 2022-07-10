@@ -28,8 +28,7 @@ zhihu.com##.Pc-word,.TitleImage
 zhihu.com##.KfeCollection-PcCollegeCard-wrapper
 smzdm.com##.insert-outer
 smzdm.com##.product-card
-baike.baidu.com##.J-secondsknow-large-container
-baike.baidu.com##.J-wgt-seconds-know-container
+baike.baidu.com##.second-wrapper
 baike.baidu.com##.poster-middle,.tashuo-bottom
 tieba.baidu.com##.j_user_sign
 tieba.baidu.com##[ad-dom-img]
