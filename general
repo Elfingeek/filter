@@ -567,7 +567,6 @@ _gads_
 ##[class$="-ad"i]
 ##[class$="_ad"i]
 ##[class*="-ad-"i]
-##[class*="_ad_"i]
 ! ------ Ads
 ###ads
 ##.ads
