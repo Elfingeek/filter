@@ -1,0 +1,25 @@
+[AutoProxy]
+! Proxy list for SwitchyOmega
+! ===> Popular
+||v2ex.com
+||imgur.com
+||apkpure.com
+||apkmirror.com
+||wikipedia.org
+! ===> Google
+||google.*
+||ggpht.com
+||youtube*.com
+||ytimg.com
+||youtu.be
+||yt.be
+! ===> Twitter
+||t.co
+||twitter.
+||twimg.
+||twitpic.
+||pscp.tv
+! ===> Telegram
+||t.me
+||telegram.*
+||tdesktop.com
