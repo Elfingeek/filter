@@ -378,10 +378,14 @@ _gads_
 /tan1.
 /tanad.
 /tc/*
+/promo-banner
 /game_pop
 /game_swap
-/gettashuolist*
 /getrelatedbusiness*
+/gettashuolist*
+/tashuo*
+/bkclick?
+/lemmaRelation
 ! ----- privacy
 *cnzz.com
 *gdt.qq.com
@@ -444,7 +448,6 @@ _gads_
 .gif?
 /tj.js
 /piwik
-/pixel
 /csi?v=
 /cls_report?
 /cls_rpt.
