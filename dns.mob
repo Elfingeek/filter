@@ -2,6 +2,12 @@
 ! Title: DNS Mobile
 ! Description: For Adguard Mobile
 ! Expires: 3 days
+! ------> ISP
+||config.cmpassport.com
+||www.cmpassport.com
+||opencloud.wostore.cn
+||open.e.189.cn
+||id6.me
 ! ----- AD
 *mobad
 *mobilead
@@ -37,6 +43,7 @@
 *trk.
 *zhanzhang
 -log-
+-log.
 ! -----> MIUI
 ||sec.miui.com
 ||a.market.xiaomi.com
