@@ -39,7 +39,6 @@
 -log-
 -log.
 ! -----> MIUI
-||sec.miui.com
 ||a.market.xiaomi.com
 ||experiment.xiaomi.com
 ||wtradv.market.xiaomi.com
@@ -51,6 +50,7 @@
 ||lsttapppro.com
 ||lianwangtech.com
 ! -----> Tencent
+||mdt.qq.com
 ||mj.weimob.net
 ||mqqad.html5.qq.com
 ||android.rqd.qq.com
@@ -67,7 +67,6 @@
 ||inmobicdn.
 ||poplayer.
 ||openstorage.cn
-||app-measurement.com
 ||amdc.m.taobao.com
 ||amdcopen.m.taobao.com
 ||domob.cn
