@@ -6,7 +6,6 @@
 *mobad
 *mobilead
 *promo
-*push
 *pangolin
 *firstpage
 *openadsdk
@@ -20,11 +19,9 @@
 -adv.
 ! ----- privacy
 *firebase
-*feedback
 *analysis
 *analytic
 *applog
-*collect
 *counter
 *click
 *clk.
@@ -51,10 +48,10 @@
 ||lianwangtech.com
 ! -----> Tencent
 ||mdt.qq.com
+||wxs.qq.com
 ||mj.weimob.net
 ||mqqad.html5.qq.com
 ||android.rqd.qq.com
-||wxs.qq.com
 ||wxsnsdy.tc.qq.com
 ||wxsnsad.tc.qq.com
 ||badjs.weixinbridge.com
