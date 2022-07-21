@@ -481,6 +481,7 @@ _gads_
 /pageevent*
 /pagelog*
 /pagetrack*
+/pb_track
 /statcount*
 /statstrack*
 /trackstats*
@@ -521,7 +522,6 @@ _gads_
 ##[id*="-ad-"i]
 ##[id*="_ad_"i]
 ##[class|="ad"i]
-##[class$="-ad"i]
 ##[class$="_ad"i]
 ##[class*="-ad-"i]
 ! ------ Ads
