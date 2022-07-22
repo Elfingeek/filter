@@ -3,8 +3,8 @@
 ! Description: For browser of PC & Mobile
 ! Expires: 3 days
 ! ----> ISP
-*.189.cn
 *.id6.me
+*.189.cn
 *.10086.cn
 *.cmpassport.com
 *.10010.com
@@ -316,9 +316,6 @@ _adunit*
 *smartad
 *streamad
 *topad
-*webad
-*web-ad
-*web_ad
 *widgetad
 *videoad
 *video-ad
@@ -384,6 +381,12 @@ _adunit*
 /subad*
 /textad
 /virtuagirl
+/webad
+-webad
+_webad
+/web-ad
+-web-ad
+_web_ad
 /wppas
 /youradhere
 /wikiad/*
