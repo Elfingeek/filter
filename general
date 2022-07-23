@@ -3,8 +3,8 @@
 ! Description: For browser of PC & Mobile
 ! Expires: 3 days
 ! ----> ISP
-*.id6.me
 *.189.cn
+*.id6.me
 *.10086.cn
 *.cmpassport.com
 *.10010.com
@@ -16,6 +16,8 @@
 *blockAdblock
 *fuckAdblock
 *fuck-debugger
+||ad.
+||advert*
 *adserv.
 -adserv
 .adserv*
@@ -187,6 +189,7 @@ _adunit*
 /adlo*
 /adma*
 /adme*
+/admir
 /admo*
 /adne*
 /adno*
@@ -395,7 +398,10 @@ _gads_
 /tan1.
 /tanad.
 /tc/*
+/pixel
 /promo-banner
+/promotion/*
+/gamecent
 /game_pop
 /game_swap
 /getrelatedbusiness*
@@ -404,6 +410,7 @@ _gads_
 /bkclick?
 /lemmaRelation
 ! ----- privacy
+-cnzz/*
 *cnzz.com
 *gdt.qq.com
 *gdtimg.com
@@ -430,6 +437,8 @@ _gads_
 /gaaddons.js
 /gapro.js
 /gemius.js
+/gpt.js
+/gtag.js
 /gtm.js
 /gtm.min.js
 /ajax_ulog/?
@@ -442,34 +451,22 @@ _gads_
 /autotrack.
 /comscore*
 /bluekai*
+/bm/cv/*
+/b/ss/*
 .gif?
 /tj.js
 /piwik
 /csi?v=
 /cls_report?
 /cls_rpt.
-/csp_204?
-/csp_log?
-/csp_report.
+/csp_
 /exoclick
 /alog.
 /alog/*
+/log/*
 /logs/*
 /logger/*
 /logging/*
-.com/log/*
-/log/?
-/log/c*
-/log/e*
-/log/i*
-/log/jserr*
-/log/log*
-/log/page*
-/log/report*
-/log/s*
-/log/track*
-/log/u*
-/log/w*
 /LogAnaly*
 /logclick*
 /logcolletct*
@@ -482,6 +479,7 @@ _gads_
 /eventlog.
 /events/track*
 /fbevents*
+/heartbeat
 /hitcount*
 /hitlog*
 /hittrack*
@@ -499,7 +497,9 @@ _gads_
 /trackstats*
 /track.asp*
 /track.php?
+/track.js
 /tracking*
+/sfp.js
 /sdc1.js
 /sdc2.js
 /sdc3.js
@@ -524,6 +524,17 @@ _gads_
 /trackjs.js
 /mtrack
 /nettrack
+/coordinate
+/sharecounter
+/pv?u=
+/pv.php?
+/pv_count
+/pvcount
+/xtcore-
+/xtcore.
+/wxhawkeye.js
+/xgemius.js
+/zanox.js
 ! =============> CSS
 ! ----- Ad
 ###ad
