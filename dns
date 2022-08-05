@@ -4,9 +4,8 @@
 ! Expires: 3 days
 ! ===========> DNS & URL
 ! ------> ISP
+||189.cn
 ||id6.me
-||id.189.cn
-||e.189.cn
 ||10086.cn
 ||cmpassport.com
 ||10010.com
@@ -32,6 +31,7 @@
 *x.jd.com
 *pangolin-sdk-
 ! -----> Privacy
+*facebook
 *trk.com
 *trk.net
 *track.com
@@ -61,13 +61,12 @@
 *telemetry
 *tongji
 ! ==========> DNS
-||ad.
+||ad-*
 ||ad1.
 ||ad2.
 ||ad3.
 ||ad4.
 ||ad7.
-||ad-*
 ||ads.
 ||ads1.
 ||ads2.
@@ -75,7 +74,6 @@
 ||adserv*
 ||adv.
 ||adv-*
-||advert*
 ||adm.
 ||adx.
 ||adx-*
