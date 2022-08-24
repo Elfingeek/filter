@@ -4,6 +4,8 @@
 ! Expires: 3 days
 ! ----> Popular
 ||zhihu.com/*.signflow
+||zhihu.com/*/linkcard
+||zhihu.com/*/link_card
 ! ----> ISP
 *.189.cn
 *.id6.me
