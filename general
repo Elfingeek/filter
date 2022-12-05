@@ -500,7 +500,6 @@ _gads_
 /trackstats*
 /track.asp*
 /track.php?
-/track.js
 /tracking*
 /sfp.js
 /sdc1.js
