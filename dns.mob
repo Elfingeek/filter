@@ -1,7 +1,6 @@
 [AdBlock]
 ! Title: DNS Mobile
 ! Description: For Adguard Mobile
-! Expires: 3 days
 ! ----- AD
 *mobad
 *mobilead
@@ -49,14 +48,20 @@
 ! -----> Tencent
 ||mdt.qq.com
 ||wxs.qq.com
-||mj.weimob.net
+||tdid.m.qq.com
 ||android.rqd.qq.com
 ||wxsnsdy.tc.qq.com
 ||wxsnsad.tc.qq.com
+||mj.weimob.net
 ||badjs.weixinbridge.com
 ||messpop.shenzhentong.com
 ||szt-obs-image.
 ! --------
+||blackhole.m.jd.com
+||openstorage.cn
+||voiceads.cn
+||igexin.com
+||iflyad.com
 ||admobile.
 ||poplayer.
 ||domob.cn
@@ -65,7 +70,5 @@
 ||appspot.com
 ||appsflyer.com
 ||aiclk.com
-||iflyad.com
-||igexin.com
-||voiceads.cn
-||openstorage.cn
+||tianmu.mobi
+||kaijia.com
