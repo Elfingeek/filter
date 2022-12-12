@@ -3,9 +3,9 @@
 ! Description: For browser of PC & Mobile
 ! Expires: 3 days
 ! ----> Popular
-||zhihu.com/*.signflow
 ||zhihu.com/*/linkcard
 ||zhihu.com/*/link_card
+||zhihu.com/*GoodsRecommend
 ! ----> ISP
 *.189.cn
 *.id6.me
@@ -271,7 +271,6 @@ _adunit*
 *guesslike
 *tuiguang
 *recommendation
-.GoodsRecommend*
 *bannerad
 *banner-ad
 *banner_ad
@@ -493,7 +492,6 @@ _gads_
 /pagecount*
 /pageevent*
 /pagelog*
-/pagetrack*
 /pb_track
 /statcount*
 /statstrack*
