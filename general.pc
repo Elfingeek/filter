@@ -1,7 +1,6 @@
 [AdBlock]
 ! Title: General PC
 ! Description: For Browser of PC
-! Expires: 3 days
 ! ==============> URL
 ||w3cschool.cn/attachments/image
 ||image.zhangxinxu.com/image/blog
@@ -15,12 +14,13 @@
 ! ==============> CSS
 jd.com##[ware-type="0"]
 jd.com##.m-aside,.aside
+jd.com##.may-like
 taobao.com##.item-ad,.grid-right
+taobao.com###mainsrp-p4pBottom
 1688.com,taobao.com##.baxia-dialog
 1688.com##.od-pc-offer-top-sales
 w3cschool.cn##.widget-body
 stackoverflow.com##.ps-fixed
-weixin.qq.com##.rich_media_area_extra
 zhihu.com##.Pc-word,.TitleImage
 smzdm.com##.insert-outer
 smzdm.com##.product-card
