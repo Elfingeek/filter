@@ -1,11 +1,6 @@
 [AdBlock]
 ! Title: General Filter
 ! Description: For browser of PC & Mobile
-! Expires: 3 days
-! ----> Popular
-||zhihu.com/*/linkcard
-||zhihu.com/*/link_card
-||zhihu.com/*GoodsRecommend
 ! ----> ISP
 *.189.cn
 *.id6.me
@@ -15,6 +10,11 @@
 *.wo.cn
 *.wosms.cn
 *.wostore.cn
+! ----> Popular
+||zhihu.com/*/linkcard
+||zhihu.com/*/link_card
+||zhihu.com/*commerceAd
+||zhihu.com/*GoodsRecommend
 ! ---- AD
 *antiAdblock
 *blockAdblock
