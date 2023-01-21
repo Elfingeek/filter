@@ -1,6 +1,7 @@
 [AdBlock]
 ! Title: General Filter
 ! Description: For browser of PC & Mobile
+! Expires: 4 days
 ! ----> ISP
 *.189.cn
 *.id6.me
@@ -424,6 +425,7 @@ _gads_
 /share/share_
 /share_view.
 ! ----- privacy
+/collector
 -cnzz/*
 *cnzz.com
 *gdt.qq.com
@@ -559,6 +561,7 @@ _gads_
 ##[id*="_ad_"i]
 ##[class|="ad"i]
 ##[class$="_ad"i]
+##[class$="-ad"i]
 ##[class*="-ad-"i]
 ! ------ Ads
 ###ads
