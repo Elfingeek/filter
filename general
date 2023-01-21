@@ -16,6 +16,7 @@
 ||zhihu.com/*/link_card
 ||zhihu.com/*commerceAd
 ||zhihu.com/*GoodsRecommend
+||aliyuncs.com/mnpc-um.
 /gamecent
 /game_pop
 /game_swap
@@ -30,6 +31,9 @@
 *blockAdblock
 *fuckAdblock
 *fuck-debugger
+*popunder
+*pop_under
+/popundr
 ||static*$image
 ||ad.
 ||advert*
@@ -419,6 +423,7 @@ _gads_
 /banner728
 /cookieBanner
 /promo-banner
+/js/popper.
 /push
 .push.
 /share.js
@@ -443,6 +448,10 @@ _gads_
 *google_tag
 *googletrack
 *google-track
+*.pglstatp.com
+*impression
+*chartbeat
+*newrelic
 /ganalytic*
 /gajs*
 /gaclick*
@@ -550,16 +559,42 @@ _gads_
 /wxhawkeye.js
 /xgemius.js
 /zanox.js
+/cdn-cgi/apps/head/*
+/cdn-cgi/apps/body/*
+/cdn-cgi/bm/cv/*
+/cdn-cgi/ping?
+/cdn-cgi/rum?
+/cgi-bin/count
+/adrs/*
+/akam/*
+/baynote*
+/nielsen*
+/ntpagetag
+/omniture*
+/optimizely
+/optimost*
+/pageview
+/php-stats.
+/quantcast*
+/siteAnalytics
+/site-track*
+/statstrack*
+/gemius*
+/spy*
+/dfp
+/hits
 ! =============> CSS
 ! ----- Ad
 ###ad
 ##.ad
-##[id|="ad"i]
+##[id^="ad-"i]
+##[id^="ad_"i]
 ##[id$="-ad"i]
 ##[id$="_ad"i]
 ##[id*="-ad-"i]
 ##[id*="_ad_"i]
-##[class|="ad"i]
+##[class^="ad-"i]
+##[class^="ad_"i]
 ##[class$="_ad"i]
 ##[class$="-ad"i]
 ##[class*="-ad-"i]
@@ -568,12 +603,14 @@ _gads_
 ##.ads
 ##.adsbygoogle
 ###adsbygoogle
-##[id|="ads"i]
+##[id^="ads-"i]
+##[id^="ads_"i]
 ##[id$="-ads"i]
 ##[id$="_ads"i]
 ##[id*="-ads-"i]
 ##[id*="_ads_"i]
-##[class|="ads"i]
+##[class^="ads-"i]
+##[class^="ads_"i]
 ##[class$="-ads"i]
 ##[class$="_ads"i]
 ##[class*="-ads-"i]
@@ -581,17 +618,17 @@ _gads_
 ! ------ Adv
 ##[id^="adv"i]
 ##[class^="adv"i]
-##[id*="-adv-"i]
-##[class*="-adv-"i]
 ##[id*="advert"i]
 ##[class*="advert"i]
 ! ------ gg
 ###gg
 ##.gg
-##[id|="gg"i]
+##[id^="gg-"i]
+##[id^="gg_"i]
 ##[id*="-gg-"i]
 ##[id*="_gg_"i]
-##[class|="gg"i]
+##[class^="gg-"i]
+##[class^="gg_"i]
 ##[class*="-gg-"i]
 ##[class*="_gg_"i]
 ! ---
