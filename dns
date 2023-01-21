@@ -1,6 +1,7 @@
 [AdBlock]
 ! Title: DNS Filter
 ! Description: For browser of PC & Mobile
+! Expires: 4 days
 ! ===========> DNS & URL
 ! ------> ISP
 ||189.cn
@@ -230,4 +231,4 @@
 ||wwads.cn
 ||umtrack.com
 ||ldmnq.com
-||yximgs.com
+||imlp.cdn.bcebos.com
