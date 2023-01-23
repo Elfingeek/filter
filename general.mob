@@ -13,14 +13,15 @@
 *open-newsapp
 /invoke/app*
 /invokeBaidu*
+/AppMeasurement*
 ! ----
 *adserv
 *advert
 *mobad
 *mobilead
 *mobile_ad
+/300x100
 _wxAd_
-/AppMeasurement*
 ! ============> CSS
 ##[class*="m-app-"i]
 ##a[href*="openApp"i]
