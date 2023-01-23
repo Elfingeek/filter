@@ -105,6 +105,9 @@ _adcall*
 _adchoice*
 _adshow*
 _adspace*
+_adsense*
+_adserve*
+_adsetup*
 _adunit*
 =adunit*
 -adunit*
@@ -452,20 +455,19 @@ _gads_
 *impression
 *chartbeat
 *newrelic
-/ganalytic*
+/ga
 /gajs*
+/ganaly*
 /gaclick*
 /gaevent*
 /gapro
 /gatrack*
 .gatrack*
-/gaaddons.js
-/gapro.js
-/gemius.js
-/gpt.js
-/gtag.js
-/gtm.js
-/gtm.min.js
+/gaaddons.
+/gemius.
+/gpt.
+/gtag.
+/gtm.
 /ajax_ulog/?
 /angular-tag
 /angularytics
@@ -542,8 +544,8 @@ _gads_
 /accessLog?
 /fingerprint.
 /fingerprint2.
-/fprnt.min.js
-/fp/tags.js
+/fprnt.
+/fp/tags.
 /smartpixel
 /smarttag
 /tealeaf
@@ -594,6 +596,25 @@ _gads_
 /spy*
 /dfp
 /hits
+! -----
+*bdshare
+*bd-share
+*outbrain
+*linkedin
+*snow-storm
+*snowstorm
+/cmp
+/cnil
+/consent*
+/dsgvo*
+/outbrain*
+/rodo
+/rssfeed*
+/rssicon*
+-gdpr
+.gdpr
+/gdpr
+_gdpr
 ! =============> CSS
 ! ----- Ad
 ###ad
