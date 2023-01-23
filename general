@@ -430,11 +430,12 @@ _gads_
 /share/share_
 /share_view.
 ! ----- privacy
-/collector
+.gif?
 -cnzz/*
 *cnzz.com
 *gdt.qq.com
 *gdtimg.com
+*.pglstatp.com
 *eventtrack
 *event-track
 *pagetrack
@@ -448,7 +449,6 @@ _gads_
 *google_tag
 *googletrack
 *google-track
-*.pglstatp.com
 *impression
 *chartbeat
 *newrelic
@@ -478,14 +478,10 @@ _gads_
 /bluekai*
 /bm/cv/*
 /b/ss/*
-.gif?
-/tj.js
-/piwik
 /csi?v=
 /cls_report?
 /cls_rpt.
 /csp_
-/exoclick
 /alog.
 /alog/*
 /log/*
@@ -501,6 +497,7 @@ _gads_
 /logpage*
 /logstat*
 /logview*
+/exoclick
 /eventlog.
 /events/track*
 /fbevents*
@@ -522,6 +519,15 @@ _gads_
 /track.asp*
 /track.php?
 /tracking*
+/collect/kf?
+/collect/pageview?
+/collect/pv?
+/collect/sdk?
+/collect/stats?
+/collect/track
+/collect/view?
+/piwik
+/tj.js
 /sfp.js
 /sdc1.js
 /sdc2.js
