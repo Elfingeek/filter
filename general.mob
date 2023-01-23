@@ -1,7 +1,7 @@
 [AdBlock]
 ! Title: General Mobile
 ! Description: For Browser of Mobile
-! Expires: 3 days
+! Expires: 4 days
 ! ============> App
 *appdownload
 *app-download
@@ -54,7 +54,6 @@ _wxAd_
 ##[id*="bd-share"i]
 ##[class*="bd-share"i]
 coolapk.com##.under
-apklinker.com###gadvheader
 baidu.com##.yitiao-container
 ithome.com##.grade
 ithome.com##.hot-app
@@ -64,6 +63,8 @@ ithome.com##a.brand-column-lapin
 163.com##.slider-footer
 163.com##.hotRank
 163.com##.g-relative-new
+localxh.com##.wio-e,.wio-ecam-thumb
+youtube.com##ytm-reel-shelf-renderer
 youtube.com##ytm-promoted-sparkles-web-renderer
 youtube.com##ytm-promoted-sparkles-text-search-renderer
 youtube.com##ytm-item-section-renderer[data-content-type="related"]
