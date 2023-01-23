@@ -579,7 +579,12 @@ _gads_
 /siteAnalytics
 /site-track*
 /statstrack*
+/stat-dfp/*
+/shinystat
+/snowplow
 /gemius*
+/mistats/*
+/mpss/o/*
 /spy*
 /dfp
 /hits
