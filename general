@@ -34,7 +34,6 @@
 *popunder
 *pop_under
 /popundr
-||static*$image
 ||ad.
 ||advert*
 *adserv.
@@ -148,9 +147,9 @@ _adunit*
 /ad_sl*
 /ad_sp*
 /ad_sq*
+/ad_st*
 /ad_su*
 /ad_sy*
-/ad_stats/*
 /ad_t*
 /ad_u*
 /ad_v*
@@ -216,6 +215,8 @@ _adunit*
 /adne*
 /adno*
 /adom*
+/adops*
+/adopt*
 /adpa*
 /adpe*
 /adpi*
@@ -411,8 +412,6 @@ _webad
 /web-ad
 -web-ad
 _web_ad
-/wppas
-/youradhere
 _gads_
 /tan.
 /tan1.
@@ -426,6 +425,8 @@ _gads_
 /banner728
 /cookieBanner
 /promo-banner
+/wppas
+/youradhere
 /js/popper.
 /push
 .push.
@@ -484,6 +485,14 @@ _gads_
 /cls_report?
 /cls_rpt.
 /csp_
+/log_a*
+/log_e*
+/log_h*
+/log_i*
+/log_p*
+/log_r*
+/log_s*
+/log_t*
 /alog.
 /alog/*
 /log/*
@@ -495,7 +504,6 @@ _gads_
 /logcolletct*
 /logcount*
 /logevent*
-/LogImpression*
 /logpage*
 /logstat*
 /logview*
@@ -513,14 +521,17 @@ _gads_
 /trackevent*
 /pagecount*
 /pageevent*
+/pageview*
 /pagelog*
 /pb_track
+/statscollect*
 /statcount*
 /statstrack*
 /trackstats*
 /track.asp*
 /track.php?
 /tracking*
+/collect?
 /collect/kf?
 /collect/pageview?
 /collect/pv?
@@ -557,7 +568,7 @@ _gads_
 /mtrack
 /nettrack
 /coordinate
-/sharecounter
+/sharecount
 /pv?u=
 /pv.php?
 /pv_count
@@ -581,7 +592,6 @@ _gads_
 /omniture*
 /optimizely
 /optimost*
-/pageview
 /php-stats.
 /quantcast*
 /siteAnalytics
