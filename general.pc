@@ -1,6 +1,7 @@
 [AdBlock]
 ! Title: General PC
 ! Description: For Browser of PC
+! Expires: 4 days
 ! ==============> URL
 ||w3cschool.cn/attachments/image
 ||image.zhangxinxu.com/image/blog
@@ -29,8 +30,11 @@ baike.baidu.com##.poster-middle,.tashuo-bottom
 tieba.baidu.com##.j_user_sign
 tieba.baidu.com##[ad-dom-img]
 tieba.baidu.com##.fengchao-wrap-box
+dianyi.ng##.tips-box
+waipian20.com###player_pic
 bilibili.com###live_recommand_report
 youtube.com###secondary
+youtube.com##ytd-reel-shelf-renderer
 youtube.com##ytd-merch-shelf-renderer
 youtube.com##ytd-clarification-renderer
 youtube.com##ytd-statement-banner-renderer
