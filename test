@@ -3,7 +3,9 @@
 ! Description: For browser of PC & Mobile
 ! Expires: 4 days
 ! -----------
-||static.*.gif
+/ad_
+-ad-
+_ad_
 /pop/*
 /related
 /recommend-
@@ -12,25 +14,16 @@
 /js6promote*
 /ptracking
 /feedback?
-##a[href*="/pop/"]
-##[class^="recommend"i]
-##[class*="-recommend"i]
-##[class*="-promoted-"i]
-##[id^="policy-"]
-! ---------- AD
 /wp-content/plugins/*banner
 /wp-content/plugins/*popup
-/ad_
--ad-
-_ad_
 ! --------- privacy
+.track.
+_tracker.js
 /analysis
 /analytics
 _analytics-
 -analytics/*
 -analytics.
-.track.
-_tracker.js
 _counter.
 _counter?
 /log-
@@ -61,7 +54,6 @@ _log.
 /?tracking_id=
 /__ssobj/core.js
 /tebilisim.php?
-/_CPiX/art
 /access.php?referrer=
 /acecounter/acecounter
 /ahoy/visits
@@ -106,7 +98,6 @@ _log.
 /matomo.
 /mendelstats.
 /mrliteLogger.
-/omniture
 /onetag
 /openxtargeting.js
 /owa.tracker-
