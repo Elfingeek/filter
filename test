@@ -3,7 +3,7 @@
 ! Description: For browser of PC & Mobile
 ! Expires: 4 days
 ! -----------
-||static*$image
+||static.*.gif
 /pop/*
 /recommend/*
 /recommend-
@@ -23,14 +23,11 @@
 _ad
 /ad
 /ad1
-/ad2
 =ads
 -ads
 .ads
 _ads
 /ads
-/ads1
-/ads2
 -adv
 .adv
 _adv
