@@ -12,6 +12,7 @@
 *.wosms.cn
 *.wostore.cn
 ! ----> Popular
+||static.*.gif
 ||zhihu.com/*/linkcard
 ||zhihu.com/*/link_card
 ||zhihu.com/*/GoodsRecommend
@@ -716,14 +717,19 @@ _gdpr
 ##[class*="-gg-"i]
 ##[class*="_gg_"i]
 ! ---
+##a[href*="/pop/"]
 ##[class*="popupad"i]
 ##[id*="promotion"]
 ##[class*="promotion"]
+##[class*="-promoted-"i]
 ##[id*="tuiguang"i]
 ##[class*="tuiguang"i]
 ##[id*="interested"i]
 ##[class*="interested"i]
+##[class^="recommend"i]
+##[class*="-recommend"i]
 ! ---
+##[id^="policy-"]
 ##[id^="cookie"i]
 ##[class^="cookie"i]
 ##[id^="social"i]
