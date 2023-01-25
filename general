@@ -14,8 +14,8 @@
 ! ----> Popular
 ||zhihu.com/*/linkcard
 ||zhihu.com/*/link_card
-||zhihu.com/*commerceAd
-||zhihu.com/*GoodsRecommend
+||zhihu.com/*/GoodsRecommend
+||zhihu.com/heifetz/ECommerceAd
 ||aliyuncs.com/mnpc-um.
 *antiAdblock
 *blockAdblock
@@ -29,6 +29,7 @@
 /tashuo*
 /bkclick?
 /lemmaRelation
+/recommendation
 /wikiad/*
 ! ---- AD
 ||ad.
@@ -36,7 +37,6 @@
 *guangg
 *guesslike
 *tuiguang
-*recommendation
 *bannerad
 *banner-ad
 *banner_ad
