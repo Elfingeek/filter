@@ -5,8 +5,8 @@
 ! -----------
 ||static.*.gif
 /pop/*
-/recommend/*
-/recommend-
+/related
+/recommend
 *promote_
 /js6promote*
 /ptracking
@@ -17,38 +17,17 @@
 ##[class*="-promoted-"i]
 ##[id^="policy-"]
 ! ---------- AD
-=ad
--ad
-.ad
-_ad
-/ad
-/ad1
-=ads
--ads
-.ads
-_ads
-/ads
--adv
-.adv
-_adv
-/adv
--gg.
-_gg.
-/gg.
-/yads
 /wp-content/plugins/*banner
 /wp-content/plugins/*popup
+/ad_
+-ad-
+_ad_
 ! --------- privacy
 /analysis
 /analytics
 _analytics-
 -analytics/*
 -analytics.
--ga
-.ga-
-.ga_
-.ga.
-_ga
 .track.
 _tracker.js
 _counter.
