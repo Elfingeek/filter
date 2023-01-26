@@ -31,6 +31,13 @@
 *x.jd.com
 *pangolin-sdk-
 ! -----> Privacy
+||analysis.
+||analytic.
+||analytics.
+||analytics-
+||analytic*.net^
+||analytic*.com^
+||*-analytics.^
 *facebook
 *trk.com
 *trk.net
@@ -45,6 +52,8 @@
 *quantserve.com
 *static.getclicky.com
 *scorecardresearch.com
+*analysis.com
+*analytics.com
 *clk.com
 *cnzz.com
 *counter.com
@@ -218,6 +227,7 @@
 ||adsage.com
 ||aduu.cn
 ||adwo.com
+||addthis.com
 ||atdmt.com
 ||jads.com
 ||lsosad.com
@@ -234,3 +244,4 @@
 ||umtrack.com
 ||rudderaxis.com
 ||imlp.cdn.bcebos.com
+||partwithner.com
