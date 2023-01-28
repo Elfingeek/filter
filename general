@@ -4,6 +4,7 @@
 ! Expires: 4 days
 ! ----> ISP
 *.189.cn
+*.21cn.com
 *.id6.me
 *.10086.cn
 *.cmpassport.com
@@ -11,8 +12,9 @@
 *.wo.cn
 *.wosms.cn
 *.wostore.cn
-! ----> Popular
+! ----> 
 ||static.*.gif
+||baike.baidu.com/api/second
 ||zhihu.com/*/linkcard
 ||zhihu.com/*/link_card
 ||zhihu.com/*/GoodsRecommend
@@ -38,9 +40,26 @@
 ! ---- AD
 ||ad.
 ||advert*
+*x.jd.com
+*addtoany
 *guangg
 *guesslike
 *tuiguang
+*tuisong
+*doubleclick
+*googlead
+*google-ad
+*google-a-d
+*google_ad
+*googletag
+*syndication
+*pagead
+*pangolin-sdk-
+*umeng
+*unionad
+*unityads
+*sponsor
+*zanzhu
 *bannerad
 *banner-ad
 *banner_ad
@@ -467,20 +486,50 @@ _gg.
 .push.
 /share.js
 /share/share_
+/share-button
 /share_view.
 ! ----- privacy
 .gif?
 -cnzz/*
 *cnzz.com
-*stats.net
-*stats.com
 *gdt.qq.com
 *gdtimg.com
+*aegis.qq.com
+*trace.qq.com
+*clk.baidu.com
+*click.baidu.com
+*log.baidu.com
 *.pglstatp.com
+*clk.com
+*counter.com
+*analyze.org
+*analysis.com
+*analytics.com
+*optimizely.com
+*quantserve.com
+*static.getclicky.com
+*scorecardresearch.com
+*yandex.ru
+*trk.com
+*trk.net
+*track.com
+*track.net
+*tracks.com
+*tracking.com
+*tracking.net
+*stats.net
+*stats.com
+*histats.com
+*facebook
+*affilia
+*audience
+*beacon
+*chartbeat
 *eventtrack
 *event-track
 *pagetrack
-*getLoca
+*geoip
+*geoloc
 *get_geoip
 *get_tracking
 *googleanaly
@@ -491,8 +540,13 @@ _gg.
 *googletrack
 *google-track
 *impression
-*chartbeat
 *newrelic
+*metric
+*metrika
+*metrix
+*telemetry
+*tongji
+*webstat
 /ga-
 /ga.
 /ga_
@@ -570,6 +624,7 @@ _gatrack
 /pageview*
 /pagelog*
 /pb_track
+/ptracking
 /statscollect*
 /statcount*
 /statstrack*
