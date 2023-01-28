@@ -3,6 +3,19 @@
 ! Description: For Adguard Mobile
 ! Expires: 4 days
 ! ----- AD
+*doubleclick
+*googlead
+*google-ad
+*google-a-d
+*google_ad
+*googletag
+*syndication
+*pagead
+*partnerad
+*pangolin
+*umeng
+*unionad
+*unityads
 *mobad
 *mobilead
 *promo
@@ -11,15 +24,19 @@
 *openadsdk
 *startapp
 *startpage
+*tuisong
 *game
 *banner
 ! ----- privacy
+*facebook
 *firebase
 *analysis
 *analytic
+*affilia
+*audience
+*beacon
 *applog
 *counter
-*clk.
 *crash
 *monitor
 *report
@@ -27,6 +44,12 @@
 *trace
 *trac.
 *trk.
+*clk.
+*metric
+*metrika
+*metrix
+*telemetry
+*webstat
 *zhanzhang
 ! -----> MIUI
 ||a.market.xiaomi.com
@@ -40,6 +63,8 @@
 ||lsttapppro.com
 ||lianwangtech.com
 ! -----> Tencent
+||messpop.shenzhentong.com
+||szt-obs-image.
 ||mdt.qq.com
 ||wxs.qq.com
 ||tdid.m.qq.com
@@ -49,8 +74,6 @@
 ||wxsnsad.tc.qq.com
 ||mj.weimob.net
 ||badjs.weixinbridge.com
-||messpop.shenzhentong.com
-||szt-obs-image.
 ! --------
 ||blackhole.m.jd.com
 ||video.taobao.com
@@ -64,11 +87,10 @@
 ||iflyad.com
 ||admobile.
 ||poplayer.
-||domob.cn
-||domob.com
+||domob.
+||aiclk.com
 ||appjiagu.com
 ||appspot.com
 ||appsflyer.com
-||aiclk.com
 ||tianmu.mobi
 ||kaijia.com
