@@ -1,6 +1,7 @@
 [AdBlock]
 ! Title: DNS Mobile
 ! Description: For Adguard Mobile
+! Expires: 4 days
 ! ----- AD
 *mobad
 *mobilead
@@ -12,10 +13,6 @@
 *startpage
 *game
 *banner
--ad-
--ad.
--ads.
--adv.
 ! ----- privacy
 *firebase
 *analysis
@@ -31,8 +28,6 @@
 *trac.
 *trk.
 *zhanzhang
--log-
--log.
 ! -----> MIUI
 ||a.market.xiaomi.com
 ||experiment.xiaomi.com
@@ -49,6 +44,7 @@
 ||wxs.qq.com
 ||tdid.m.qq.com
 ||android.rqd.qq.com
+||wxsnsdy.video.qq.com
 ||wxsnsdy.tc.qq.com
 ||wxsnsad.tc.qq.com
 ||mj.weimob.net
@@ -57,6 +53,11 @@
 ||szt-obs-image.
 ! --------
 ||blackhole.m.jd.com
+||video.taobao.com
+||acs.m.taobao.com
+||audid-api.taobao.com
+||sofire.baidu.com
+||tcbox.baidu.com
 ||openstorage.cn
 ||voiceads.cn
 ||igexin.com
