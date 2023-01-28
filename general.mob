@@ -22,9 +22,12 @@
 *mobile_ad
 *.mdt.qq.com
 *.wxs.qq.com
-/300x100
 _wxAd_
+/300x100
+/pagead
+/qrcode.min.js
 ! ============> CSS
+##[class*="_ad_"i]
 ##[class*="m-app-"i]
 ##a[href*="openApp"i]
 ##[id*="openApp"i]
