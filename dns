@@ -58,6 +58,7 @@
 ||adsstat*
 ||api-adservices.
 ||iadsdk.
+||umeng*
 ||banner*
 ||jpush.
 ! -----> Privacy
@@ -98,7 +99,6 @@
 ||pix.
 ||pixel.
 ||promo*
-||push*
 ||reklam*
 ||report*
 ||sp.
@@ -116,7 +116,10 @@
 ||jrad.jd.com
 ||janapi.jd.com
 ||kepler.jd.com
+||knicks.jd.com
 ||orbit.jd.com
+||dgstatic.jd.com
+||dg.k.jd.com
 ! -----> ByteDance
 ||pangolin*
 ||dm.pstatp.com
@@ -212,10 +215,13 @@
 ||dsp-impr2.youdao.com
 ||onegoods.nosdn.127.net
 ! ------
+||topic.openspeech.cn
 ||access.*pikpak
 ||qchannel01.cn
 ||qchannel03.cn
 ||qchannel04.cn
+||doubleclick*
+||51.la
 ||msn.cn
 ||msn.com
 ||msads.net
@@ -224,7 +230,6 @@
 ||pool.ntp.org
 ||actonservice.com
 ||actonsoftware.com
-||topic.openspeech.cn
 ||lianmeng.360.cn
 ||union.360.cn
 ||irs01.com
