@@ -3,12 +3,16 @@
 ! Description: For browser of PC & Mobile
 ! Expires: 4 days
 ! -----------
+||meituan.net
+||meituan.com
+||imgdb.cn
 /ad_
 -ad-
 _ad_
 /pop/*
 /related
 /recommend-
+/production/*
 *promote_
 /js6promote*
 /feedback?
