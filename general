@@ -14,6 +14,8 @@
 *.wostore.cn
 ! ----> 
 ||static.*.gif
+||static.iapkk.com
+||statics.woozooo.com/img/
 ||baike.baidu.com/api/second
 ||zhihu.com/*/linkcard
 ||zhihu.com/*/link_card
@@ -87,7 +89,6 @@
 *localad
 *navad
 *openad
-*pagead
 *page-ads
 *partnerad
 *partner_ad
@@ -565,6 +566,7 @@ _gg.
 -ga-track
 _ga_track
 _gatrack
+/getLoc*
 /gemius.
 /gpt.
 /gtag.
@@ -572,7 +574,8 @@ _gatrack
 /ajax_ulog/?
 /angular-tag
 /angularytics
-/AnalTrack
+/antanalysis
+/analTrack
 /atrk.js
 /astrack.js
 /awstats.js
