@@ -2,7 +2,7 @@
 ! Title: General Mobile
 ! Description: For Browser of Mobile
 ! Expires: 4 days
-! ============> App
+! =======
 *appdownload
 *app-download
 *applaunch
@@ -20,6 +20,8 @@
 *mobad
 *mobilead
 *mobile_ad
+*.mdt.qq.com
+*.wxs.qq.com
 /300x100
 _wxAd_
 ! ============> CSS
@@ -66,6 +68,7 @@ ithome.com##a.brand-column-lapin
 163.com##.g-relative-new
 localxh.com##.wio-e,.wio-ecam-thumb
 youtube.com##ytm-reel-shelf-renderer
+youtube.com##ytm-merch-shelf-renderer
 youtube.com##ytm-promoted-sparkles-web-renderer
 youtube.com##ytm-promoted-sparkles-text-search-renderer
 youtube.com##ytm-item-section-renderer[data-content-type="related"]
