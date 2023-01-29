@@ -3,37 +3,20 @@
 ! Description: For Adguard Mobile
 ! Expires: 4 days
 ! ----- AD
-*doubleclick
-*googlead
-*google-ad
-*google-a-d
-*google_ad
-*googletag
-*syndication
-*pagead
-*partnerad
-*umeng
-*unionad
-*unityads
 *mobad
 *mobilead
-*promo
-*pangolin
 *firstpage
-*openadsdk
-*startapp
 *startpage
-*tuisong
-*game
+*startapp
+*openadsdk
+*promo
 *banner
+*game
 ! ----- privacy
-*facebook
 *firebase
 *analysis
 *analytic
-*affilia
 *audience
-*beacon
 *applog
 *counter
 *crash
@@ -44,12 +27,6 @@
 *trac.
 *trk.
 *clk.
-*metric
-*metrika
-*metrix
-*telemetry
-*webstat
-*zhanzhang
 ! -----> MIUI
 ||a.market.xiaomi.com
 ||experiment.xiaomi.com
