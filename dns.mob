@@ -12,7 +12,6 @@
 *syndication
 *pagead
 *partnerad
-*pangolin
 *umeng
 *unionad
 *unityads
@@ -62,7 +61,7 @@
 ||onewsimg.com
 ||lsttapppro.com
 ||lianwangtech.com
-! -----> Tencent
+! -----> 
 ||messpop.shenzhentong.com
 ||szt-obs-image.
 ||mdt.qq.com
@@ -74,21 +73,22 @@
 ||wxsnsad.tc.qq.com
 ||mj.weimob.net
 ||badjs.weixinbridge.com
-! --------
-||blackhole.m.jd.com
-||video.taobao.com
-||miniapp.taobao.com
-||acs.m.taobao.com
-||audid-api.taobao.com
 ||sofire.baidu.com
 ||tcbox.baidu.com
+||acs.m.taobao.com
+||audid-api.taobao.com
+||miniapp.taobao.com
+||video.taobao.com
+||blackhole.m.jd.com
+! --------
+||admob.
+||admobile.
+||domob.
+||poplayer.
 ||openstorage.cn
 ||voiceads.cn
 ||igexin.com
 ||iflyad.com
-||admobile.
-||poplayer.
-||domob.
 ||aiclk.com
 ||appjiagu.com
 ||appspot.com
