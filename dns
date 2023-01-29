@@ -14,6 +14,20 @@
 ||wosms.cn
 ||wostore.cn
 ! ------> AD
+*doubleclick
+*googlead
+*google-ad
+*google-a-d
+*google_ad
+*googletag
+*syndication
+*pagead
+*partnerad
+*pangolin
+*umeng
+*unionad
+*unityads
+*tuisong
 ||ad-*
 ||*-ad-*
 ||*-ad.*
@@ -67,12 +81,31 @@
 ||banner*
 ||jpush.
 ! -----> Privacy
+*facebook
+*addtoany
+*affiliat
+*audience
+*beacon
+*metric
+*metrika
+*metrix
+*telemetry
+*webstat
+*zhanzhang
+*googleanaly
+*google-analy
+*google_analy
+*google-tag
+*google_tag
+*googletrack
+*google-track
 ||analysis*
 ||*-analysis.
 ||analytic*
 ||*-analytics.
 ||affiliat*
 ||click*
+||cnzz.
 ||onclick*
 ||*crash
 ||count*
@@ -129,6 +162,7 @@
 ||dg.k.jd.com
 ||dgstatic.jd.com
 ! -----> ByteDance
+*.pglstatp.com
 ||pangolin*
 ||dm.toutiao.com
 ||dm.pstatp.com
@@ -136,6 +170,9 @@
 ||pglstatp-toutiao.com
 ||extlog.snssdk.com
 ! -----> Baidu
+*clk.baidu.com
+*click.baidu.com
+*log.baidu.com
 ||ada.baidu.com
 ||afd.baidu.com
 ||als.baidu.com
@@ -170,9 +207,9 @@
 ||lupic.cdn.bcebos.com
 ||rmblive.cdn.bcebos.com
 ||staticsns.cdn.bcebos.com
+||ns-strategy.cdn.bcebos.com
 ||baikevideo.cdn.bcebos.com
 ||tieba-ares.cdn.bcebos.com
-||ns-strategy.cdn.bcebos.com
 ||ae.bdstatic.com^
 ||fex.bdstatic.com^
 ||nspt.bdstatic.com^
@@ -183,6 +220,10 @@
 ||dup.baidustatic.com
 ||ubmcmm.baidustatic.com
 ! -----> Tencent
+*gdt.qq.com
+*gdtimg.com
+*aegis.qq.com
+*trace.qq.com
 ||pgdt.
 ||l.qq.com
 ||e.qq.com
@@ -198,6 +239,7 @@
 ||qzs.qq.com
 ||rh.qq.com
 ! -----> Ali
+*cnzz.com
 ||baichuan-sdk.
 ||nbsdk-baichuan.
 ||a.alimama.cn
