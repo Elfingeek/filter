@@ -1,6 +1,6 @@
 [AdBlock]
 ! Title: DNS Mobile
-! Description: For Adguard Mobile
+! Description: For Adguard DNS Filter
 ! Expires: 4 days
 ! ----- AD
 *mobad
@@ -10,27 +10,21 @@
 *startapp
 *openadsdk
 *promo
-*banner
 *game
 ! ----- privacy
 *firebase
-*analysis
-*analytic
+*alysis
+*alytic
 *audience
 *applog
-*counter
-*crash
-*monitor
-*report
-*tracking
-*trace
-*trac.
-*trk.
-*clk.
+*beacon
+*metric
+*metrika
+*metrix
+*telemetry
 ! -----> MIUI
 ||a.market.xiaomi.com
 ||experiment.xiaomi.com
-||wtradv.market.xiaomi.com
 ! -----> wifi key
 ||d.wifi188.com
 ||im-gb.com
@@ -47,7 +41,6 @@
 ||android.rqd.qq.com
 ||wxsnsdy.video.qq.com
 ||wxsnsdy.tc.qq.com
-||wxsnsad.tc.qq.com
 ||mj.weimob.net
 ||badjs.weixinbridge.com
 ||sofire.baidu.com
@@ -58,15 +51,13 @@
 ||video.taobao.com
 ||blackhole.m.jd.com
 ! --------
-||admob.
-||admobile.
-||domob.
+||admob*
+||domob*
+||inmobi*
 ||poplayer.
 ||openstorage.cn
 ||voiceads.cn
 ||igexin.com
-||iflyad.com
-||aiclk.com
 ||appjiagu.com
 ||appspot.com
 ||appsflyer.com
