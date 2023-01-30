@@ -5,7 +5,7 @@
 ! ----> ISP
 *.189.cn
 *.21cn.com
-*.id6.me
+*id6.me
 *.10086.cn
 *.cmpassport.com
 *.10010.com
@@ -27,6 +27,7 @@
 *fuckAdblock
 *fuck-debugger
 /bkclick?
+/cpro/ui/*
 /gamecent
 /game_pop
 /game_swap
@@ -43,17 +44,14 @@
 ||ad.
 ||advert*
 *x.jd.com
-*doubleclick
 *googlead
 *google-ad
 *google-a-d
 *google_ad
 *googletag
-*syndication
+*google-tag
+*google_tag
 *pagead
-*partnerad
-*pangolin
-*umeng
 *unionad
 *unityads
 *tuisong
@@ -121,6 +119,7 @@
 *adserv.
 -adserv*
 .adserv*
+/adserv*
 *advertis
 *advert.
 -advert
@@ -129,9 +128,9 @@
 _advert*
 =advert*
 .adsdk*
-.adsrvr-ad.
--ad?
+-ad.
 -ad_
+-ad?
 /ad-
 /ad.
 /ad/*
@@ -424,6 +423,7 @@ _gads_
 /img/ad*
 /img_ad*
 /imgad*
+/simgad/*
 /inlineAds
 /inner-ad*
 /innerads
@@ -473,6 +473,7 @@ _gg.
 /tan1.
 /tanad.
 /tc/*
+/hm.
 /pixel
 /banner_
 /banner.
@@ -483,8 +484,8 @@ _gg.
 /wppas
 /youradhere
 /js/popper.
-/push
-.push.
+/push-
+/push.js
 /share.js
 /share/share_
 /share-button
@@ -492,16 +493,15 @@ _gg.
 ! ----- privacy
 .gif?
 -cnzz/*
-*clk.com
+*cnzz.com
+*gdt.qq.com
+*gdtimg.com
+*aegis.qq.com
 *counter.com
 *analyze.org
 *analysis.com
 *analytics.com
-*optimizely.com
-*quantserve.com
-*static.getclicky.com
-*scorecardresearch.com
-*yandex.ru
+*clk.com
 *trk.com
 *trk.net
 *track.com
@@ -512,8 +512,11 @@ _gg.
 *stats.net
 *stats.com
 *histats.com
-*facebook
-*addtoany
+*googleanaly
+*google-analy
+*google_analy
+*googletrack
+*google-track
 *affiliat
 *audience
 *beacon
