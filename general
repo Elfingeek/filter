@@ -497,6 +497,8 @@ _gg.
 *gdt.qq.com
 *gdtimg.com
 *aegis.qq.com
+*tj.baidu.com
+*log.baidu.com
 *counter.com
 *analyze.org
 *analysis.com
@@ -517,6 +519,7 @@ _gg.
 *google_analy
 *googletrack
 *google-track
+*addtoany
 *affiliat
 *audience
 *beacon
@@ -548,7 +551,7 @@ _gg.
 /ga_
 /ga/*
 /ga?
-/gaaddons
+/gaad*
 /gajs*
 /ganaly*
 /gaclick*
