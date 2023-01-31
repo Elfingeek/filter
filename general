@@ -14,8 +14,6 @@
 *.wostore.cn
 ! ----> 
 ||static.*.gif
-||static.iapkk.com
-||statics.woozooo.com/img/
 ||baike.baidu.com/api/second
 ||zhihu.com/*/linkcard
 ||zhihu.com/*/link_card
@@ -39,7 +37,6 @@
 /wikiad/*
 /area_accessible
 /cookieBanner
-/js.cookie
 ! ---- AD
 ||ad.
 ||advert*
@@ -280,8 +277,7 @@ _ads_
 /adfe*
 /adfi*
 /adfl*
-/adfor*
-/adfox*
+/adfo*
 /adfr*
 /adfu*
 /adge*
@@ -319,7 +315,6 @@ _ads_
 /adra*
 /adre*
 /adro*
-/adru*
 /adsa*
 /adsb*
 /adsc*
@@ -473,7 +468,6 @@ _gg.
 /tan1.
 /tanad.
 /tc/*
-/hm.
 /pixel
 /banner_
 /banner.
@@ -483,13 +477,17 @@ _gg.
 /promo-banner
 /wppas
 /youradhere
-/js/popper.
+/bd.js
+/hm.js
 /push-
 /push.js
 /share.js
+/sharejs
 /share/share_
 /share-button
 /share_view.
+/js/inject
+/js/popper.
 ! ----- privacy
 .gif?
 -cnzz/*
