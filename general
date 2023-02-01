@@ -99,6 +99,7 @@ _googlead*
 *popunder
 *popup-ad
 *popupad
+*prebid
 *pushad
 *randomad
 *revealad
@@ -406,7 +407,6 @@ _googlead*
 /partnerad
 /phpads
 /pixel
-/prebid*
 /productAd
 /promo-banner
 /promoAd
