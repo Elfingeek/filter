@@ -46,8 +46,6 @@
 *promo
 *game
 ! ----- privacy
-*firebase
-*facebook
 *affiliat
 *alysis
 *alytic
@@ -56,6 +54,7 @@
 *beacon
 *click
 *crash
+*collect
 *counter
 *event
 *metric
@@ -99,13 +98,13 @@
 ||messpop.shenzhentong.com
 ||szt-obs-image.
 ||mdt.qq.com
-||wxs.qq.com
 ||tdid.m.qq.com
 ||android.rqd.qq.com
-||wxsnsdy.video.qq.com
+||wxs.qq.com
 ||wxsnsdy.tc.qq.com
-||mj.weimob.net
+||wxsnsdy.video.qq.com
 ||badjs.weixinbridge.com
+||mj.weimob.net
 ||sofire.baidu.com
 ||tcbox.baidu.com
 ||acs.m.taobao.com
@@ -114,12 +113,12 @@
 ||video.taobao.com
 ||blackhole.m.jd.com
 ! --------
-||admob*
-||domob*
-||inmobi*
+||admob*.
+||domob*.
+||inmobi*.
+||iflyad.
+||voiceads.
 ||poplayer.
-||openstorage.cn
-||voiceads.cn
 ||igexin.com
 ||appjiagu.com
 ||appspot.com
