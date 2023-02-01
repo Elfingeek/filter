@@ -3,13 +3,24 @@
 ! Description: For Adguard DNS Filter
 ! Expires: 4 days
 ! ----- AD
-*adv.
 *adserv
-*-advert*
+*-advert
+*dadvert
+*eadvert
+*ladvert
+*madvert
+*nadvert
+*oadvert
+*padvert
+*sadvert
+*tadvert
+*yadvert
 *-ad-
 *-ad.
+*-ads-
 *-ads.
 *-adx.
+*adv.
 *bad.
 *dad.
 *gad.
@@ -24,6 +35,8 @@
 *bads.
 *dads.
 *gads.
+*jads.
+*lads.
 *mads.
 *nads.
 *pads.
@@ -33,7 +46,6 @@
 *wads.
 *xads.
 *yads.
-*adash
 *umeng
 *pangolin
 *banner
@@ -42,7 +54,7 @@
 *firstpage
 *startpage
 *startapp
-*openadsdk
+*openads
 *promo
 *game
 ! ----- privacy
@@ -76,6 +88,10 @@
 *clog.
 *elog.
 *tlog.
+*alogs.
+*elogs.
+*plogs.
+*slogs.
 *stat.
 *stats.
 *track.
