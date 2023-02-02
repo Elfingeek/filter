@@ -11,7 +11,6 @@
 *openapp
 *open-app
 *open-newsapp
-*applog
 /invoke/app*
 /invokeBaidu*
 /AppMeasurement*
@@ -21,12 +20,18 @@
 *mobad
 *mobilead
 *mobile_ad
-*.mdt.qq.com
+*mdt.qq.com
 *.wxs.qq.com
-_wxAd_
+*_wxAd_
+||oia.zhihu.com^
+||ithome.com/api/news/newsgradeget
+||ithome.com/api/news/newspromoget
 /300x100
-/pagead
+/getmobads*
+/nativeshare.
+/lottie.min.js
 /qrcode.min.js
+/share-sdk.min.js
 ! ============> CSS
 ##[class*="_ad_"i]
 ##[class*="m-app-"i]
@@ -71,8 +76,12 @@ ithome.com##a.brand-column-lapin
 163.com##.hotRank
 163.com##.g-relative-new
 localxh.com##.wio-e,.wio-ecam-thumb
+apkpure.com##.aegon-down-item
+youtube.com##ytm-fact-check-renderer
 youtube.com##ytm-reel-shelf-renderer
 youtube.com##ytm-merch-shelf-renderer
+youtube.com##ytm-clarification-renderer
+youtube.com##ytm-statement-banner-renderer
 youtube.com##ytm-promoted-sparkles-web-renderer
 youtube.com##ytm-promoted-sparkles-text-search-renderer
 youtube.com##ytm-item-section-renderer[data-content-type="related"]
