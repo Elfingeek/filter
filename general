@@ -14,7 +14,6 @@
 *.wostore.cn
 ! ----> 
 ||static.*.gif
-||statics.woozooo.com/img/
 ||baike.baidu.com/api/second
 ||zhihu.com/*/linkcard
 ||zhihu.com/*/link_card
@@ -42,17 +41,15 @@
 ! ---- AD
 ||ad.
 ||advert*.
-/googlead*
-/google-ad*
-/google-a-d*
-/google_ad*
+*googlead
+*google-ad*
+*google_ad*
 /googleafc
 /google_afc
 /google_afs
+/google-dfp
+/googledfp
 /googlelead*
--google-ad*
-_google_ad*
-_googlead*
 *unionad
 *unityads
 *tuisong
@@ -71,9 +68,6 @@ _googlead*
 *boxad*
 *buttonAd
 *click_ad
-*contentAd
-*custom_ad
-*customad
 *displayad
 *feedAd
 *flyad
@@ -305,7 +299,6 @@ _googlead*
 /adti*
 /adto*
 /adtr*
-/adtext*
 /adtype*
 /adunit*
 /adurl*
@@ -325,6 +318,7 @@ _googlead*
 /adyard*
 /adz/*
 /adzone*
+/arcads.
 /badjs*
 /banner.
 /banner468
@@ -332,6 +326,7 @@ _googlead*
 /banner-
 /banner_
 /banners_
+/bgads.
 /bigad
 /blogad
 /carbonads
@@ -348,7 +343,6 @@ _googlead*
 /cyad1.
 /dartad*
 /dclk_ads
-/dfp
 /displayad*
 /dynamicad
 /easyads
@@ -523,7 +517,6 @@ _advert*
 *tracking.net
 *stats.net
 *stats.com
-*histats.com
 *addtoany
 *affiliat
 *audience
@@ -542,7 +535,6 @@ _advert*
 *webstat
 *geoip
 *geoloc
-*get_geoip
 *get_tracking
 *tracking.js
 *tracking.min.js
@@ -650,7 +642,6 @@ _advert*
 /log_r*
 /log_s*
 /log_t*
-/logad*
 /loganaly*
 /logclick*
 /logcolletct*
