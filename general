@@ -25,7 +25,6 @@
 *blockAdblock
 *fuckAdblock
 *fuck-debugger
-/bkclick?
 /cpro/ui/*
 /gamecent
 /game_pop
@@ -41,6 +40,7 @@
 ! ---- AD
 ||ad.
 ||advert*.
+*doubleclick
 *googlead
 *google-ad*
 *google_ad*
@@ -575,6 +575,7 @@ _advert*
 /cdn-cgi/ping?
 /cdn-cgi/rum?
 /cgi-bin/count
+/clipboard.min.js
 /clicktrack*
 /cls_report?
 /cls_rpt.
@@ -647,6 +648,7 @@ _advert*
 /logcolletct*
 /logcount*
 /logevent*
+/logger.js
 /logger/*
 /logging/*
 /logpage*
@@ -675,6 +677,7 @@ _advert*
 /pv_count
 /pvcount
 /quantcast*
+/sensorsdata
 /sdc1.js
 /sdc2.js
 /sdc3.js
@@ -702,10 +705,12 @@ _advert*
 /trackad.
 /trackclick*
 /trackevent*
+/tracker.js
 /tracking*
-/trackjs.
+/trackjs
 /trackpush
 /trackstats*
+/trk
 /usertrack*
 /webReport
 /weblog.
@@ -716,6 +721,7 @@ _advert*
 /zanox.js
 _ga_track
 _gatrack
+_tracker.js
 ! -----
 *bdshare
 *bd-share
@@ -731,12 +737,15 @@ _gatrack
 /rodo
 /rssfeed*
 /rssicon*
-/share-button
 /share.js
-/share/share_
-/share_view.
-/shareCount*
 /sharejs
+/share-button
+/share_api.js
+/share_view.
+/sharecount*
+/share-sdk.min.js
+/share/share_
+/nativeshare.min.js
 -shares.js
 -gdpr
 .gdpr
