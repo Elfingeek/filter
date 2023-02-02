@@ -46,6 +46,8 @@
 *wads.
 *xads.
 *yads.
+*adash
+*baichuan
 *umeng
 *pangolin
 *banner
@@ -69,6 +71,7 @@
 *collect
 *counter
 *event
+*firebase
 *metric
 *metrika
 *metrix
@@ -123,15 +126,17 @@
 ||mj.weimob.net
 ||sofire.baidu.com
 ||tcbox.baidu.com
+||ai.taobao.com^
 ||acs.m.taobao.com
 ||audid-api.taobao.com
-||miniapp.taobao.com
 ||video.taobao.com
+||amdcopen.m.taobao.com^
 ||blackhole.m.jd.com
 ! --------
 ||admob*.
 ||domob*.
 ||inmobi*.
+||kakamobi.
 ||iflyad.
 ||voiceads.
 ||poplayer.
@@ -141,3 +146,5 @@
 ||appsflyer.com
 ||tianmu.mobi
 ||kaijia.com
+||mydas.mobi
+||appads.com
