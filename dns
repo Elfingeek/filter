@@ -33,7 +33,6 @@
 ||adcl*.
 ||adco*.
 ||add*.
-||adebis*.
 ||adex*.
 ||adfi*.
 ||adfl*.
@@ -266,6 +265,8 @@
 ||tieba-ares.cdn.bcebos.com
 ! -----> Tencent
 ||pgdt.
+||gdtimg.com
+||gdt.qq.com
 ||aegis.qq.com
 ||bugly.qq.com
 ||cfg.imtt.qq.com
@@ -275,6 +276,7 @@
 ||qzs.qq.com
 ||rh.qq.com
 ||sngmta.qq.com
+||tc.qq.com
 ||ysdk.qq.com
 ! -----> Ali
 ||alimama.
@@ -288,6 +290,7 @@
 ||nex.163.com
 ||rlogs.youdao.com
 ||gorgon.youdao.com
+||nos-jd.163yun.com
 ||onegoods.nosdn.127.net
 ||ip.ws.126.net
 ! ------
