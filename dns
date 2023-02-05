@@ -3,6 +3,7 @@
 ! Description: For browser of PC & Mobile
 ! Expires: 4 days
 ! ===========> DNS & URL
+@@||gm.mmstat.com
 ! ------> ISP
 ||id6.me
 ||10086.cn
@@ -119,6 +120,7 @@
 ||pagead.
 ||pagead2.
 ||partnerad.
+||union.
 ||zhanzhang.
 ! -----> Privacy
 ||analysis*.
@@ -202,6 +204,7 @@
 ||webstat*.
 ||xlog.
 ! -----> JD
+||cm.jd.com
 ||janapi.jd.com
 ||kepler.jd.com
 ||knicks.jd.com
@@ -276,14 +279,12 @@
 ||qzs.qq.com
 ||rh.qq.com
 ||sngmta.qq.com
-||tc.qq.com
 ||ysdk.qq.com
 ! -----> Ali
 ||alimama.
 ||baichuan-sdk.
 ||nbsdk-baichuan.
 ||atanx.alicdn.com
-||tanx.com
 ! -----> Netease
 ||g.163.com
 ||g1.163.com
@@ -307,6 +308,8 @@
 ||gepush.com
 ||getui.com
 ||getui.net
+||gshtrl.top
+||iclickcdn.com
 ||iresearch*.
 ||irs01.com
 ||irs03.com
@@ -331,6 +334,9 @@
 ||qchannel01.cn
 ||qchannel03.cn
 ||qchannel04.cn
+||qatp1.net
+||qcpp1.net
+||qpdp1.net
 ||qtmojo.com
 ||quantserve.com
 ||rudderaxis.com
@@ -338,9 +344,11 @@
 ||smartadserver.com
 ||statics.woozooo.com
 ||umsns.com
-||union.360.cn
-||vchangyi.com^
-||weisheng.com^
+||vamaker.com
+||vchangyi.com
+||wegowan.com
+||weisheng.com
+||wrating.com
 ||wwads.cn
 ||xcads.cn
 ||yandex.ru
