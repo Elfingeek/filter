@@ -20,6 +20,7 @@
 ||zhihu.com/*/GoodsRecommend
 ||zhihu.com/heifetz/ECommerceAd
 ||aliyuncs.com/mnpc-um.
+||tanx.com
 *-x.jd.com
 *antiAdblock
 *blockAdblock
@@ -531,10 +532,7 @@ _advert*
 *metrika
 *metrix
 *telemetry
-*tongji
 *webstat
-*geoip
-*geoloc
 *get_tracking
 *tracking.js
 *tracking.min.js
@@ -575,7 +573,6 @@ _advert*
 /cdn-cgi/ping?
 /cdn-cgi/rum?
 /cgi-bin/count
-/clipboard.min.js
 /clicktrack*
 /cls_report?
 /cls_rpt.
@@ -624,7 +621,12 @@ _advert*
 /gastat*
 /gatrack*
 /gemius.
-/getLoc*
+/geoip?
+/geoip_
+/geoipAPI.js
+/geo-ip-detect
+/geo-location
+/geolocation
 /gpt.
 /gtag.
 /gtm.
@@ -698,6 +700,7 @@ _advert*
 /tealeaf
 /tealium
 /tj.js
+/tongji.js
 /track*/event
 /track.asp*
 /track.php?
