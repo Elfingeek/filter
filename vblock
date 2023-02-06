@@ -7,9 +7,9 @@ domain:wo.cn,
 domain:wosms.cn,
 domain:wostore.cn,
 domain:cmpassport.com,
-regexp:^ad(s|v)?(\.|\-)
-regexp:^ad(s|v)?\d
-regexp:\.ad(s|v)?\d
+regexp:^ad[sv]?[.-].*,
+regexp:^ad[sv]?\d+.*,
+regexp:\w+\.ad[sv]?\d+.*,
 cnzz.com,
 gdt.qq.com,
 gdtimg.com,
