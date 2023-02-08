@@ -3,11 +3,11 @@
 ! Description: For browser of PC & Mobile
 ! Expires: 4 days
 ! ----> ISP
-*.189.cn
-*.21cn.com
-*id6.me
+*=id6.me
 *.10086.cn
 *.cmpassport.com
+*.189.cn
+*.21cn.com
 *.10010.com
 *.wo.cn
 *.wosms.cn
@@ -675,6 +675,7 @@ _advert*
 /piwik
 /ptracking
 /pv.php?
+/pv.js
 /pv?u=
 /pv_count
 /pvcount
@@ -715,6 +716,9 @@ _advert*
 /trackstats*
 /trk
 /usertrack*
+/vs.php?
+/vs/track.
+/vs_track.
 /webReport
 /weblog.
 /wxhawkeye.js
