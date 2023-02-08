@@ -12,12 +12,10 @@
 *xads.com
 *yads.com
 ||snssdk.com
-||bdstatic.com
 ||baidustatic.com
 ||pstatp.com
 ||meituan.net
 ||meituan.com
-||imgdb.cn
 /ad_
 -ad-
 _ad_
@@ -45,7 +43,6 @@ _ad_
 /*stat/*
 /acecounter
 /amplitude-
-/analysis
 /analytics-
 /analytics.
 /analytics/*
@@ -85,7 +82,6 @@ _ad_
 /ping?
 /px.js
 /qlitics.js
-/report/*
 /rtoaster.js
 /stats.php?
 /stats/*
