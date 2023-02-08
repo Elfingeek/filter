@@ -21,6 +21,11 @@
 /sidebar.php?
 *sidebar$image
 ! ==============> CSS
+dianyi.ng##.tips-box
+waipian20.com###player_pic
+bilibili.com###live_recommand_report
+top.zhan.com##.model_mask
+dmdy5.vip##.is_pc,.is_pc_flex
 jd.com##[ware-type="0"]
 jd.com##.m-aside,.aside
 jd.com##.may-like
@@ -44,10 +49,8 @@ baike.baidu.com##.tashuo-bottom
 map.baidu.com##.cityData
 map.baidu.com###message-center
 map.baidu.com##[id*="leadDownloadCard"i],[class*="leadDownloadCard"i]
-dianyi.ng##.tips-box
-waipian20.com###player_pic
-bilibili.com###live_recommand_report
 youtube.com###secondary
+youtube.com##ytd-fact-check-renderer
 youtube.com##ytd-reel-shelf-renderer
 youtube.com##ytd-merch-shelf-renderer
 youtube.com##ytd-clarification-renderer
