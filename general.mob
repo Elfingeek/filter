@@ -38,11 +38,13 @@
 ||bkssl.bdimg.com/static/wiki-m-lemma/widget/beforeContent-n/relationGraph
 ||bkssl.bdimg.com/static/wiki-m-lemma/widget/beforeContent-n/lemmaVideo
 ||bkssl.bdimg.com/static/wiki-m-lemma/video/
+||tieba.baidu.com/mo/q/recommend
 /300x100
 /getmobads*
 /netlittie
 /lottie.min.js
 /qrcode.min.js
+/swaninoke.js
 ! ============> CSS
 ##[class*="_ad_"i]
 ##[class*="m-app-"i]
@@ -79,10 +81,12 @@
 coolapk.com##.under
 ithome.com##.grade
 ithome.com##.hot-app
+smzdm.com##.module-waper
 baike.baidu.com##.BK-body-header-wrapper
 baike.baidu.com##.BK-after-content-wrapper
 baike.baidu.com##.floatTashuo-list-wrapper
 baike.baidu.com##.full-screen-second_prestrain
+baike.baidu.com##.news-container
 baike.baidu.com##.tashuo-inContent
 apkpure.com##.aegon-down-item
 youtube.com##ytm-fact-check-renderer
