@@ -20,7 +20,6 @@
 ||zhihu.com/*/GoodsRecommend
 ||zhihu.com/heifetz/ECommerceAd
 ||aliyuncs.com/mnpc-um.
-||tanx.com
 *-x.jd.com
 *antiAdblock
 *blockAdblock
@@ -488,10 +487,6 @@ _adv.
 _adv/*
 _adv_
 _advert*
-&ad_
-&adserv*
-&adstype*
-&adtype*
 ?ad=
 ?adsid=
 ?adv=
@@ -555,7 +550,6 @@ _advert*
 /alog/*
 /analTrack*
 /analyticstrack*
-/analyze.js
 /angular-tag
 /angularytics
 /antanalysis
@@ -602,8 +596,7 @@ _advert*
 /events/track*
 /eventtrack*
 /exoclick
-/fbevents*
-/fingerprint*
+/fbevent*
 /fp/tags.
 /fprnt.
 /ga-
@@ -744,16 +737,9 @@ _tracker.js
 /rodo
 /rssfeed*
 /rssicon*
-/share.js
-/sharejs
 /share-button
-/share_api.js
 /share_view.
 /sharecount*
-/share-sdk.min.js
-/share/share_
-/nativeshare.min.js
--shares.js
 -gdpr
 .gdpr
 /gdpr
