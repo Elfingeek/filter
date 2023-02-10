@@ -78,10 +78,11 @@
 ##[class*="bdshare"i]
 ##[id*="bd-share"i]
 ##[class*="bd-share"i]
+##[class*="footer-banner"i]
 coolapk.com##.under
 ithome.com##.grade
 ithome.com##.hot-app
-smzdm.com##.module-waper
+smzdm.com##.module-waper, .crumbs
 baike.baidu.com##.BK-body-header-wrapper
 baike.baidu.com##.BK-after-content-wrapper
 baike.baidu.com##.floatTashuo-list-wrapper
