@@ -3,19 +3,13 @@
 ! Description: For browser of PC & Mobile
 ! Expires: 4 days
 ! -----------
-*tad.com
-*eads.com
-*nads.com
-*pads.com
-*rads.com
-*tads.com
-*xads.com
-*yads.com
-||snssdk.com
 ||baidustatic.com
-||pstatp.com
 ||meituan.net
 ||meituan.com
+||hualigs.cn
+||i.v2ex.co
+||zhihu.com/collector/
+||zhihu.com/zbst/events/
 /ad_
 -ad-
 _ad_
@@ -30,6 +24,14 @@ _ad_
 /feedback?
 /wp-content/plugins/*banner
 /wp-content/plugins/*popup
+*tad.com
+*eads.com
+*nads.com
+*pads.com
+*rads.com
+*tads.com
+*xads.com
+*yads.com
 ! --------- privacy
 ?google_gid=
 &google_gid=
@@ -40,6 +42,7 @@ _ad_
 -log.
 -stats.js
 -tracking
+/stats.
 /*stat/*
 /acecounter
 /amplitude-
@@ -54,6 +57,7 @@ _ad_
 /clicklog
 /clicktale
 /clicktrack
+/code.js
 /count?
 /counter.
 /counter?
@@ -83,6 +87,7 @@ _ad_
 /px.js
 /qlitics.js
 /rtoaster.js
+/sensors.js
 /stats.php?
 /stats/*
 /stats?
@@ -99,6 +104,5 @@ _counter.
 _counter?
 _log.
 _log?
-_report_
 _stats.js
 _tracking
