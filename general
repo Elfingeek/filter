@@ -492,7 +492,7 @@ _advert*
 ?adv=
 ! ----- privacy
 .gif?
-*-cnzz/
+*cnzz.net
 *cnzz.com
 *gdt.qq.com
 *gdtimg.com
@@ -513,22 +513,11 @@ _advert*
 *tracking.net
 *stats.net
 *stats.com
-*addtoany
 *affiliat
 *audience
-*beacon
-*chartbeat
-*eventtrack
-*event-track
-*pagetrack
-*impression
-*newrelic
 *metric
 *metrika
 *metrix
-*telemetry
-*webstat
-*get_tracking
 *tracking.js
 *tracking.min.js
 *googleanaly
@@ -542,6 +531,9 @@ _advert*
 -ga-track
 -gatrack
 .gatrack*
+-beacon
+/beacon
+_beacon
 /accessLog?
 /acclog.
 /adrs/*
@@ -567,6 +559,7 @@ _advert*
 /cdn-cgi/ping?
 /cdn-cgi/rum?
 /cgi-bin/count
+/chartbeat
 /clicktrack*
 /cls_report?
 /cls_rpt.
@@ -595,8 +588,12 @@ _advert*
 /eventlog.
 /events/track*
 /eventtrack*
+/event-track
 /exoclick
 /fbevent*
+/fingerprint.
+/fingerprint2.
+/fingerprint3.
 /fp/tags.
 /fprnt.
 /ga-
@@ -628,6 +625,9 @@ _advert*
 /hitlog*
 /hits
 /hittrack*
+/impression
+/imp.
+/imp?
 /linktrack*
 /log/*
 /log_a*
@@ -654,6 +654,7 @@ _advert*
 /mpss/o/*
 /mtracks
 /nettrack
+/newrelic
 /nielsen*
 /ntpagetag
 /omniture*
@@ -662,6 +663,7 @@ _advert*
 /pagecount*
 /pageevent*
 /pagelog*
+/pagetrack
 /pageview*
 /pb_track
 /php-stats.
@@ -693,6 +695,7 @@ _advert*
 /statstrack*
 /tealeaf
 /tealium
+/telemetry
 /tj.js
 /tongji.js
 /track*/event
@@ -714,6 +717,7 @@ _advert*
 /vs_track.
 /webReport
 /weblog.
+/webstat
 /wxhawkeye.js
 /xgemius.js
 /xtcore-
