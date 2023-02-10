@@ -120,7 +120,6 @@
 ||pagead.
 ||pagead2.
 ||partnerad.
-||union.
 ||zhanzhang.
 ! -----> Privacy
 ||analysis*.
@@ -212,6 +211,7 @@
 ||dgstatic.jd.com
 ||diviner.jd.com^
 ||mercury.jd.com^
+||dd-static.jd.com
 ! -----> ByteDance
 ||pangolin*.
 ||pglstatp*.
@@ -355,6 +355,7 @@
 ||scorecardresearch.com
 ||smartadserver.com
 ||statics.woozooo.com
+||stgowan.com
 ||tagmanager.cn
 ||umsns.com
 ||vamaker.com
