@@ -3,6 +3,7 @@
 ! Description: For browser of PC & Mobile
 ! Expires: 4 days
 ! -----------
+||oss-*.aliyuncs.com^
 ||baidustatic.com
 ||meituan.net
 ||meituan.com
@@ -58,6 +59,7 @@ _stats.js
 /event?
 /evercookie
 /hit.
+/hits
 /log-
 /log.
 /log?
