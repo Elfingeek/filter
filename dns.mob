@@ -1,26 +1,40 @@
 [AdBlock]
 ! Title: DNS Mobile
-! Description: For Adguard DNS Filter
+! Description: Only for Adguard DNS Filter
 ! Expires: 4 days
 ! ----- AD
-*adserv
-*-advert
-*dadvert
-*eadvert
-*ladvert
-*madvert
-*nadvert
-*oadvert
-*padvert
-*sadvert
-*tadvert
-*yadvert
+*bad.
+*dad.
+*gad.
+*mad.
+*nad.
+*pad.
+*rad.
+*sad.
+*tad.
+*xad.
+*yad.
+*bads.
+*dads.
+*gads.
+*jads.
+*lads.
+*mads.
+*nads.
+*pads.
+*rads.
+*sads.
+*tads.
+*wads.
+*xads.
+*yads.
 *-ad-
 *-ad.
 *-ads-
 *-ads.
 *-adx.
 *adv.
+*adserv
 *adash
 *baichuan
 *umeng
