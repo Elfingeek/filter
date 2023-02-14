@@ -3,6 +3,11 @@
 ! Description: Only for Adguard DNS Filter
 ! Expires: 4 days
 ! ----- AD
+||ad-*.
+||ads-*.
+||ads.
+||adv-*.
+||adv.
 *bad.
 *dad.
 *gad.
@@ -48,35 +53,22 @@
 *startpage
 *startapp
 *openads
+*pagead
 *promo
 *game
 ! ----- privacy
-*affiliat
-*alysis
-*alytic
-*audience
-*applog
-*beacon
-*crash
-*collect
-*counter
-*event
-*firebase
-*metric
-*metrika
-*metrix
-*monitor
-*telemetry
-*pixel
-*report
-*zhanzhang
-*syndication
-*sensor
-*logging
+||log-*.
+||log.
+||log1.
+||log2.
+||logs.
+||logapi.
+||logger.
 *-log-
 *-log.
 *-logs.
 *-looger
+*logging
 *alog.
 *clog.
 *elog.
@@ -85,12 +77,35 @@
 *elogs.
 *plogs.
 *slogs.
-*track.
 *tracking
+*track.
 *trace
 *trac.
 *trk.
 *clk.
+*affiliat
+*alysis
+*alytic
+*applog
+*audience
+*beacon
+*collect
+*counter
+*crash
+*event
+*firebase
+*metric
+*metrika
+*metrix
+*monitor
+*pixel
+*prebid
+*reklam
+*report
+*sensor
+*syndication
+*telemetry
+*zhanzhang
 ! -----> MIUI
 ||a.market.xiaomi.com
 ||experiment.xiaomi.com
@@ -123,7 +138,6 @@
 ||blackhole.m.jd.com
 ! --------
 ||admob*.
-||domob*.
 ||inmobi*.
 ||kakamobi.
 ||iflyad.
