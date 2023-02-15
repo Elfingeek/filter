@@ -1,6 +1,6 @@
 [AdBlock]
-! Title: General Mobile
-! Description: For Browser of Mobile
+! Title: ublock mobile
+! Description: For Mobile
 ! Expires: 4 days
 ! =======
 *appdownload
@@ -24,22 +24,11 @@
 *mdt.qq.com
 *.wxs.qq.com
 *_wxAd_
-||baike.baidu.com/wapui/loft/
-||baike.baidu.com/discussion/api/getloftmeta
-||baikebcs.bdimg.com
-||bkssl.bdimg.com/static/m-second/
-||bkssl.bdimg.com/static/wiki-m-lemma/pkg/tashuo
-||bkssl.bdimg.com/static/wiki-m-lemma/widget/tools/secondManager
-||bkssl.bdimg.com/static/wiki-m-lemma/widget/loft/
-||bkssl.bdimg.com/static/wiki-m-lemma/widget/beforeContent-n/tashuo
-||bkssl.bdimg.com/static/wiki-m-lemma/widget/beforeContent-n/business
-||bkssl.bdimg.com/static/wiki-m-lemma/widget/beforeContent-n/lemmaStarMap
-||bkssl.bdimg.com/static/wiki-m-lemma/widget/beforeContent-n/lemmaAudio
-||bkssl.bdimg.com/static/wiki-m-lemma/widget/beforeContent-n/relationGraph
-||bkssl.bdimg.com/static/wiki-m-lemma/widget/beforeContent-n/lemmaVideo
-||bkssl.bdimg.com/static/wiki-m-lemma/video/
-||tieba.baidu.com/mo/q/recommend
 /300x100
+/loft/*
+/lemmaAudio
+/lemmaVideo
+/lemmaStarMap
 /getmobads*
 /netlittie
 /lottie.min.js
