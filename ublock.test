@@ -1,6 +1,6 @@
 [AdBlock]
-! Title: General test
-! Description: For browser of PC & Mobile
+! Title: ublock test
+! Description: Experiment filter
 ! Expires: 4 days
 ! -----------
 ||baidustatic.com
@@ -11,8 +11,6 @@
 /ad_
 -ad-
 _ad_
-/delivery.
-/delivery/*
 /pop/*
 /related
 /recommend-
@@ -20,31 +18,41 @@ _ad_
 *promote_
 /js6promote*
 /feedback?
-/wp-content/plugins/*banner
-/wp-content/plugins/*popup
+/banner
+-banner
+_banner
+/popup
+-popup
+/cookie
+-cookie
+_cookie
 ! --------- privacy
-?google_gid=
-&google_gid=
+beacon
 -analytics.
 _analytics-
 -analytics/*
--counter.js
--log-
--log.
--tracking
-_tracking
-=log.
-_log.
-_log?
--stats.js
-_stats.js
-/stats.
-/*stat/*
 /analytics-
 /analytics.
 /analytics/*
 /analytics?
 /analytics_
+-log-
+-log.
+=log.
+_log.
+_log?
+/log-
+/log.
+/log?
+/log_
+/logger.
+/logger?
+-stats.js
+_stats.js
+/stats.
+/stats/*
+/stats?
+/*stat/*
 /cct?
 /click?
 /code.js
@@ -52,25 +60,13 @@ _stats.js
 /counter.
 /counter?
 /countly.
-/diffuser.js
-/dynatrace*
-/eulerian.js
-/event?
-/evercookie
+-counter.js
 /hit.
 /hits
-/log-
-/log.
-/log?
-/log_
-/logger.
-/logger?
-/matomo
 /ping.
 /ping/*
 /ping?
-/stats.php?
-/stats/*
-/stats?
 /tracker.
 /tracking
+-tracking
+_tracking
