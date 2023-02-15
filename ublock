@@ -1,16 +1,9 @@
 [AdBlock]
-! Title: General Filter
-! Description: For browser of PC & Mobile
+! Title: ublock
+! Description: For PC & Mobile
 ! Expires: 4 days
 ! ----> 
 ||static.*.gif
-||baike.baidu.com/api/second
-||zhihu.com/*/linkcard
-||zhihu.com/*/link_card
-||zhihu.com/*/GoodsRecommend
-||zhihu.com/heifetz/ECommerceAd
-||zhihu.com/collector/
-||zhihu.com/zbst/events/
 *antiAdblock
 *blockAdblock
 *fuckAdblock
@@ -20,13 +13,17 @@
 /game_swap
 /getrelatedbusiness*
 /gettashuolist*
+/second
 /tashuo*
 /lemmaRelation
+/GoodsRecommend
 /recommendation
+/ECommerceAd
+/linkcard
+/link_card
 /wikiad/*
 /area_accessible
 /cookieBanner
-/gen_204?
 ! ----> ISP
 ||id6.me
 ||10086.cn
@@ -633,6 +630,8 @@ _web_ad
 /xxgg/*
 /xads.
 /yads
+/delivery.
+/delivery/*
 ! -----> Privacy
 ||analysis*.
 ||analytic*.
@@ -649,10 +648,9 @@ _web_ad
 ||geoip*.
 ||geoloc*.
 ||geoservice*.
-||google-analytics.
-||googleanalytcs.com
+||google-analytics.com
+||googleanalytics.com
 ||googletagmanager.com
-||googletrackmanager.com
 ||gostats.
 ||gtrk.
 ||hit-*.
@@ -716,6 +714,7 @@ _web_ad
 *aegis.qq.com
 *tj.baidu.com
 *log.baidu.com
+*click.baidu.com
 *counter.com
 *analyze.org
 *analysis.com
@@ -775,14 +774,20 @@ _beacon
 /cdn-cgi/apps/body/*
 /cdn-cgi/apps/head/*
 /cdn-cgi/bm/cv/*
-/cdn-cgi/ping?
+/cdn-cgi/pe/bag2?
+/cdn-cgi/trace
 /cdn-cgi/rum?
 /cgi-bin/count
 /chartbeat
+/clickability
 /clickcount
+/clickheat
 /clicklog
 /clicktale
 /clicktrack
+/clickstat
+/click_stat
+/clickstream
 /cls_report?
 /cls_rpt.
 /collect/kf?
@@ -793,7 +798,6 @@ _beacon
 /collect/track
 /collect/view?
 /collect?
-/common-monitors.
 /comscore*
 /coordinate
 /count.js
@@ -802,6 +806,8 @@ _beacon
 /dcs_tag
 /dcstag
 /dfp
+/diffuser.js
+/eulerian.js
 /event-log
 /event-track*
 /event.js
@@ -810,6 +816,7 @@ _beacon
 /eventlog.
 /eventtrack*
 /events/track*
+/evercookie
 /exoclick
 /fbevent*
 /fingerprint.
@@ -832,6 +839,8 @@ _beacon
 /gastat*
 /gatrack*
 /gemius.
+/gen_204?
+/geo.
 /geoip?
 /geoip_
 /geoipAPI.js
@@ -894,7 +903,7 @@ _beacon
 /ptracking
 /pv.php?
 /pv.js
-/pv?u=
+/pv?
 /pv_count
 /pvcount
 /px.js
@@ -903,6 +912,7 @@ _beacon
 /rtoaster.js
 /sensors.js
 /sensorsdata
+/sdc.js
 /sdc1.js
 /sdc2.js
 /sdc3.js
@@ -1179,7 +1189,6 @@ _tracker.js
 ##[class^="gg_"i]
 ##[class*="-gg-"i]
 ##[class*="_gg_"i]
-! ---
 ##a[href*="/pop/"]
 ##[class*="popupad"i]
 ##[id*="promotion"]
@@ -1191,7 +1200,6 @@ _tracker.js
 ##[class*="interested"i]
 ##[class^="recommend"i]
 ##[class*="-recommend"i]
-! ---
 ##[id^="policy-"]
 ##[id^="cookie"i]
 ##[class^="cookie"i]
