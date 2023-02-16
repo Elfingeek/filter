@@ -23,6 +23,7 @@ zhihu.com##.Pc-word
 zhihu.com##.TitleImage
 smzdm.com##.insert-outer
 smzdm.com##.product-card
+bilibili.com##.pop-live-small-mode
 jd.com##[ware-type="0"]
 jd.com##.m-aside
 jd.com##.aside
