@@ -8,9 +8,6 @@
 *blockAdblock
 *fuckAdblock
 *fuck-debugger
-/gamecent
-/game_pop
-/game_swap
 /getrelated
 /gettashuolist
 /getstarmap
@@ -22,8 +19,6 @@
 /GoodsRecommend
 /recommendation
 /ECommerceAd
-/linkcard
-/link_card
 /area_accessible
 /cookieBanner
 ! ----> ISP
@@ -966,6 +961,7 @@ _beacon
 /xtcore-
 /xtcore.
 /zanox.js
+-web-analytics
 _ga_track
 _gatrack
 _tracker.js
@@ -975,8 +971,6 @@ _tracker.js
 /dsgvo*
 /outbrain*
 /rodo
-/rssfeed*
-/rssicon*
 /share-button
 /share_view.
 /sharecount*
@@ -1176,17 +1170,7 @@ _tracker.js
 ##[class^="adv"i]
 ##[id*="advert"i]
 ##[class*="advert"i]
-! ------ gg
-###gg
-##.gg
-##[id^="gg-"i]
-##[id^="gg_"i]
-##[id*="-gg-"i]
-##[id*="_gg_"i]
-##[class^="gg-"i]
-##[class^="gg_"i]
-##[class*="-gg-"i]
-##[class*="_gg_"i]
+! ------ 
 ##a[href*="/pop/"]
 ##[class*="popupad"i]
 ##[id*="promotion"]
@@ -1198,8 +1182,3 @@ _tracker.js
 ##[class*="interested"i]
 ##[class^="recommend"i]
 ##[class*="-recommend"i]
-##[id^="policy-"]
-##[id^="cookie"i]
-##[class^="cookie"i]
-##[id^="social"i]
-##[class^="social"i]
