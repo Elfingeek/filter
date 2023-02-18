@@ -5,7 +5,6 @@
 ! ----> ISP
 ||id6.me
 ||10086.cn
-||cmpassport.com
 ||189.cn
 ||21cn.com
 ||10010.com
@@ -217,6 +216,7 @@
 *applog
 *audience
 *beacon
+*click
 *counter
 *crash
 *event
@@ -229,12 +229,19 @@
 *prebid
 *reklam
 *report
+*sensordata
 *syndication
 *telemetry
+*tongji
 ! -----> MIUI
 ||a.market.xiaomi.com
 ||experiment.xiaomi.com
-! -----> 
+! -----> Apps
+||access.*pikpak
+||zhancrmerp.
+||gateway.zhan.com
+||ops-api.zhan.com
+||operation-cdn.zhan.com
 ||messpop.shenzhentong.com
 ||szt-obs-image.
 ||mdt.qq.com
@@ -256,7 +263,6 @@
 ||cpro.
 ||miao.baidu.com
 ||sofire.baidu.com
-||wappass.baidu.com
 ||ai.taobao.com^
 ||audid-api.taobao.com
 ||video.taobao.com
@@ -282,6 +288,7 @@
 ||admob*.
 ||inmobi*.
 ||kakamobi.
+||getui.
 ||iflyad.com
 ||voiceads.com
 ||poplayer.
