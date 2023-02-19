@@ -49,6 +49,7 @@ _ad_
 /production/*
 *promote_
 /js6promote*
+/js/inject
 /feedback?
 /banner
 -banner
@@ -59,7 +60,19 @@ _banner
 -cookie
 _cookie
 ! --------- privacy
+||location.
 *beacon
+*tongji
+*clk.com
+*trk.com
+*trk.net
+*track.com
+*track.net
+*tracks.com
+*tracking.com
+*tracking.net
+*stats.net
+*stats.com
 -analytics.
 _analytics-
 -analytics/*
