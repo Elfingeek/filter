@@ -69,6 +69,7 @@
 ||adim*.
 ||adinfo.
 ||adjoin*.
+||adjust.
 ||adk*.
 ||adl*.
 ||adm.
@@ -126,7 +127,6 @@
 ||adu*.
 ||adv-*.
 ||adv.
-||adven*.
 ||advers*.
 ||advert*.
 ||advi*.
@@ -475,6 +475,7 @@ _bannerad
 /pageear
 /pagepeel
 /peelad
+/piaofu
 /phpad
 /randomad
 /revealad
@@ -683,6 +684,7 @@ _web_ad
 ||stats2.
 ||strack*.
 ||telemetry*.
+||tongji.
 ||tj.
 ||tjlog.
 ||tr.
@@ -1069,6 +1071,7 @@ _tracker.js
 ||datayi.cn
 ||dlads.cn
 ||dmclick.cn
+||getui.
 ||gshtrl.top
 ||iclickcdn.com
 ||id1.cn
