@@ -13,6 +13,7 @@
 ||wostore.cn
 ! ----- AD
 /^ads?\d.*/
+/\w+\.ads?\d.*/
 ||ad-*.
 ||ad.
 ||ada*.
