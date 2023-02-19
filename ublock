@@ -564,8 +564,6 @@ _web_ad
 /interad
 /jads.
 /js/ad_
-/js/inject
-/js/popper.
 /js_ad*
 /jsad*
 /jsonad/*
@@ -709,16 +707,6 @@ _web_ad
 *analyze.org
 *analysis.com
 *analytics.com
-*clk.com
-*trk.com
-*trk.net
-*track.com
-*track.net
-*tracks.com
-*tracking.com
-*tracking.net
-*stats.net
-*stats.com
 *affiliat
 *audience
 *metric
