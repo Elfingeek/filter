@@ -350,6 +350,7 @@ _doubleclick
 /adv.
 /adv/*
 /adv_
+/adv?
 /advalue
 /adver*
 /adview*
@@ -408,9 +409,6 @@ _adv.
 _adv/*
 _adv_
 _advert*
-?ad=
-?adsid=
-?adv=
 *popAd
 *pop_ad
 *pop_under
@@ -546,6 +544,7 @@ _web_ad
 /getadvert*
 /getspons
 /gg.
+/gg/*
 /guangg
 /globalad
 /headerad
