@@ -15,7 +15,6 @@
 /^ads?\d.*/
 /\w+\.ads?\d.*/
 ||ad-*.
-||ad.
 ||ada*.
 ||adba*.
 ||adbi*.
