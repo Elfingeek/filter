@@ -22,10 +22,10 @@ _ad_
 ?ad_
 ?adunit*
 ?advert*
+gads/
 /pop/*
 /related
 /recommend-
-/production/*
 *promote_
 /js6promote*
 /push.js
@@ -39,6 +39,8 @@ _banner
 /cookie
 -cookie
 _cookie
+/sidebar
+/o.js
 ! --------- privacy
 ||location.
 *beacon
