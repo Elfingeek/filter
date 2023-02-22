@@ -3,6 +3,7 @@
 ! Description: For PC
 ! Expires: 4 days
 ! ==============> URL
+||bing.com/rewardsapp
 ||w3cschool.cn/attachments/image
 ||image.zhangxinxu.com/image/blog
 ||bcebos.com/jssdk/mapLogReport
@@ -11,8 +12,7 @@
 ||bdimg.com/static/wiki-common/pkg/components-videoPlayer
 ||bdimg.com/static/wiki-common/pkg/modules-second_
 ||bdimg.com/static/wiki-lemma/widget/feature/Audio/
-/PCBannert
-/sidebar.php?
+/PCBanner
 *sidebar$image
 ! ==============> CSS
 top.zhan.com##.model_mask
@@ -24,20 +24,22 @@ zhihu.com##.TitleImage
 smzdm.com##.insert-outer
 smzdm.com##.product-card
 bilibili.com##.pop-live-small-mode
-jd.com##[ware-type="0"]
-jd.com##.m-aside
 jd.com##.aside
+jd.com##.m-aside
 jd.com##.may-like
+jd.com##[ware-type="0"]
 1688.com##.od-pc-offer-top-sales
 1688.com,taobao.com##.baxia-dialog
-taobao.com##.item-ad,.grid-right
 taobao.com###mainsrp-p4pBottom
+taobao.com##.grid-right
 baike.baidu.com##.second-wrapper
 baike.baidu.com##.poster-middle
 baike.baidu.com##.tashuo-bottom
 map.baidu.com##.cityData
 map.baidu.com###message-center
 map.baidu.com##[id*="leadDownloadCard"i],[class*="leadDownloadCard"i]
+bing.com##[data-codexads]
+bing.com##.b_ansb.b_vidAns
 youtube.com###secondary
 youtube.com##ytd-fact-check-renderer
 youtube.com##ytd-reel-shelf-renderer
