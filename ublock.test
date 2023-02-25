@@ -1,6 +1,6 @@
 [AdBlock]
 ! Title: ublock test
-! Description: Experiment filter
+! Description: Enhanced filter
 ! Expires: 4 days
 ! -----------
 ||meituan.net
@@ -58,8 +58,6 @@ _ad_
 *promo_
 *promote_
 /banner
--banner
-_banner
 /pop/*
 /popup
 -popup
