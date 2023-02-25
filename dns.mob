@@ -219,6 +219,7 @@
 ||tr.
 ||tr1.
 ||trk.
+||ulog-*.
 ||weblog.
 ||webstat*.
 ||xlog.
@@ -258,6 +259,7 @@
 ||mdt.qq.com
 ||tdid.m.qq.com
 ||cpro.
+||hmma.baidu.com
 ||miao.baidu.com
 ||sofire.baidu.com
 ||ai.taobao.com^
@@ -279,14 +281,10 @@
 ! --------
 ||admob*.
 ||inmobi*.
-||kakamobi.
 ||appads.com
 ||appjiagu.com
 ||appspot.com
 ||appsflyer.com
-||tianmu.mobi
-||kaijia.com
-||mydas.mobi
 ||qchannel01.cn
 ||qchannel03.cn
 ||qchannel04.cn
