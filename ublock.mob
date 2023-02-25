@@ -1,12 +1,13 @@
 [AdBlock]
 ! Title: ublock mobile
-! Description: For Mobile
+! Description: For Mobile browser
 ! Expires: 4 days
 ! =======
 *appdownload
 *app-download
 *applaunch
 *applink.
+*firebase
 /jump-app
 /openapp
 /open-app.
@@ -21,11 +22,11 @@
 *mobad
 *mobilead
 *mobile_ad
-*mdt.qq.com
-*.wxs.qq.com
-*_wxAd_
-/300x100
+/300-
+/300x
 /loft/*
+/m-second
+/wiki-m-lemma/video
 /lemmagraph*
 /lemmaAudio*
 /lemmaVideo*
@@ -77,14 +78,14 @@ coolapk.com##.under
 ithome.com##.grade
 ithome.com##.hot-app
 smzdm.com##.module-waper, .crumbs
-baike.baidu.com##.BK-body-header-wrapper
-baike.baidu.com##.BK-after-content-wrapper
-baike.baidu.com##.full-screen-second_prestrain
-baike.baidu.com##.floatTashuo-list-wrapper
-baike.baidu.com##.tashuo-inContent
-baike.baidu.com##.tashuo-feed-wrap
-baike.baidu.com##.news-container
-baike.baidu.com##.graph-card
+baidu.com##.BK-body-header-wrapper
+baidu.com##.BK-after-content-wrapper
+baidu.com##.full-screen-second_prestrain
+baidu.com##.floatTashuo-list-wrapper
+baidu.com##.tashuo-inContent
+baidu.com##.tashuo-feed-wrap
+baidu.com##.news-container
+baidu.com##.graph-card
 apkpure.com##.aegon-down-item
 youtube.com##ytm-fact-check-renderer
 youtube.com##ytm-reel-shelf-renderer
