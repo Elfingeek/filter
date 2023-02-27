@@ -146,6 +146,7 @@
 ||onclick*.
 ||pagead.
 ||pagead2.
+||umeng*.
 ||zhanzhang.
 *guesslike
 *pop_ad
@@ -162,7 +163,6 @@
 *unionad
 *unityads
 *zanzhu
-*umeng
 *googlead
 *google-ad
 *google_ad
@@ -690,6 +690,7 @@ _web_ad
 ||trace.
 ||track.
 ||trk.
+||ulog-*.
 ||wbanaly*.
 ||weblog.
 ||webstat*.
