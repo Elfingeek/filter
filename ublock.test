@@ -60,7 +60,6 @@ _ad_
 /banner
 /pop/*
 /popup
--popup
 /related
 /recommend-
 /js6promote*
@@ -103,7 +102,12 @@ _stats.js
 /stats.
 /stats/*
 /stats?
-/*stat/*
+/stat/*
+/ajaxstat/*
+/newsstat/*
+/newstat/*
+/pagestat/*
+/xstat/*
 /cct?
 /click?
 /code.js
@@ -111,7 +115,6 @@ _stats.js
 /counter.
 /counter?
 /countly.
--counter.js
 /hit.
 /hits
 /ping.
