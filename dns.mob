@@ -25,7 +25,6 @@
 *advert
 *adash
 *baichuan
-*umeng
 *pangolin
 *banner
 *doubleclick
@@ -123,6 +122,7 @@
 ||onclick*.
 ||pagead.
 ||pagead2.
+||umeng*.
 ||zhanzhang.
 ! ----- privacy
 -log-
