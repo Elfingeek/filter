@@ -620,6 +620,11 @@ _web_ad
 /yads
 /delivery.
 /delivery/*
+/badjs
+/d3.js
+/i.js
+/o.js
+/pk1.js
 ! -----> Privacy
 ||analysis*.
 ||analytic*.
@@ -728,6 +733,7 @@ _beacon
 /akam/*
 /alog.
 /alog/*
+/ajax_ulog/?
 /analTrack*
 /analyticstrack*
 /angular-tag
@@ -789,6 +795,7 @@ _beacon
 /events/track*
 /evercookie
 /exoclick
+/fastclick.
 /fbevent*
 /fingerprint.
 /fingerprint2.
@@ -855,6 +862,7 @@ _beacon
 /logstat*
 /logview*
 /mistats/*
+/mlogs.
 /mpss/o/*
 /mtracks
 /nettrack
@@ -937,6 +945,7 @@ _beacon
 /xtcore-
 /xtcore.
 /zanox.js
+/zepto.
 -web-analytics
 _ga_track
 _gatrack
@@ -1017,6 +1026,8 @@ _tracker.js
 ||nspt.bdstatic.com
 ||su.bdstatic.com
 ||zz.bdstatic.com
+||vd3.bdstatic.com
+||vdse.bdstatic.com
 ! -----> Tencent
 *gdt.qq.com
 *gdtimg.com
@@ -1124,7 +1135,6 @@ _wxAd_
 ||wuepo.cn
 ||wwads.cn
 ||xcads.cn
-||yandex.ru
 ! =============> CSS
 ! ----- Ad
 ###ad
