@@ -22,7 +22,7 @@
 /GoodsRecommend
 /recommendation
 /ECommerceAd
-/area_accessible
+/linkcards
 /cookieBanner
 ! ----> ISP
 ||id6.me
@@ -1020,6 +1020,7 @@ _tracker.js
 ||ns-strategy.cdn.bcebos.com
 ||baikevideo.cdn.bcebos.com
 ||tieba-ares.cdn.bcebos.com
+||bj.bcebos.com^
 ||baidustatic.com
 ||ae.bdstatic.com
 ||fex.bdstatic.com
@@ -1063,8 +1064,6 @@ _wxAd_
 ||ip.ws.126.net
 ! ------
 ||access.*pikpak
-||bj.bcebos.com^
-||p.qpic.cn^
 ||fundingchoicesmessages.google.com^
 ||2mdn.net
 ||51.la
@@ -1105,6 +1104,7 @@ _wxAd_
 ||partwithner.com
 ||pool.ntp.org
 ||postut.cn
+||printsmull.com^
 ||privacy-center.
 ||privacy-policy.
 ||ptengine.cn
