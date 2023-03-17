@@ -6,10 +6,10 @@
 ||meituan.net
 ||meituan.com
 ||hualigs.cn
-##[id*="cookie"]
-##[id*="policy"]
-##[class*="cookie"]
-##[class*="policy"]
+*##[id*="cookie"]
+*##[id*="policy"]
+*##[class*="cookie"]
+*##[class*="policy"]
 ! ------ Ads
 /ad_
 -ad-
@@ -97,13 +97,10 @@ _stats.js
 /xstat/*
 /cct?
 /click?
-/code.js
 /count?
 /counter.
 /counter?
 /countly.
-/hit.
-/hits
 /ping.
 /ping/*
 /ping?
