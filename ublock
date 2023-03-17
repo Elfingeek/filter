@@ -8,9 +8,8 @@
 *blockAdblock
 *fuckAdblock
 *fuck-debugger
-*mobad
-*mobilead
-*mobile_ad
+/debugger.js
+/nocopy.js
 /getrelated
 /gettashuolist
 /getstarmap
@@ -624,6 +623,7 @@ _web_ad
 /d3.js
 /ft.js
 /i.js
+/l.js
 /o.js
 /t.js
 /pk1.js
@@ -701,7 +701,6 @@ _web_ad
 ||ulog-*.
 ||wbanaly*.
 ||weblog.
-||webstat*.
 ||xlog.
 .gif?
 /gif?
@@ -940,7 +939,6 @@ _beacon
 /vs_track.
 /webReport
 /weblog.
-/webstat
 /wmxtracker.js
 /wxhawkeye.js
 /xgemius.js
