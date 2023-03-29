@@ -4,6 +4,10 @@
 ! Expires: 4 days
 ! ----> 
 ||static.*.gif
+||live.bilibili.com^
+||cm.bilibili.com/cm/api/fees/
+||hdslb.com/bfs/sycp/creative_img/
+||hdslb.com/bfs/static/blive/
 *antiAdblock
 *blockAdblock
 *fuckAdblock
@@ -772,6 +776,7 @@ _beacon
 /click_stat
 /cls_report?
 /cls_rpt.
+/csp_report
 /collect/kf?
 /collect/pageview?
 /collect/pv?
@@ -1130,8 +1135,9 @@ _wxAd_
 ||statics.woozooo.com^
 ||stgowan.com
 ||taboola.com^
-||tdun.com
-||tagmanager.cn
+||tdun.com^
+||tagmanager.cn^
+||taou.com^
 ||umsns.com
 ||union.maccms.
 ||vamaker.com
