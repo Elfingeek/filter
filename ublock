@@ -620,6 +620,7 @@ _web_ad
 /delivery.
 /delivery/*
 /badjs
+/bd.js
 /d3.js
 /ft.js
 /i.js
@@ -627,6 +628,8 @@ _web_ad
 /o.js
 /t.js
 /pk1.js
+/valnet.js
+/valnet/*
 -tf.js
 ! -----> Privacy
 ||analysis*.
@@ -1124,8 +1127,9 @@ _wxAd_
 ||rudderaxis.com
 ||scorecardresearch.com
 ||smartadserver.com
-||statics.woozooo.com
+||statics.woozooo.com^
 ||stgowan.com
+||taboola.com^
 ||tdun.com
 ||tagmanager.cn
 ||umsns.com
@@ -1135,9 +1139,9 @@ _wxAd_
 ||wegowan.com
 ||weisheng.com
 ||wrating.com
-||wuepo.cn
-||wwads.cn
-||xcads.cn
+||wuepo.cn^
+||wwads.cn^
+||xcads.cn^
 ! =============> CSS
 ! ----- Ad
 *###ad
