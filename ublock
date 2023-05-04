@@ -933,7 +933,7 @@ _beacon
 /tealium
 /telemetry
 /tj.js
-/tongji.js
+/tongj
 /track*/event
 /track.asp*
 /track.php?
@@ -1058,6 +1058,7 @@ _wxAd_
 ||ysdk.qq.com
 ! -----> Ali
 .cnzz.
+/cnzz.
 ||alimama.
 ||baichuan-sdk.
 ||nbsdk-baichuan.
