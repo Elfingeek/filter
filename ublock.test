@@ -3,9 +3,25 @@
 ! Description: Enhanced filter
 ! Expires: 4 days
 ! -----------
+||location.
+||ip38.com
+||ip138.com^
+||wp.
+||qbox.me^
+||pddpic.com^
+||ecukwai.com^
+||knlk2md.cn^
+||yximgs.com^
+||qrserver.com
 ||meituan.net
 ||meituan.com
 ||hualigs.cn
+/local_
+/code.js
+/notice.
+/recommend/js/*
+/newsapp_
+/xiwang
 *##[id*="cookie"]
 *##[id*="policy"]
 *##[class*="cookie"]
