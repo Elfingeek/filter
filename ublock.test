@@ -57,7 +57,6 @@ _ad_
 /sidebar
 ! --------- privacy
 *beacon
-*tongji
 *clk.com
 *trk.com
 *trk.net
@@ -104,6 +103,5 @@ _stats.js
 /ping.
 /ping/*
 /ping?
-/tracker.
 -tracking
 _tracking
