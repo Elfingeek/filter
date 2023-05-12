@@ -554,7 +554,6 @@ _advert*
 /peelad
 /phpad
 /piaofu
-/pixel
 /pk1.js
 /productAd
 /promo-banner
@@ -849,12 +848,12 @@ _beacon
 /hitcount*
 /hit-counter
 /hitlog*
+/hits
 /hittrack*
 /imp.
 /imp?
 /impression
 /linktrack*
-/log/*
 /log_a*
 /log_e*
 /log_h*
