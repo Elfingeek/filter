@@ -12,6 +12,7 @@
 *blockAdblock
 *fuckAdblock
 *fuck-debugger
+/adblock?
 /debugger.js
 /nocopy.js
 /getrelated
@@ -152,6 +153,7 @@
 ||umeng*.
 ||zhanzhang.
 *guesslike
+*nativeAds
 *pop_ad
 *pop_under
 *popAd
@@ -798,7 +800,6 @@ _beacon
 /diffuser.js
 /dsgvo*
 /eulerian.js
-/event.js
 /event/page*
 /event/track*
 /event-log
@@ -830,7 +831,6 @@ _beacon
 /gastat*
 /gatrack*
 /gemius.
-/gen_204?
 /geo.
 /geo_
 /geoip?
@@ -844,7 +844,6 @@ _beacon
 /gtm.
 /hawkeye.js
 /hawklinks.js
-/heartbeat
 /hitcount*
 /hit-counter
 /hitlog*
