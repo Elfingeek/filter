@@ -1,5 +1,5 @@
 [AdBlock]
-! Title: ublock test
+! Title: ublock experiment
 ! Description: Enhanced filter
 ! Expires: 4 days
 ! -----------
@@ -21,9 +21,7 @@
 /recommend/js/*
 /newsapp_
 /xiwang
-*##[id*="cookie"]
 *##[id*="policy"]
-*##[class*="cookie"]
 *##[class*="policy"]
 ! ------ Ads
 /ad_
