@@ -1,19 +1,17 @@
-# filters
-
 ## Description
-Adblock Filters for pc & mobile & adguard
+Adblock Filters for PC & Mobile & Adguard
 
-## subscription
+## Subscription
 
-https://filters.adtidy.org/ios/filters/15_optimized.txt
+DNS Filter:			https://filters.adtidy.org/ios/filters/15_optimized.txt
 
-https://gitlab.com/Elfingeek/filter/-/raw/main/ublock.txt
+General Filter:	  https://gitlab.com/Elfingeek/filter/-/raw/main/ublock.txt
 
-https://gitlab.com/Elfingeek/filter/-/raw/main/ublockP.txt
+General PC:			https://gitlab.com/Elfingeek/filter/-/raw/main/ublockP.txt
 
-https://gitlab.com/Elfingeek/filter/-/raw/main/ublockE.txt
+General Mobile:	https://gitlab.com/Elfingeek/filter/-/raw/main/ublockM.txt
 
-https://gitlab.com/Elfingeek/filter/-/raw/main/ublockM.txt
+General Test:		 https://gitlab.com/Elfingeek/filter/-/raw/main/ublockE.txt
 
 ## References
 

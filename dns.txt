@@ -57,6 +57,7 @@
 ||adbo*.
 ||adbu*.
 ||adcdn*.
+||adch*.
 ||adcl*.
 ||adco*.
 ||addi*.

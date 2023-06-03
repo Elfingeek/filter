@@ -21,6 +21,7 @@ stackoverflow.com##.ps-fixed
 deepl.com###dl_quotes_container
 zhihu.com##.Pc-word
 zhihu.com##.TitleImage
+smzdm.com###feed-side
 smzdm.com##.insert-outer
 smzdm.com##.product-card
 jd.com##.aside
