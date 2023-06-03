@@ -163,6 +163,7 @@
 *prebid
 *promoAd
 *pushad
+*sdkad/
 *tuiguang
 *tuisong
 *unionad
@@ -874,6 +875,7 @@ _beacon
 /logstat*
 /logview*
 /mistats/*
+/mlog/*
 /mlogs.
 /mpss/o/*
 /mtracks

@@ -239,7 +239,6 @@
 ||experiment.xiaomi.com
 ! -----> Apps
 -x.jd.com
-*acs.m.taobao.com
 *tj.baidu.com
 *log.baidu.com
 *click.baidu.com
