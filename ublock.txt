@@ -3,7 +3,6 @@
 ! Description: For PC & Mobile
 ! Expires: 4 days
 ! ----> 
-||static.*.gif
 ||live.bilibili.com^
 ||cm.bilibili.com/cm/api/fees/
 ||hdslb.com/bfs/sycp/creative_img/
