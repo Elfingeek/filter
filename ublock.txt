@@ -3,6 +3,9 @@
 ! Description: For PC & Mobile
 ! Expires: 4 days
 ! ----> 
+||bqq.gtimg.com^
+||tianshu.gtimg.cn^
+||weiyun.com/cgi-bin/tianshu
 ||live.bilibili.com^
 ||cm.bilibili.com/cm/api/fees/
 ||hdslb.com/bfs/sycp/creative_img/
@@ -10,7 +13,7 @@
 *antiAdblock
 *blockAdblock
 *fuckAdblock
-*fuck-debugger
+/fuck-debug
 /adblock?
 /debugger.js
 /nocopy.js
