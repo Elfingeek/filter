@@ -16,7 +16,6 @@
 ||meituan.com
 ||hualigs.cn
 /local_
-/code.js
 /notice.
 /recommend/js/*
 /newsapp_

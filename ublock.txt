@@ -3,9 +3,6 @@
 ! Description: For PC & Mobile
 ! Expires: 4 days
 ! ----> 
-||bqq.gtimg.com^
-||tianshu.gtimg.cn^
-||weiyun.com/cgi-bin/tianshu
 ||live.bilibili.com^
 ||cm.bilibili.com/cm/api/fees/
 ||hdslb.com/bfs/sycp/creative_img/
@@ -16,7 +13,11 @@
 /fuck-debug
 /adblock?
 /debugger.js
+/unsupported.js
+/code.js
+/invoke.js
 /nocopy.js
+/px.js
 /getrelated
 /gettashuolist
 /getstarmap
@@ -29,7 +30,6 @@
 /recommendation
 /ECommerceAd
 /linkcards
-/cookieBanner
 ! ----> ISP
 ||id6.me
 ||10086.cn
@@ -389,6 +389,7 @@ _doubleclick
 /adyard*
 /adz/*
 /adzone*
+=Ad%
 =ad_
 =adimg*
 =adunit*
@@ -543,6 +544,7 @@ _advert*
 /mbads*
 /mpads*
 /msnad
+/n.js
 /navad
 /nav-ad
 /newad
@@ -605,6 +607,7 @@ _advert*
 /tan.
 /tan1.
 /tanad.
+/tc.js
 /tc/*
 /textad*
 /top_ad
@@ -745,7 +748,6 @@ _beacon
 /acclog.
 /acecounter
 /adrs/*
-/ajax_ulog/?
 /akam/*
 /alog.
 /alog/*
@@ -851,7 +853,6 @@ _beacon
 /hitcount*
 /hit-counter
 /hitlog*
-/hits
 /hittrack*
 /imp.
 /imp?
@@ -968,7 +969,7 @@ _beacon
 /zepto.
 _ga_track
 _gatrack
-_tracker.js
+_tj.js
 -web-analytics
 ! -----> JD
 -x.jd.com
@@ -1058,6 +1059,8 @@ _wxAd_
 ||rh.qq.com
 ||sngmta.qq.com
 ||ysdk.qq.com
+||bqq.gtimg.com^
+||tianshu.gtimg.cn^
 ! -----> Ali
 .cnzz.
 /cnzz.

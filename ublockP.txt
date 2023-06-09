@@ -3,7 +3,9 @@
 ! Description: For PC
 ! Expires: 4 days
 ! ==============> URL
+@@||tb1.bdstatic.com/??/tb/
 ||bing.com/rewardsapp
+||weiyun.com/cgi-bin/tianshu
 ||w3cschool.cn/attachments/image
 ||image.zhangxinxu.com/image/blog
 ||bcebos.com/jssdk/mapLogReport
@@ -15,6 +17,8 @@
 /PCBanner
 *sidebar$image
 ! ==============> CSS
+123pan.com##.VipBanner
+123pan.com##.ant-layout > div
 top.zhan.com##.model_mask
 w3cschool.cn##.widget-body
 stackoverflow.com##.ps-fixed
@@ -40,6 +44,7 @@ map.baidu.com###message-center
 map.baidu.com##[id*="leadDownloadCard"i],[class*="leadDownloadCard"i]
 bing.com##[data-codexads]
 bing.com##.b_ansb.b_vidAns
+yandex.com##.incut
 youtube.com###secondary
 youtube.com##ytd-fact-check-renderer
 youtube.com##ytd-reel-shelf-renderer
