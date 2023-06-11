@@ -1079,7 +1079,7 @@ _wxAd_
 ||onegoods.nosdn.127.net
 ||ip.ws.126.net
 ! ------
-||access.*pikpak
+||access.
 ||fundingchoicesmessages.google.com^
 ||2mdn.net
 ||51.la
@@ -1146,7 +1146,6 @@ _wxAd_
 ||tagmanager.cn^
 ||taou.com^
 ||umsns.com
-||union.maccms.
 ||vamaker.com
 ||vchangyi.com
 ||wegowan.com
