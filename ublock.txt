@@ -1158,23 +1158,33 @@ _wxAd_
 ! ----- Ad
 *###ad
 *##.ad
-*##[id$="Ad"]
-*##[id|="ad"i]
-*##[id~="ad"i]
-*##[class$="Ad"]
-*##[class|="ad"i]
-*##[class~="ad"i]
+*##[id^="ad-"i]
+*##[id^="ad_"i]
+*##[id$="-ad"i]
+*##[id$="_ad"i]
+*##[id*="-ad-"i]
+*##[id*="_ad_"i]
+*##[class^="ad-"i]
+*##[class^="ad_"i]
+*##[class$="_ad"i]
+*##[class$="-ad"i]
 ! ------ Ads
 *###ads
 *##.ads
 *##.adsbygoogle
 *###adsbygoogle
-*##[id$="Ads"]
-*##[id|="ads"i]
-*##[id~="ads"i]
-*##[class$="Ads"]
-*##[class|="ads"i]
-*##[class~="ads"i]
+*##[id^="ads-"i]
+*##[id^="ads_"i]
+*##[id$="-ads"i]
+*##[id$="_ads"i]
+*##[id*="-ads-"i]
+*##[id*="_ads_"i]
+*##[class^="ads-"i]
+*##[class^="ads_"i]
+*##[class$="-ads"i]
+*##[class$="_ads"i]
+*##[class*="-ads-"i]
+*##[class*="_ads_"i]
 ! ------ Adv
 *##[id^="adv"i]
 *##[class^="adv"i]
