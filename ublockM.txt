@@ -1,7 +1,7 @@
 [AdBlock]
 ! Title: ublock mobile
 ! Description: For Mobile browser
-! Expires: 4 days
+! Expires: 3 days
 ! =======
 *appdownload
 *app-download

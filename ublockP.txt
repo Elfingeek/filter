@@ -1,7 +1,7 @@
 [AdBlock]
 ! Title: ublock pc
 ! Description: For PC
-! Expires: 4 days
+! Expires: 3 days
 ! ==============> URL
 @@||tb1.bdstatic.com/??/tb/
 ||bing.com/rewardsapp

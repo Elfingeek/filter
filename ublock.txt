@@ -1,7 +1,7 @@
 [AdBlock]
 ! Title: ublock
 ! Description: For PC & Mobile
-! Expires: 4 days
+! Expires: 3 days
 ! ----> 
 ||live.bilibili.com^
 ||cm.bilibili.com/cm/api/fees/
@@ -10,7 +10,7 @@
 *antiAdblock
 *blockAdblock
 *fuckAdblock
-/fuck-debug
+/fuck-debug*
 /adblock?
 /debugger.js
 /unsupported.js
@@ -18,18 +18,18 @@
 /invoke.js
 /nocopy.js
 /px.js
-/getrelated
-/gettashuolist
-/getstarmap
-/lemmaRelation
-/second
-/tashuo
+/getrelated*
+/gettashuolist*
+/getstarmap*
+/lemmaRelation*
+/second*
+/tashuo*
 /directad?
 /wikiad/*
-/GoodsRecommend
-/recommendation
-/ECommerceAd
-/linkcards
+/GoodsRecommend*
+/recommendation*
+/ECommerceAd*
+/linkcards*
 ! ----> ISP
 ||id6.me
 ||10086.cn
@@ -477,7 +477,6 @@ _advert*
 /dclk_ads
 /delivery.
 /delivery/*
-/displayad
 /displayad*
 /dynamicad
 /easyads
@@ -485,7 +484,6 @@ _advert*
 /flashad
 /floatad
 /floatingad
-/flyad
 /flyad*
 /fm-ads*
 /footer_ad
@@ -497,14 +495,13 @@ _advert*
 /gads/*
 /gam_ad
 /get_ad
-/getad
-/getads
+/getads*
 /getadvert*
 /getspons
 /gg.
 /gg/*
 /globalad
-/guangg
+/guangg*
 /headerad
 /hm.js
 /i.js
@@ -854,6 +851,7 @@ _beacon
 /hit-counter
 /hitlog*
 /hittrack*
+/imp_
 /imp.
 /imp?
 /impression
@@ -971,6 +969,7 @@ _ga_track
 _gatrack
 _tj.js
 -web-analytics
+?imp_
 ! -----> JD
 -x.jd.com
 ||cm.jd.com

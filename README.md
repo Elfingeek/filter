@@ -11,7 +11,7 @@ General PC:			https://gitlab.com/Elfingeek/filter/-/raw/main/ublockP.txt
 
 General Mobile:	https://gitlab.com/Elfingeek/filter/-/raw/main/ublockM.txt
 
-General Test:		 https://gitlab.com/Elfingeek/filter/-/raw/main/ublockE.txt
+General Test:		 https://gitlab.com/Elfingeek/filter/-/raw/main/ublockT.txt
 
 ## References
 

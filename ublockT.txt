@@ -1,7 +1,7 @@
 [AdBlock]
 ! Title: ublock test
 ! Description: Experiment filter
-! Expires: 4 days
+! Expires: 3 days
 ! -----------
 ||location.
 ||ip38.com
@@ -48,6 +48,7 @@ _ad_
 *lads/
 *mads/
 *nads/
+*pads/
 *rads/
 *sads/
 *tads/
