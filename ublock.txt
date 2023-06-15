@@ -912,8 +912,6 @@ _beacon
 /sdc2.js
 /sdc3.js
 /sdctag
-/sensors.js
-/sensorsdata
 /sfp.js
 /share_view.
 /share-button
