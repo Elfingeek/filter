@@ -2,7 +2,7 @@
 ! Title: ublock mobile
 ! Description: For Mobile browser
 ! Expires: 3 days
-! =======
+! ----- App
 *appdownload
 *app-download
 *applaunch
@@ -16,7 +16,7 @@
 /invoke/app*
 /invokeBaidu*
 /AppMeasurement*
-! ----
+! ----- Ads
 *adserv
 *advert
 *mobad
@@ -42,9 +42,13 @@
 /lottie.min.js
 /qrcode.min.js
 /swaninoke.js
-/fe_upload/*
 -report.js
 _report.js
+! --------
+||img.koolearn.com^
+||file.koolearn.com^
+||koocdn.com/images/fe_upload/*
+||images.koolearn.com/fe_upload/*
 ! ============> CSS
 *##[class*="m-app-"i]
 *##a[href*="openApp"i]
@@ -79,7 +83,21 @@ _report.js
 *##[class*="bd-share"i]
 *##[class*="footer-banner"i]
 coolapk.com##.under
-ithome.com##.comment,.grade,.hot-app,.footer
+m.ithome.com##.comment
+m.ithome.com##.grade
+m.ithome.com##.hot-app
+m.ithome.com##.footer
+m.163.com##.open-app-btn
+m.163.com##.g-relative-new
+m.163.com##.slider-footer
+m.163.com##.hotSlider
+m.douban.com##.TalionNav-static
+m.koolearn.com##p > span
+m.koolearn.com##.p-mo
+m.koolearn.com##.p-mo-tit
+m.koolearn.com##.jp-popup
+m.koolearn.com###jp-list
+top.zhan.com##.cssCompostionAd
 smzdm.com##.module-waper,.crumbs
 baidu.com##.BK-body-header-wrapper
 baidu.com##.BK-after-content-wrapper
@@ -89,12 +107,6 @@ baidu.com##.tashuo-inContent
 baidu.com##.tashuo-feed-wrap
 baidu.com##.news-container
 baidu.com##.graph-card
-top.zhan.com##.cssCompostionAd
-m.koolearn.com##p > span
-m.koolearn.com##.p-mo
-m.koolearn.com##.p-mo-tit
-m.koolearn.com##.jp-popup
-m.koolearn.com###jp-list
 apkpure.com##.aegon-down-item
 youtube.com##ytm-fact-check-renderer
 youtube.com##ytm-reel-shelf-renderer

@@ -939,7 +939,6 @@ _beacon*
 /trackad.
 /trackclick*
 /tracker.js
-/trackevent*
 /tracking*
 /trackIt.js
 /trackjs*
@@ -1080,6 +1079,8 @@ _wxAd_
 ||fundingchoicesmessages.google.com^
 ||meiqia.com^
 ||zhancrmerp.
+||erebor.douban.com^
+||at*.doubanio.com^
 ||2mdn.net
 ||51.la
 ||7mmtv.top
