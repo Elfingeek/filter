@@ -42,6 +42,9 @@
 /lottie.min.js
 /qrcode.min.js
 /swaninoke.js
+/fe_upload/*
+-report.js
+_report.js
 ! ============> CSS
 *##[class*="m-app-"i]
 *##a[href*="openApp"i]
@@ -86,6 +89,12 @@ baidu.com##.tashuo-inContent
 baidu.com##.tashuo-feed-wrap
 baidu.com##.news-container
 baidu.com##.graph-card
+top.zhan.com##.cssCompostionAd
+m.koolearn.com##p > span
+m.koolearn.com##.p-mo
+m.koolearn.com##.p-mo-tit
+m.koolearn.com##.jp-popup
+m.koolearn.com###jp-list
 apkpure.com##.aegon-down-item
 youtube.com##ytm-fact-check-renderer
 youtube.com##ytm-reel-shelf-renderer
