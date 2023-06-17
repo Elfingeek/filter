@@ -33,7 +33,6 @@
 *adserv
 *adsrv
 *advert
-*adash
 *baichuan
 *pangolin
 *banner

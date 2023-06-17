@@ -20,6 +20,8 @@
 123pan.com##.VipBanner
 123pan.com##.ant-layout > div
 top.zhan.com##.model_mask
+top.zhan.com##.right
+top.zhan.com##.service_container
 w3cschool.cn##.widget-body
 stackoverflow.com##.ps-fixed
 deepl.com###dl_quotes_container

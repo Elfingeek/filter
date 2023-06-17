@@ -1158,6 +1158,8 @@ _wxAd_
 ! ----- Ad
 *###ad
 *##.ad
+*##[id$="Ad"]
+*##[class$="Ad"]
 *##[id^="ad-"i]
 *##[id^="ad_"i]
 *##[id$="-ad"i]
@@ -1173,6 +1175,8 @@ _wxAd_
 *##.ads
 *##.adsbygoogle
 *###adsbygoogle
+*##[id$="Ads"]
+*##[class$="Ads"]
 *##[id^="ads-"i]
 *##[id^="ads_"i]
 *##[id$="-ads"i]
