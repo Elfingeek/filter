@@ -3,7 +3,6 @@
 ! Description: For PC
 ! Expires: 3 days
 ! ==============> URL
-@@||tb1.bdstatic.com/??/tb/
 ||bing.com/rewardsapp
 ||weiyun.com/cgi-bin/tianshu
 ||w3cschool.cn/attachments/image
@@ -14,6 +13,10 @@
 ||bdimg.com/static/wiki-common/pkg/components-videoPlayer
 ||bdimg.com/static/wiki-common/pkg/modules-second_
 ||bdimg.com/static/wiki-lemma/widget/feature/Audio/
+||tieba.baidu.com/marriage/
+||tieba.baidu.com/game*
+||tb1.bdstatic.com/??/tb/_/game_
+/attention_category_game_
 /PCBanner
 *sidebar$image
 ! ==============> CSS
@@ -44,6 +47,7 @@ baike.baidu.com##.tashuo-bottom
 map.baidu.com##.cityData
 map.baidu.com###message-center
 map.baidu.com##[id*="leadDownloadCard"i],[class*="leadDownloadCard"i]
+tieba.baidu.com##.l_post[data-index]
 bing.com##[data-codexads]
 bing.com##.b_ansb.b_vidAns
 yandex.com##.incut

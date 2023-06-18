@@ -45,6 +45,8 @@
 -report.js
 _report.js
 ! --------
+||tieba.baidu.com/mo/q/recommendpb/
+||tieba.baidu.com/mo/q/gameresourcepb/
 ||img.koolearn.com^
 ||file.koolearn.com^
 ||koocdn.com/images/fe_upload/*

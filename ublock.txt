@@ -14,12 +14,14 @@
 /adblock?
 /debugger.js
 /unsupported.js
+/a.js
 /c.js
 /d3.js
 /ft.js
 /hm.js
 /i.js
 /l.js
+/m.js
 /n.js
 /o.js
 /t.js
@@ -994,6 +996,10 @@ _tj.js
 *log.baidu.com
 *click.baidu.com
 ||cpro.
+||dlswbr.baidu.com^
+||gomediago.baidu.com^
+||hectorstatic.baidu.com^
+||xlab.baidu.com^
 ||afd.baidu.com
 ||als.baidu.com
 ||cb.baidu.com
@@ -1008,7 +1014,6 @@ _tj.js
 ||eiv.baidu.com
 ||fc1tn.baidu.com
 ||hmma.baidu.com
-||miao.baidu.com
 ||msite.baidu.com
 ||pos.baidu.com
 ||spcode.baidu.com
@@ -1055,6 +1060,8 @@ _wxAd_
 ||rh.qq.com
 ||sngmta.qq.com
 ||ysdk.qq.com
+||qidian.qq.com^
+||qiye.qq.com^
 ||bqq.gtimg.com^
 ||tianshu.gtimg.cn^
 ! -----> Ali
@@ -1154,6 +1161,9 @@ _wxAd_
 ||wuepo.cn^
 ||wwads.cn^
 ||xcads.cn^
+||ecukwai.com^
+||knlk2md.cn^
+||yximgs.com^
 ! =============> CSS
 ! ----- Ad
 *###ad
