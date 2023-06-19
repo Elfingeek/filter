@@ -16,7 +16,6 @@
 ||tieba.baidu.com/marriage/
 ||tieba.baidu.com/game*
 ||tb1.bdstatic.com/??/tb/_/game_
-/attention_category_game_
 /PCBanner
 *sidebar$image
 ! ==============> CSS

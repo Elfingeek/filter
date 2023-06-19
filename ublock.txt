@@ -261,7 +261,6 @@ _doubleclick
 /ad_o*
 /ad_p*
 /ad_r*
-/ad_s*
 /ad_t*
 /ad_u*
 /ad_v*
@@ -1002,7 +1001,6 @@ _tj.js
 ||dlswbr.baidu.com^
 ||gomediago.baidu.com^
 ||hectorstatic.baidu.com^
-||xlab.baidu.com^
 ||afd.baidu.com
 ||als.baidu.com
 ||cb.baidu.com
