@@ -10,9 +10,6 @@
 ||qrserver.com
 ||hualigs.cn
 ! ------ Ads
-/ad_
--ad-
-_ad_
 *bads.
 *dads.
 *gads.

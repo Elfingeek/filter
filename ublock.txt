@@ -412,7 +412,6 @@ _ad.
 _ad?
 _ad_3*
 _ad_b*
-_ad_c*
 _ad_feed*
 _ad_footer*
 _ad_frame*
@@ -999,7 +998,6 @@ _tj.js
 *click.baidu.com
 ||cpro.
 ||dlswbr.baidu.com^
-||gomediago.baidu.com^
 ||hectorstatic.baidu.com^
 ||afd.baidu.com
 ||als.baidu.com
