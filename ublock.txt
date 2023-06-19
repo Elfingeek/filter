@@ -17,6 +17,7 @@
 /a.js
 /c.js
 /d3.js
+/e.js
 /ft.js
 /hm.js
 /i.js
@@ -644,6 +645,9 @@ _web_ad*
 -sticky-ad*
 -tf.js
 -web-ad*
+?ad_
+?adunit*
+?advert*
 ! -----> Privacy
 ||analysis*.
 ||analytic*.
@@ -898,7 +902,6 @@ _beacon*
 /pagelog*
 /pagetrack*
 /pageview*
-/pb_track*
 /php-stats.
 /piwik*
 /ptracking*

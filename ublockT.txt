@@ -8,23 +8,11 @@
 ||ip138.com^
 ||qbox.me^
 ||qrserver.com
-||meituan.net
-||meituan.com
 ||hualigs.cn
-/local_
-/notice.
-/recommend/js/*
-/newsapp_
-/xiwang
-*##[id*="policy"]
-*##[class*="policy"]
 ! ------ Ads
 /ad_
 -ad-
 _ad_
-?ad_
-?adunit*
-?advert*
 *bads.
 *dads.
 *gads.
@@ -58,6 +46,7 @@ _ad_
 /popup
 /related
 /recommend-
+/recommend/js/*
 /js6promote*
 /inject-
 /inject.
