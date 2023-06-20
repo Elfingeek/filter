@@ -3,18 +3,21 @@
 ! Description: For PC
 ! Expires: 3 days
 ! ==============> URL
-||bing.com/rewardsapp
-||weiyun.com/cgi-bin/tianshu
-||w3cschool.cn/attachments/image
-||image.zhangxinxu.com/image/blog
-||bcebos.com/jssdk/mapLogReport
-||bdimg.com/static/wiki-common/node_modules/larkplayer
-||bdimg.com/static/wiki-common/pkg/vender-larkplayer
-||bdimg.com/static/wiki-common/pkg/components-videoPlayer
-||bdimg.com/static/wiki-common/pkg/modules-second_
-||bdimg.com/static/wiki-lemma/widget/feature/Audio/
-||tieba.baidu.com/marriage/
-||tieba.baidu.com/game*
+||bing.com/rewardsapp*$domain=bing.com
+||weiyun.com/cgi-bin/tianshu*$domain=weiyun.com
+||w3cschool.cn/attachments/image*$domain=w3cschool.cn
+||image.zhangxinxu.com/image/blog*$domain=zhangxinxu.com
+||bcebos.com/jssdk/mapLogReport*$domain=baike.baidu.com
+||bdimg.com/static/wiki-common/node_modules/larkplayer*$domain=baike.baidu.com
+||bdimg.com/static/wiki-common/pkg/vender-larkplayer*$domain=baike.baidu.com
+||bdimg.com/static/wiki-common/pkg/components-videoPlayer*$domain=baike.baidu.com
+||bdimg.com/static/wiki-common/pkg/modules-second_*$domain=baike.baidu.com
+||bdimg.com/static/wiki-lemma/widget/feature/Audio/*$domain=baike.baidu.com
+||bdimg.com/static/wiki-lemma/widget/tools/video/*$domain=baike.baidu.com
+||tieba.baidu.com/marriage/*$domain=tieba.baidu.com
+||tieba.baidu.com/game*$domain=tieba.baidu.com
+||bdstatic.com/??/tb/_/game_*$domain=tieba.baidu.com
+||bdstatic.com/tb/static-comforum/widget/game_*$domain=tieba.baidu.com
 /PCBanner
 *sidebar$image
 ! ==============> CSS

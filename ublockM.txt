@@ -14,7 +14,6 @@
 /open-app-
 /open-newsapp
 /invoke/app*
-/invokeBaidu*
 /AppMeasurement*
 ! ----- Ads
 *adserv
@@ -25,18 +24,6 @@
 /log/*
 /300-
 /300x
-/area_accessible
-/loft/*
-/m-second
-/wiki-m-lemma/video
-/lemmagraph*
-/lemmaAudio*
-/lemmaVideo*
-/lemmaStarMap*
-/starMap*
-/gamecent
-/game_pop
-/game_swap
 /getmobads*
 /netlittie*
 /lottie.min.js
@@ -45,12 +32,25 @@
 -report.js
 _report.js
 ! --------
-||tieba.baidu.com/mo/q/recommendpb/
-||tieba.baidu.com/mo/q/gameresourcepb/
-||img.koolearn.com^
-||file.koolearn.com^
-||koocdn.com/images/fe_upload/*
-||images.koolearn.com/fe_upload/*
+||img.koolearn.com^$domain=koolearn.com
+||file.koolearn.com^$domain=koolearn.com
+||koocdn.com/images/fe_upload/*$domain=koolearn.com
+||images.koolearn.com/fe_upload/*$domain=koolearn.com
+||tieba.baidu.com/mo/q/recommendpb/*$domain=tieba.baidu.com
+||tieba.baidu.com/mo/q/gameresourcepb/*$domain=tieba.baidu.com
+/invokeBaidu*$domain=baidu.com
+/loft/*$domain=baike.baidu.com
+/m-second*$domain=baike.baidu.com
+/wiki-m-lemma/video*$domain=baike.baidu.com
+/lemmagraph*$domain=baike.baidu.com
+/lemmaAudio*$domain=baike.baidu.com
+/lemmaVideo*$domain=baike.baidu.com
+/lemmaStarMap*$domain=baike.baidu.com
+/starMap*$domain=baike.baidu.com
+/gamecent
+/game_pop
+/game_swap
+/area_accessible
 ! ============> CSS
 *##[class*="m-app-"i]
 *##a[href*="openApp"i]
