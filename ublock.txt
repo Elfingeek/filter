@@ -231,8 +231,8 @@ _doubleclick
 .ads.
 .adserv*
 .iads.js
-/ad_$domain=~tieba.baidu.com
-_ad_$domain=~tieba.baidu.com
+/ad_
+_ad_
 -ad-
 -ad.
 -ad_

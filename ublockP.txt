@@ -18,6 +18,8 @@
 ||tieba.baidu.com/game*$domain=tieba.baidu.com
 ||bdstatic.com/??/tb/_/game_*$domain=tieba.baidu.com
 ||bdstatic.com/tb/static-comforum/widget/game_*$domain=tieba.baidu.com
+/ad_$domain=~tieba.baidu.com
+_ad_$domain=~tieba.baidu.com
 /PCBanner
 *sidebar$image
 ! ==============> CSS
