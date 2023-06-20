@@ -15,7 +15,6 @@
 ||bdimg.com/static/wiki-lemma/widget/feature/Audio/
 ||tieba.baidu.com/marriage/
 ||tieba.baidu.com/game*
-||tb1.bdstatic.com/??/tb/_/game_
 /PCBanner
 *sidebar$image
 ! ==============> CSS
