@@ -20,6 +20,14 @@
 -ads.
 -adx.
 *adv.
+*gad.
+*lad.
+*mad.
+*nad.
+*rad.
+*tad.
+*wad.
+*yad.
 *dads.
 *gads.
 *iads.

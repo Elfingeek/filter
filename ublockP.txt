@@ -18,9 +18,10 @@
 ||tieba.baidu.com/game*$domain=tieba.baidu.com
 ||bdstatic.com/??/tb/_/game_*$domain=tieba.baidu.com
 ||bdstatic.com/tb/static-comforum/widget/game_*$domain=tieba.baidu.com
+/interest_*$domain=tieba.baidu.com
 /ad_$domain=~tieba.baidu.com
 _ad_$domain=~tieba.baidu.com
-/PCBanner
+/PCBanner*
 *sidebar$image
 ! ==============> CSS
 123pan.com##.VipBanner
