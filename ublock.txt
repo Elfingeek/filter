@@ -15,7 +15,7 @@
 /wikiad/*$domain=baike.baidu.com
 /GoodsRecommend*$domain=zhihu.com
 /ECommerceAd*$domain=zhihu.com
-/linkcards*$domain=zhihu.com
+/linkcard*$domain=zhihu.com
 *antiAdblock
 *blockAdblock
 *fuckAdblock
@@ -231,8 +231,6 @@ _doubleclick
 .ads.
 .adserv*
 .iads.js
-/ad_
-_ad_
 -ad-
 -ad.
 -ad_

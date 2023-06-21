@@ -21,6 +21,8 @@
 *mobad
 *mobilead
 *mobile_ad
+/ad_
+_ad_
 /log/*
 /300-
 /300x
