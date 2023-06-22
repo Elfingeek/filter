@@ -2,19 +2,37 @@
 ! Title: ublock mobile
 ! Description: For Mobile browser
 ! Expires: 3 days
+! --------
+||img.koolearn.com^$domain=koolearn.com
+||file.koolearn.com^$domain=koolearn.com
+||koocdn.com/images/fe_upload/*$domain=koolearn.com
+||images.koolearn.com/fe_upload/*$domain=koolearn.com
+||tieba.baidu.com/mo/q/recommendpb/*$domain=tieba.baidu.com
+||tieba.baidu.com/mo/q/game*$domain=tieba.baidu.com
+/invokeBaidu*$domain=baidu.com
+/loft/*$domain=baike.baidu.com
+/m-second*$domain=baike.baidu.com
+/wiki-m-lemma/video*$domain=baike.baidu.com
+/lemmagraph*$domain=baike.baidu.com
+/lemmaAudio*$domain=baike.baidu.com
+/lemmaVideo*$domain=baike.baidu.com
+/lemmaStarMap*$domain=baike.baidu.com
+/starMap*$domain=baike.baidu.com
+/gamecent*
+/game_pop*
+/game_swap*
+/area_accessible*
 ! ----- App
 *appdownload
 *app-download
 *applaunch
 *applink.
-*firebase
-/jump-app
-/openapp
+/invoke/app*
+/jump-app*
+/openapp*
 /open-app.
 /open-app-
-/open-newsapp
-/invoke/app*
-/AppMeasurement*
+/open-newsapp*
 ! ----- Ads
 *adserv
 *advert
@@ -33,26 +51,6 @@ _ad_
 /swaninoke.js
 -report.js
 _report.js
-! --------
-||img.koolearn.com^$domain=koolearn.com
-||file.koolearn.com^$domain=koolearn.com
-||koocdn.com/images/fe_upload/*$domain=koolearn.com
-||images.koolearn.com/fe_upload/*$domain=koolearn.com
-||tieba.baidu.com/mo/q/recommendpb/*$domain=tieba.baidu.com
-||tieba.baidu.com/mo/q/gameresourcepb/*$domain=tieba.baidu.com
-/invokeBaidu*$domain=baidu.com
-/loft/*$domain=baike.baidu.com
-/m-second*$domain=baike.baidu.com
-/wiki-m-lemma/video*$domain=baike.baidu.com
-/lemmagraph*$domain=baike.baidu.com
-/lemmaAudio*$domain=baike.baidu.com
-/lemmaVideo*$domain=baike.baidu.com
-/lemmaStarMap*$domain=baike.baidu.com
-/starMap*$domain=baike.baidu.com
-/gamecent
-/game_pop
-/game_swap
-/area_accessible
 ! ============> CSS
 *##[class*="m-app-"i]
 *##a[href*="openApp"i]
