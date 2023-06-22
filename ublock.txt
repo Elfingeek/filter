@@ -24,8 +24,6 @@
 /user-order*$domain=csdn.net
 /fixed-sidebar*$domain=csdn.net
 *##+js(nowebrtc)
-*##+js(nobab)
-*##+js(nofab)
 *antiAdblock
 *blockAdblock
 *fuckAdblock
