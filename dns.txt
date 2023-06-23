@@ -285,6 +285,7 @@
 ||video.taobao.com^
 ||amdcopen.m.taobao.com^
 ||blackhole.m.jd.com^
+||mars.jd.com^
 ||g1.163.com^
 ||nex.163.com^
 ||nos-jd.163yun.com^
@@ -301,6 +302,9 @@
 ||video*.pddpic.com^
 ||funimg*.pddpic.com^
 ||commimg*.pddpic.com^
+||social.pinduoduo.com^
+||live*.pddpic.com^
+||live-spare.alicdn.com^
 ||admob*.
 ||inmobi*.
 ||appads.com^

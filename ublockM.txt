@@ -51,6 +51,8 @@ _ad_
 /swaninoke.js
 -report.js
 _report.js
+! --------
+||mbd.baidu.com^
 ! ============> CSS
 *##[class*="m-app-"i]
 *##a[href*="openApp"i]

@@ -1021,7 +1021,9 @@ _stats.js
 ||dgstatic.jd.com
 ||diviner.jd.com^
 ||mercury.jd.com^
-||dd-static.jd.com
+||dd-static.jd.com^
+||mars.jd.com^
+||blackhole.jd.com^
 ! -----> ByteDance
 ||pangolin*.
 ||pglstatp*.
