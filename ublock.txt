@@ -812,7 +812,6 @@ _log?
 /clicktrack*
 /cls_report?
 /cls_rpt.
-/cmp*
 /cnil*
 /collect/kf?
 /collect/pageview?
@@ -1094,9 +1093,6 @@ _stats.js
 *gdtimg.com
 *mdt.qq.com
 *aegis.qq.com
-.wxs.qq.com
-_wxAd_
-/300-
 ||pgdt.
 ||bugly.qq.com
 ||cfg.imtt.qq.com
@@ -1128,7 +1124,6 @@ _wxAd_
 ||nos-jd.163yun.com
 ||onegoods.nosdn.127.net
 ||ip.ws.126.net
-! ------
 ||access.
 ||fundingchoicesmessages.google.com^
 ||meiqia.com^
@@ -1157,8 +1152,6 @@ _wxAd_
 ||imgdb.cn
 ||irs01.com
 ||irs03.com
-||i.v2ex.co
-||i.v2ex.co
 ||kolsh.cn^
 ||ldmnq.com^
 ||leadbolt*.
@@ -1252,7 +1245,6 @@ _wxAd_
 *##[class$="_ads"i]
 *##[class*="-ads-"i]
 *##[class*="_ads_"i]
-! ------
 *##[id^="adv"i]
 *##[class^="adv"i]
 *##[id*="advert"i]

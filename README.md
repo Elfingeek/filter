@@ -23,13 +23,13 @@ easy-Privacy：	https://filters.adtidy.org/ios/filters/118_optimized.txt
 
 Adguard
 
-base				https://filters.adtidy.org/ios/filters/2_optimized.txt
+base			https://filters.adtidy.org/ios/filters/2_optimized.txt
 
 tracking		https://filters.adtidy.org/ios/filters/3_optimized.txt	
 
 social			https://filters.adtidy.org/ios/filters/4_optimized.txt	
 
-chinese：	https://filters.adtidy.org/ios/filters/224_optimized.txt	
+chinese：	https://filters.adtidy.org/ios/filters/224_optimized.txt
 
 annoyances	https://filters.adtidy.org/ios/filters/21_optimized.txt	
 
