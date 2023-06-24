@@ -298,13 +298,6 @@
 ||orbit.jd.com^
 ||dg.k.jd.com^
 ! --------
-||funimg*.pddpic.com^
-||commimg*.pddpic.com^
-||video*.pddugc.com^
-||video*.pddpic.com^
-||social.pinduoduo.com^
-||live*.pddpic.com^
-||live-spare.alicdn.com^
 ||admob*.
 ||inmobi*.
 ||appads.com^
