@@ -3,6 +3,13 @@
 ! Description: For PC & Mobile
 ! Expires: 3 days
 ! ----> 
+||funimg*.pddpic.com^$app=com.xunmeng.pinduoduo
+||commimg*.pddpic.com^$app=com.xunmeng.pinduoduo
+||video*.pddugc.com^$app=com.xunmeng.pinduoduo
+||video*.pddpic.com^$app=com.xunmeng.pinduoduo
+||social.pinduoduo.com^$app=com.xunmeng.pinduoduo
+||live*.pddpic.com^$app=com.xunmeng.pinduoduo
+||pddpic.com/live/*$app=com.xunmeng.pinduoduo
 ||live.bilibili.com^$domain=bilibili.com
 ||cm.bilibili.com/cm/api/fees/*$domain=bilibili.com
 ||hdslb.com/bfs/sycp/creative_img/*$domain=bilibili.com
