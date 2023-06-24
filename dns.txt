@@ -298,12 +298,12 @@
 ||orbit.jd.com^
 ||dg.k.jd.com^
 ! --------
-||funimg*.pddpic.com^$app=com.xunmeng.pinduoduo
-||commimg*.pddpic.com^$app=com.xunmeng.pinduoduo
-||video*.pddugc.com^$app=com.xunmeng.pinduoduo
-||video*.pddpic.com^$app=com.xunmeng.pinduoduo
-||social.pinduoduo.com^$app=com.xunmeng.pinduoduo
-||live*.pddpic.com^$app=com.xunmeng.pinduoduo
+||funimg*.pddpic.com^
+||commimg*.pddpic.com^
+||video*.pddugc.com^
+||video*.pddpic.com^
+||social.pinduoduo.com^
+||live*.pddpic.com^
 ||live-spare.alicdn.com^
 ||admob*.
 ||inmobi*.
