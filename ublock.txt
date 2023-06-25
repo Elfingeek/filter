@@ -6,7 +6,6 @@
 ||live.bilibili.com^$domain=bilibili.com
 ||cm.bilibili.com/cm/api/fees/*$domain=bilibili.com
 ||hdslb.com/bfs/sycp/creative_img/*$domain=bilibili.com
-||hdslb.com/bfs/static/blive/*$domain=bilibili.com
 /gettashuolist*$domain=baike.baidu.com
 /getstarmap*$domain=baike.baidu.com
 /lemmaRelation*$domain=baike.baidu.com
