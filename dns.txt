@@ -245,11 +245,10 @@
 *pixel
 *prebid
 *reklam
-*report
 *sensordata
 *syndication
 *telemetry
-*tongji
+*tongj
 ||cnzz.
 ||dsp-*.
 ||dsp.
