@@ -569,7 +569,6 @@ _advert*
 /railad*
 /randomad*
 /related*
-/recommend-
 /recommend/js/*
 /reklam*
 /revealad*
@@ -767,6 +766,7 @@ _log?
 /analytics?
 /analytics/*
 /analytics_
+/analysis/js/*
 /accessLog?
 /acclog.
 /acecounter*
@@ -842,7 +842,6 @@ _log?
 /event-track*
 /evercookie*
 /exoclick*
-/fastclick.
 /fbevent*
 /fingerprint.
 /fingerprint2.
@@ -1093,6 +1092,7 @@ _stats.js
 *gdtimg.com
 *mdt.qq.com
 *aegis.qq.com
+.trace.qq.com
 ||pgdt.
 ||bugly.qq.com
 ||cfg.imtt.qq.com
@@ -1105,6 +1105,7 @@ _stats.js
 ||ysdk.qq.com
 ||qidian.qq.com^
 ||qiye.qq.com^
+||ssp.qq.com^
 ||bqq.gtimg.com^
 ||tianshu.gtimg.cn^
 ! -----> Ali
@@ -1122,8 +1123,9 @@ _stats.js
 ||rlogs.youdao.com
 ||gorgon.youdao.com
 ||nos-jd.163yun.com
-||onegoods.nosdn.127.net
-||ip.ws.126.net
+||onegoods.nosdn.127.net^
+||yt-adp.ws.126.net^
+||ip.ws.126.net^
 ||access.
 ||fundingchoicesmessages.google.com^
 ||meiqia.com^

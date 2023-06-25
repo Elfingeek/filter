@@ -7,6 +7,9 @@
 ||file.koolearn.com^$domain=koolearn.com
 ||koocdn.com/images/fe_upload/*$domain=koolearn.com
 ||images.koolearn.com/fe_upload/*$domain=koolearn.com
+||my.ruanmei.com^$domain=ithome.com
+||163.com/wap/special/*$domain=163.com
+||163.com/touch/api/paid-$domain=163.com
 ||tieba.baidu.com/mo/q/recommendpb/*$domain=tieba.baidu.com
 ||tieba.baidu.com/mo/q/game*$domain=tieba.baidu.com
 /invokeBaidu*$domain=baidu.com
@@ -32,7 +35,7 @@
 /openapp*
 /open-app.
 /open-app-
-/open-newsapp*
+/open-newsapp.
 ! ----- Ads
 *adserv
 *advert
@@ -87,12 +90,12 @@ _report.js
 *##[class*="bd-share"i]
 *##[class*="footer-banner"i]
 coolapk.com##.under
-smzdm.com##.module-waper,.crumbs
+smzdm.com###feed-side,.module-waper,.crumbs
 m.ithome.com##.comment
 m.ithome.com##.grade
 m.ithome.com##.hot-app
 m.ithome.com##.footer
-m.163.com##.js-open-newsapp
+m.163.com##.js-open-app,.js-open-newsapp
 m.163.com##.open-app-btn
 m.163.com##.g-relative-new
 m.163.com##.slider-footer
@@ -106,7 +109,8 @@ m.koolearn.com##.p-mo
 m.koolearn.com##.p-mo-tit
 m.koolearn.com##.jp-popup
 m.koolearn.com###jp-list
-tieba.baidu.com##.nav-bar
+tieba.baidu.com##.w-row.nav-bar
+tieba.baidu.com##.feed-warp
 tieba.baidu.com##.fengchao-banner-defensive
 baike.baidu.com##.BK-body-header-wrapper
 baike.baidu.com##.BK-after-content-wrapper
