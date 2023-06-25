@@ -64,9 +64,6 @@ _report.js
 *##a[href*="open-app"i]
 *##[id*="open-app"i]
 *##[class*="open-app"i]
-*##a[href*="openInApp"i]
-*##[id*="openInApp"i]
-*##[class*="openInApp"i]
 *##[id*="app-open"i]
 *##[class*="app-open"i]
 *##[id*="appdown"i]
@@ -91,6 +88,7 @@ _report.js
 *##[class*="footer-banner"i]
 coolapk.com##.under
 smzdm.com###feed-side,.module-waper,.crumbs
+zhihu.com##.OpenInApp,.Button--blue
 m.ithome.com##.comment
 m.ithome.com##.grade
 m.ithome.com##.hot-app
