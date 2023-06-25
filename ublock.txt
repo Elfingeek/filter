@@ -1036,8 +1036,6 @@ _stats.js
 *log.baidu.com
 *click.baidu.com
 ||cpro.
-||dlswbr.baidu.com^
-||hectorstatic.baidu.com^
 ||fc1tn.baidu.com^
 ||fc2tn.baidu.com^
 ||fc3tn.baidu.com^
@@ -1045,6 +1043,7 @@ _stats.js
 ||fc5tn.baidu.com^
 ||feed-image.baidu.com^
 ||paimgcdn-feed.baidu.com^
+||hectorstatic.baidu.com^
 ||afd.baidu.com^
 ||als.baidu.com^
 ||cb.baidu.com^
