@@ -24,7 +24,6 @@
 /gamecent*
 /game_pop*
 /game_swap*
-/area_accessible*
 ! ----- App
 *appdownload
 *app-download
@@ -86,9 +85,12 @@ _report.js
 *##[id*="bd-share"i]
 *##[class*="bd-share"i]
 *##[class*="footer-banner"i]
+ecosia.org##.main-footer
+presearch.com##[x-data*="kwrdAdFirst"]
 coolapk.com##.under
 smzdm.com###feed-side,.module-waper,.crumbs
 zhihu.com##.OpenInApp,.Button--blue
+m.ithome.com##.open-app-banner
 m.ithome.com##.comment
 m.ithome.com##.grade
 m.ithome.com##.hot-app
@@ -107,7 +109,7 @@ m.koolearn.com##.p-mo
 m.koolearn.com##.p-mo-tit
 m.koolearn.com##.jp-popup
 m.koolearn.com###jp-list
-tieba.baidu.com##.w-row.nav-bar
+tieba.baidu.com##div.nav-bar
 tieba.baidu.com##.feed-warp
 tieba.baidu.com##.fengchao-banner-defensive
 baike.baidu.com##.BK-body-header-wrapper
