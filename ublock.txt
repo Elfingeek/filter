@@ -22,7 +22,6 @@
 /user-medal*$domain=csdn.net
 /user-order*$domain=csdn.net
 /fixed-sidebar*$domain=csdn.net
-*##+js(nowebrtc)
 *antiAdblock
 *blockAdblock
 *fuckAdblock
@@ -923,9 +922,6 @@ _log?
 /pagetrack*
 /pageview*
 /php-stats.
-/ping.
-/ping/*
-/ping?
 /piwik*
 /ptracking*
 /pv.js
