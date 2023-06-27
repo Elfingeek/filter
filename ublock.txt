@@ -639,6 +639,7 @@ _web_ad*
 ?ad_
 ?adunit*
 ?advert*
+?show_ad*
 ! -----> Privacy
 ||analysis*.
 ||analytic*.

@@ -3,6 +3,7 @@
 ! Description: For Mobile browser
 ! Expires: 3 days
 ! --------
+||ecosia.org^$script,domain=ecosia.org
 ||img.koolearn.com^$domain=koolearn.com
 ||file.koolearn.com^$domain=koolearn.com
 ||koocdn.com/images/fe_upload/*$domain=koolearn.com
@@ -20,6 +21,9 @@
 /lemmaAudio*$domain=baike.baidu.com
 /lemmaVideo*$domain=baike.baidu.com
 /lemmaStarMap*$domain=baike.baidu.com
+/inlinkPlayer*$domain=baike.baidu.com
+/business*$domain=baike.baidu.com
+/swanInvoke*$domain=baike.baidu.com
 /starMap*$domain=baike.baidu.com
 /gamecent*
 /game_pop*

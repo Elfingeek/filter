@@ -57,10 +57,7 @@
 ||mars.jd.com^
 ||blackhole.m.jd.com^
 ||video*.pddpic.com^
-||funimg*.pddpic.com^
 ||video*.pddugc.com^
-||social.pinduoduo.com^
-||commimg*.pddpic.com^
 ||live*.pddpic.com^
 ||live.bilibili.com^
 ! ----> ISP
@@ -73,8 +70,7 @@
 ||wosms.cn
 ||wostore.cn
 ! ----- AD
-/^ads?\d.*/
-/\w+\.ads?\d.*/
+/(\w+\.)?ads?\d.*/
 -ad-
 -ad.
 -ads-
@@ -101,7 +97,6 @@
 *yads.
 *adserv
 *adsrv
-*advert
 *baichuan
 *pangolin
 *banner
