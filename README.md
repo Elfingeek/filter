@@ -25,15 +25,15 @@ Adguard
 
 base			https://filters.adtidy.org/ios/filters/2_optimized.txt
 
-tracking		https://filters.adtidy.org/ios/filters/3_optimized.txt	
+tracking		https://filters.adtidy.org/ios/filters/3_optimized.txt
 
-social			https://filters.adtidy.org/ios/filters/4_optimized.txt	
+social			https://filters.adtidy.org/ios/filters/4_optimized.txt
 
 chinese：	https://filters.adtidy.org/ios/filters/224_optimized.txt
 
-annoyances	https://filters.adtidy.org/ios/filters/21_optimized.txt	
+annoyances	https://filters.adtidy.org/ios/filters/21_optimized.txt
 
-​						https://filters.adtidy.org/ios/filters/22_optimized.txt	
+​						https://filters.adtidy.org/ios/filters/22_optimized.txt
 
 > https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt				
 > https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts			

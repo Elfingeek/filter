@@ -11,6 +11,7 @@
 ||my.ruanmei.com^$domain=ithome.com
 ||163.com/wap/special/*$domain=163.com
 ||163.com/touch/api/paid-$domain=163.com
+||music.126.net^$domain=163.com
 ||tieba.baidu.com/mo/q/recommendpb/*$domain=tieba.baidu.com
 ||tieba.baidu.com/mo/q/game*$domain=tieba.baidu.com
 /invokeBaidu*$domain=baidu.com
@@ -25,6 +26,8 @@
 /business*$domain=baike.baidu.com
 /swanInvoke*$domain=baike.baidu.com
 /starMap*$domain=baike.baidu.com
+/invoke*$domain=baidu.com
+/user*$domain=ithome.com
 /gamecent*
 /game_pop*
 /game_swap*
@@ -33,7 +36,6 @@
 *app-download
 *applaunch
 *applink.
-/invoke/app*
 /jump-app*
 /openapp*
 /open-app.
@@ -51,12 +53,6 @@ _ad_
 /300-
 /300x
 /getmobads*
-/netlittie*
-/lottie.min.js
-/qrcode.min.js
-/swaninoke.js
--report.js
-_report.js
 ! --------
 ||mbd.baidu.com^
 ! ============> CSS
@@ -100,7 +96,7 @@ m.ithome.com##.grade
 m.ithome.com##.hot-app
 m.ithome.com##.footer
 m.163.com##.js-open-app,.js-open-newsapp
-m.163.com##.open-app-btn
+m.163.com##.open-app-btn,s-openApp
 m.163.com##.g-relative-new
 m.163.com##.slider-footer
 m.163.com##.logoTop

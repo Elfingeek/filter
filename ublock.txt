@@ -13,8 +13,10 @@
 /tashuo*$domain=baike.baidu.com
 /wikiad/*$domain=baike.baidu.com
 /GoodsRecommend*$domain=zhihu.com
+/commercial_*$domain=zhihu.com
 /ECommerceAd*$domain=zhihu.com
 /linkcard*$domain=zhihu.com
+/link_card*$domain=zhihu.com
 /csdn-notification*$domain=csdn.net
 /csdn-toolbar*$domain=csdn.net
 /csdn-login*$domain=csdn.net
@@ -203,7 +205,6 @@
 *tads/
 *xads/
 *yads/
-*guesslike
 *nativeAds
 *pop_ad
 *pop_under
@@ -410,6 +411,7 @@ _doubleclick
 =adimg*
 =adunit*
 =advert*
+_ad0*
 _ad-
 _ad.
 _ad?
@@ -735,7 +737,7 @@ _web_ad*
 *affiliat
 *audience
 *beacon
-*metric
+*metrics
 *metrika
 *metrix
 *googleanalytic
@@ -821,7 +823,6 @@ _log?
 /collect/view?
 /collect?
 /comscore*
-/consent*
 /coordinate*
 /count.js
 /csi?v=
@@ -994,7 +995,6 @@ _log?
 /xtcore-
 /xtcore.
 /zanox.js
-/zepto.
 _ga_track*
 _gatrack*
 _tj.js
