@@ -620,6 +620,7 @@ _web_ad*
 ||analytic*.
 ||beacon*.
 ||cnzz.
+||crash2.
 ||dsp-*.
 ||dsp.
 ||elqtrk.

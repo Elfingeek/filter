@@ -13,9 +13,11 @@
 -second_*$domain=baike.baidu.com
 /Audio*$domain=baike.baidu.com
 /video*$domain=baike.baidu.com
-/marriage*$domain=tieba.baidu.com
-/game*$domain=tieba.baidu.com
+/widget/game_$domain=tieba.baidu.com
+/tb/_/game_$domain=tieba.baidu.com
+/game_swap_$domain=tieba.baidu.com
 /interest_*$domain=tieba.baidu.com
+/marriage*$domain=tieba.baidu.com
 /ad_$domain=~tieba.baidu.com
 _ad_$domain=~tieba.baidu.com
 /PCBanner*
@@ -44,7 +46,6 @@ taobao.com##.grid-right
 baike.baidu.com##.second-wrapper
 baike.baidu.com##.poster-middle
 baike.baidu.com##.tashuo-bottom
-tieba.baidu.com##.l_post[data-index]
 map.baidu.com##.cityData
 map.baidu.com###message-center
 map.baidu.com##[id*="leadDownloadCard"i],[class*="leadDownloadCard"i]
