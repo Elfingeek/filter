@@ -70,7 +70,6 @@
 ||wosms.cn
 ||wostore.cn
 ! ----- AD
-/(\w+\.)?ads?\d.*/
 -ad-
 -ad.
 -ads-
