@@ -8,16 +8,14 @@
 ||file.koolearn.com^$domain=koolearn.com
 ||koocdn.com/images/fe_upload/*$domain=koolearn.com
 ||images.koolearn.com/fe_upload/*$domain=koolearn.com
-||my.ruanmei.com^$domain=ithome.com
 ||163.com/wap/special/*$domain=163.com
 ||163.com/touch/api/paid-$domain=163.com
 ||music.126.net^$domain=163.com
 ||tieba.baidu.com/mo/q/recommendpb/*$domain=tieba.baidu.com
 ||tieba.baidu.com/mo/q/game*$domain=tieba.baidu.com
-/invokeBaidu*$domain=baidu.com
-/loft/*$domain=baike.baidu.com
+/loft*$domain=baike.baidu.com
 /m-second*$domain=baike.baidu.com
-/wiki-m-lemma/video*$domain=baike.baidu.com
+/video*$domain=baike.baidu.com
 /lemmagraph*$domain=baike.baidu.com
 /lemmaAudio*$domain=baike.baidu.com
 /lemmaVideo*$domain=baike.baidu.com
@@ -27,7 +25,9 @@
 /swanInvoke*$domain=baike.baidu.com
 /starMap*$domain=baike.baidu.com
 /invoke*$domain=baidu.com
-/user*$domain=ithome.com
+/login.$domain=ithome.com
+/newsgradeget?$domain=ithome.com
+/newpromoteget*$domain=ithome.com
 /gamecent*
 /game_pop*
 /game_swap*
@@ -36,7 +36,7 @@
 *app-download
 *applaunch
 *applink.
-/jump-app*
+/jump-app.
 /openapp*
 /open-app.
 /open-app-
@@ -56,6 +56,7 @@ _ad_
 ! --------
 ||mbd.baidu.com^
 ! ============> CSS
+*##[class*="app-banner"i]
 *##[class*="m-app-"i]
 *##a[href*="openApp"i]
 *##[id*="openApp"i]
@@ -90,13 +91,14 @@ presearch.com##[x-data*="kwrdAdFirst"]
 coolapk.com##.under
 smzdm.com###feed-side,.module-waper,.crumbs
 zhihu.com##.OpenInApp,.Button--blue
+inews.qq.com##.slider-top-bar_sliderWrapper__1q9sd
 m.ithome.com##.open-app-banner
-m.ithome.com##.comment
 m.ithome.com##.grade
 m.ithome.com##.hot-app
 m.ithome.com##.footer
+m.ithome.com##.ruanmei-footer
 m.163.com##.js-open-app,.js-open-newsapp
-m.163.com##.open-app-btn,s-openApp
+m.163.com##.open-app-btn,.s-openApp
 m.163.com##.g-relative-new
 m.163.com##.slider-footer
 m.163.com##.logoTop

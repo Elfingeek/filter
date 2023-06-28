@@ -976,6 +976,7 @@ _tracking
 -stats.js
 _stats.js
 ?imp_
+?zoneid=
 ! -----> JD
 -x.jd.com
 ||cm.jd.com
