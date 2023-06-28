@@ -6,6 +6,13 @@
 ||live.bilibili.com^$domain=bilibili.com
 ||cm.bilibili.com/cm/api/fees/*$domain=bilibili.com
 ||hdslb.com/bfs/sycp/creative_img/*$domain=bilibili.com
+/csdn-notification*$domain=csdn.net
+/csdn-toolbar*$domain=csdn.net
+/csdn-login*$domain=csdn.net
+/user-login*$domain=csdn.net
+/user-medal*$domain=csdn.net
+/user-order*$domain=csdn.net
+/fixed-sidebar*$domain=csdn.net
 /gettashuolist*$domain=baike.baidu.com
 /getstarmap*$domain=baike.baidu.com
 /lemmaRelation*$domain=baike.baidu.com
@@ -17,13 +24,8 @@
 /ECommerceAd*$domain=zhihu.com
 /linkcard*$domain=zhihu.com
 /link_card*$domain=zhihu.com
-/csdn-notification*$domain=csdn.net
-/csdn-toolbar*$domain=csdn.net
-/csdn-login*$domain=csdn.net
-/user-login*$domain=csdn.net
-/user-medal*$domain=csdn.net
-/user-order*$domain=csdn.net
-/fixed-sidebar*$domain=csdn.net
+&biz_tag=$domain=zhihu.com
+/recommendation*
 *antiAdblock
 *blockAdblock
 *fuckAdblock
@@ -51,7 +53,6 @@
 /unsupported.js
 /getrelated*
 /directad?
-/recommendation*
 ! ----> ISP
 ||id6.me
 ||10086.cn

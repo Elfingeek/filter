@@ -4,17 +4,14 @@
 ! Expires: 3 days
 ! --------
 ||ecosia.org^$script,domain=ecosia.org
-||img.koolearn.com^$domain=koolearn.com
-||file.koolearn.com^$domain=koolearn.com
-||koocdn.com/images/fe_upload/*$domain=koolearn.com
-||images.koolearn.com/fe_upload/*$domain=koolearn.com
 ||163.com/wap/special/*$domain=163.com
 ||163.com/touch/api/paid-$domain=163.com
 ||music.126.net^$domain=163.com
-||tieba.baidu.com/mo/q/recommendpb/*$domain=tieba.baidu.com
-||tieba.baidu.com/mo/q/game*$domain=tieba.baidu.com
-/loft*$domain=baike.baidu.com
+||img.koolearn.com^$domain=koolearn.com
+||file.koolearn.com^$domain=koolearn.com
+/fe_upload/*$domain=koolearn.com
 /m-second*$domain=baike.baidu.com
+/loft*$domain=baike.baidu.com
 /video*$domain=baike.baidu.com
 /lemmagraph*$domain=baike.baidu.com
 /lemmaAudio*$domain=baike.baidu.com
@@ -24,6 +21,8 @@
 /business*$domain=baike.baidu.com
 /swanInvoke*$domain=baike.baidu.com
 /starMap*$domain=baike.baidu.com
+/recommendpb/*$domain=tieba.baidu.com
+/game*$domain=tieba.baidu.com
 /invoke*$domain=baidu.com
 /login.$domain=ithome.com
 /newsgradeget?$domain=ithome.com
