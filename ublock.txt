@@ -489,8 +489,6 @@ _advert*
 /inc_ad*
 /index_ad*
 /index-ad*
-/inject-
-/inject.
 /inlineAds*
 /inner-ad*
 /innerads*

@@ -235,7 +235,6 @@
 *click
 *counter
 *crash
-*event
 *facebook
 *feedback
 *firebase
