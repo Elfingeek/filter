@@ -38,6 +38,7 @@
 ||hmma.baidu.com
 ||miao.baidu.com
 ||sofire.baidu.com^
+||tuisong.baidu.com
 ||ai.taobao.com^
 ||audid-api.taobao.com^
 ||video.taobao.com^
@@ -99,7 +100,6 @@
 *adsrv
 *baichuan
 *pangolin
-*banner
 *doubleclick
 *googlead
 *mobad
@@ -109,7 +109,6 @@
 *startapp
 *openads
 *guangg
-*tuisong
 *promo
 *game
 ||ad-*.

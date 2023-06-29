@@ -25,7 +25,6 @@
 /linkcard*$domain=zhihu.com
 /link_card*$domain=zhihu.com
 &biz_tag=$domain=zhihu.com
-/recommendation*
 *antiAdblock
 *blockAdblock
 *fuckAdblock
@@ -200,16 +199,16 @@
 *google-ad
 *google_ad
 *googlelead
-/googleafc
-/google-afc
-/google_afc
-/googleafs
-/google_afs
-/google-dfp
-/googledfp
--doubleclick
-/doubleclick
-_doubleclick
+/googleafc*
+/google-afc*
+/google_afc*
+/googleafs*
+/google_afs*
+/google-dfp*
+/googledfp*
+-doubleclick*
+/doubleclick*
+_doubleclick*
 .ad-
 .ads.
 .adserv*
@@ -289,7 +288,7 @@ _doubleclick
 /adlo*
 /adma*
 /adme*
-/admir
+/admir*
 /admo*
 /adne*
 /adno*
@@ -367,7 +366,7 @@ _doubleclick
 /adv/*
 /adv_
 /adv?
-/advalue
+/advalue*
 /adver*
 /adview*
 /adweb*
@@ -416,17 +415,12 @@ _adv_
 _advert*
 /afcads.
 /arcads.
-/badjs
-/banner-
-/banner.
-/banner_
-/banner_ad
-/banner468
-/banner728
-/bannerad
-/banner-ad
-/banners/ad
-/banners_
+/badjs.
+/banner_ad*
+/banner468*
+/banner728*
+/bannerad*
+/banner-ad*
 /bd.js
 /bgads.
 /bigad*
@@ -708,7 +702,6 @@ _web_ad*
 *stats.com
 *affiliat
 *audience
-*beacon
 *metrics
 *metrika
 *metrix
@@ -997,7 +990,6 @@ _stats.js
 ||dm.pstatp.com
 ||dm.toutiao.com
 ||dm.bytedance.com
-||is.snssdk.com
 ||bds.snssdk.com
 ||sdfp.snssdk.com
 ||extlog.snssdk.com
@@ -1046,7 +1038,6 @@ _stats.js
 ||ns-strategy.cdn.bcebos.com^
 ||baikevideo.cdn.bcebos.com^
 ||tieba-ares.cdn.bcebos.com^
-||bj.bcebos.com^
 ||baidustatic.com^
 ||ae.bdstatic.com^
 ||fex.bdstatic.com^
@@ -1056,10 +1047,9 @@ _stats.js
 ||vd3.bdstatic.com^
 ||vdse.bdstatic.com^
 ! -----> Tencent
-*gdt.qq.com
-*gdtimg.com
-*mdt.qq.com
-*aegis.qq.com
+.gdt.qq.com
+.gdtimg.com
+.mdt.qq.com
 .trace.qq.com
 ||pgdt.
 ||bugly.qq.com
@@ -1073,7 +1063,6 @@ _stats.js
 ||ysdk.qq.com
 ||qidian.qq.com^
 ||qiye.qq.com^
-||ssp.qq.com^
 ||bqq.gtimg.com^
 ||tianshu.gtimg.cn^
 ! -----> Ali
