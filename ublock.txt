@@ -642,7 +642,6 @@ _web_ad*
 ||logapi.
 ||logger.
 ||logging*.
-||loggw.
 ||logs*.
 ||marketing.
 ||metric*.
@@ -989,7 +988,6 @@ _stats.js
 ||pglstatp*.
 ||dm.pstatp.com
 ||dm.toutiao.com
-||dm.bytedance.com
 ||bds.snssdk.com
 ||sdfp.snssdk.com
 ||extlog.snssdk.com
