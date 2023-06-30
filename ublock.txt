@@ -25,6 +25,10 @@
 /linkcard*$domain=zhihu.com
 /link_card*$domain=zhihu.com
 &biz_tag=$domain=zhihu.com
+/rewards*$domain=bing.com
+/web4static*$domain=yandex.com
+/safeclick*$domain=yandex.com
+/images-apphost/*$domain=yandex.com
 *antiAdblock
 *blockAdblock
 *fuckAdblock

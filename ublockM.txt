@@ -6,7 +6,7 @@
 ||ecosia.org^$script,domain=ecosia.org
 ||163.com/wap/special/*$domain=163.com
 ||163.com/touch/api/paid-$domain=163.com
-||music.126.net^$domain=163.com
+||music.$domain=163.com
 ||img.koolearn.com^$domain=koolearn.com
 ||file.koolearn.com^$domain=koolearn.com
 /fe_upload/*$domain=koolearn.com
@@ -30,6 +30,7 @@
 /gamecent*
 /game_pop*
 /game_swap*
+?feedback=
 ! ----- App
 *appdownload
 *app-download
@@ -86,11 +87,12 @@ _ad_
 *##[class*="bd-share"i]
 *##[class*="footer-banner"i]
 ecosia.org##.main-footer
+yandex.com##.react-component
 presearch.com##[x-data*="kwrdAdFirst"]
 coolapk.com##.under
 smzdm.com###feed-side,.module-waper,.crumbs
 zhihu.com##.OpenInApp,.Button--blue
-inews.qq.com##.slider-top-bar_sliderWrapper__1q9sd
+view.inews.qq.com##[dt-eid="em_pull_news"]
 m.ithome.com##.open-app-banner
 m.ithome.com##.grade
 m.ithome.com##.hot-app
