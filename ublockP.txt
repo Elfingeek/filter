@@ -1,7 +1,7 @@
 [AdBlock]
 ! Title: ublock pc
 ! Description: For PC
-! Expires: 3 days
+! Expires: 4 days
 ! ==============> URL
 /tianshu*$domain=weiyun.com
 /attachments/image*$domain=w3cschool.cn

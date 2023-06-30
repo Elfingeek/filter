@@ -1,7 +1,7 @@
 [AdBlock]
 ! Title: DNS Mobile
 ! Description: Only for Adguard DNS Filter
-! Expires: 3 days
+! Expires: 4 days
 ! -----> Apps
 -x.jd.com
 *tj.baidu.com

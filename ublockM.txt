@@ -1,7 +1,7 @@
 [AdBlock]
 ! Title: ublock mobile
 ! Description: For Mobile browser
-! Expires: 3 days
+! Expires: 4 days
 ! --------
 ||ecosia.org^$script,domain=ecosia.org
 ||163.com/wap/special/*$domain=163.com

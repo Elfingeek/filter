@@ -1,7 +1,7 @@
 [AdBlock]
 ! Title: ublock
 ! Description: For PC & Mobile
-! Expires: 3 days
+! Expires: 4 days
 ! ----> 
 ||live.bilibili.com^$domain=bilibili.com
 ||cm.bilibili.com/cm/api/fees/*$domain=bilibili.com
@@ -421,6 +421,9 @@ _advert*
 /banner728*
 /bannerad*
 /banner-ad*
+/banner.cgi?
+/banner.htm
+/banner.php
 /bd.js
 /bgads.
 /bigad*
@@ -752,6 +755,7 @@ _log?
 /awstats.js
 /b/ss/*
 /baynote*
+/beacon*
 /bluekai*
 /bm/cv/*
 /cdn-cgi/apps/body/*
@@ -849,14 +853,6 @@ _log?
 /imp?
 /impression*
 /linktrack*
-/log_a*
-/log_e*
-/log_h*
-/log_i*
-/log_p*
-/log_r*
-/log_s*
-/log_t*
 /loganaly*
 /logclick*
 /logcolletct*
@@ -889,6 +885,11 @@ _log?
 /pageview*
 /php-stats.
 /piwik*
+/pixel.cgi?
+/pixel.jsp?
+/pixel.php?
+/pixel.swf?
+/pixeltrack*
 /ptracking*
 /pv.js
 /pv.php?
@@ -963,10 +964,6 @@ _ga_track*
 _gatrack*
 _tj.js
 -web-analytics*
--tracking
-_tracking
--stats.js
-_stats.js
 ?imp_
 ?zoneid=
 ! -----> JD
