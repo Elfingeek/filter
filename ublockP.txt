@@ -23,8 +23,6 @@ _ad_$domain=~tieba.baidu.com
 /PCBanner*
 ! ==============> CSS
 bing.com##.sb_adTA
-ecosia.org##.main-footer
-yandex.com##.incut
 123pan.com##.VipBanner
 123pan.com##.ant-layout > div
 top.zhan.com##.model_mask
@@ -33,6 +31,7 @@ top.zhan.com##.service_container
 w3cschool.cn##.widget-body
 stackoverflow.com##.ps-fixed
 deepl.com###dl_quotes_container
+douban.com##.aside
 zhihu.com##.Pc-word
 smzdm.com###feed-side
 smzdm.com##.insert-outer
@@ -51,7 +50,6 @@ baike.baidu.com##.tashuo-bottom
 map.baidu.com##.cityData
 map.baidu.com###message-center
 map.baidu.com##[id*="leadDownloadCard"i],[class*="leadDownloadCard"i]
-ditu.amap.com##.amap-app-download
 youtube.com###secondary
 youtube.com##ytd-fact-check-renderer
 youtube.com##ytd-reel-shelf-renderer
