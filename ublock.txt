@@ -1068,7 +1068,6 @@ _tj.js^
 ||baichuan-sdk.
 ||nbsdk-baichuan.
 ||atanx.alicdn.com
-||umtrack.com^
 ! -----> Netease
 ||g.163.com
 ||g1.163.com

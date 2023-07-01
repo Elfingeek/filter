@@ -24,7 +24,6 @@
 /analytics
 /banner*
 /feedback.js^
-/newsapp_
 /pixel.
 /pop/*
 /recommend-
