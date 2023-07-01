@@ -20,6 +20,8 @@
 /tashuo*$domain=baike.baidu.com
 /wikiad/*$domain=baike.baidu.com
 /GoodsRecommend*$domain=zhihu.com
+/recommend*$domain=zhihu.com
+/collector*$domain=zhihu.com
 /commercial_*$domain=zhihu.com
 /ECommerceAd*$domain=zhihu.com
 /linkcard*$domain=zhihu.com
@@ -733,12 +735,6 @@ _log?
 /log_
 /logger.
 /logger?
-/analytics-
-/analytics.
-/analytics?
-/analytics/*
-/analytics_
-/analysis/js/*
 /accessLog?
 /acclog.
 /acecounter*
@@ -843,6 +839,7 @@ _log?
 /geo-ip-detect*
 /geolocation*
 /geo-location*
+/getloc?
 /gpt.
 /gtag.
 /gtm.
@@ -1190,12 +1187,16 @@ _tj.js^
 *###adsbygoogle
 *##[id$="Ads"]
 *##[class$="Ads"]
+*##[id~="ads"i]
+*##[id|="ads"i]
 *##[id^="ads-"i]
 *##[id^="ads_"i]
 *##[id$="-ads"i]
 *##[id$="_ads"i]
 *##[id*="-ads-"i]
 *##[id*="_ads_"i]
+*##[class~="ads"i]
+*##[class|="ads"i]
 *##[class^="ads-"i]
 *##[class^="ads_"i]
 *##[class$="-ads"i]

@@ -186,7 +186,6 @@
 ||adv-*.
 ||adv.
 ||advers*.
-||advert*.
 ||advi*.
 ||advm*.
 ||adw*.
