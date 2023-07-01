@@ -25,7 +25,6 @@
 /banner*
 /feedback.js^
 /newsapp_
-/notice.
 /pixel.
 /pop/*
 /recommend-

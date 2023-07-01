@@ -53,10 +53,11 @@
 *mobile_ad
 /ad_
 _ad_
+/getmobads*
+/log.
 /log/*
 /300-
 /300x
-/getmobads*
 ! --------
 ||mbd.baidu.com^
 ! ============> CSS
@@ -94,12 +95,6 @@ _ad_
 *##[class*="_ad_"i]
 sogou.com###topHint
 coolapk.com##.under
-apkpure.com##.side
-apkpure.com##.aegon
-apkpure.com##.aegon-down-item
-apkpure.com##.apk-list-with
-apkpure.com##.footer_new
-apkpure.com##.float-button-second
 zhihu.com##.OpenInApp,.Button--blue
 view.inews.qq.com##[dt-eid="em_pull_news"]
 view.inews.qq.com##[class*="interaction-bottom_interaction"]
@@ -107,24 +102,24 @@ smzdm.com###feed-side,.module-waper,.crumbs
 appinn.com##.featured-section
 appinn.com##.sidebar
 appinn.com###site-footer
-m.ithome.com##.open-app-banner
-m.ithome.com##.grade
-m.ithome.com##.hot-app
-m.ithome.com##.footer
-m.ithome.com##.ruanmei-footer
-m.163.com##.js-open-app,.js-open-newsapp
-m.163.com##.open-app-btn,.s-openApp
-m.163.com##.g-relative-new
-m.163.com##.slider-footer
-m.163.com##.logoTop
-m.163.com##.logoBottom
-m.163.com##.hotSlider
-m.163.com##.hotRank
-m.koolearn.com##p > span
-m.koolearn.com##.p-mo
-m.koolearn.com##.p-mo-tit
-m.koolearn.com##.jp-popup
-m.koolearn.com###jp-list
+ithome.com##.open-app-banner
+ithome.com##.grade
+ithome.com##.hot-app
+ithome.com##.footer
+ithome.com##.ruanmei-footer
+163.com##.js-open-app,.js-open-newsapp
+163.com##.open-app-btn,.s-openApp
+163.com##.g-relative-new
+163.com##.recommend
+163.com##.slider-footer
+163.com##.logoBottom
+163.com##.hotSlider
+163.com##.hotRank
+koolearn.com##p > span
+koolearn.com##.p-mo
+koolearn.com##.p-mo-tit
+koolearn.com##.jp-popup
+koolearn.com###jp-list
 tieba.baidu.com##div.nav-bar
 tieba.baidu.com##.feed-warp
 tieba.baidu.com##.fengchao-banner-defensive
@@ -136,6 +131,12 @@ baike.baidu.com##.tashuo-inContent
 baike.baidu.com##.tashuo-feed-wrap
 baike.baidu.com##.news-container
 baike.baidu.com##.graph-card
+apkpure.com##.side
+apkpure.com##.aegon
+apkpure.com##.aegon-down-item
+apkpure.com##.apk-list-with
+apkpure.com##.footer_new
+apkpure.com##.float-button-second
 youtube.com##ytm-fact-check-renderer
 youtube.com##ytm-reel-shelf-renderer
 youtube.com##ytm-merch-shelf-renderer

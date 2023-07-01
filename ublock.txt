@@ -77,6 +77,7 @@
 .wosms.cn
 .wostore.cn
 ! ------> AD
+||advert*.
 ||ad-*.
 ||ad.
 ||adba*.
@@ -153,7 +154,6 @@
 ||adv-*.
 ||adv.
 ||advers*.
-||advert*.
 ||advi*.
 ||advm*.
 ||adw*.
@@ -731,7 +731,6 @@ _web_ad*
 _log.
 _log?
 /log-
-/log.
 /log?
 /log_
 /logger.
@@ -1215,7 +1214,6 @@ _tj.js^
 *##[class*="tuiguang"i]
 *##[id*="interested"i]
 *##[class*="interested"i]
-*##[class^="recommend"i]
 *##[id*="promotion"]
 *##[class*="promotion"]
 bing.com##.b_ans

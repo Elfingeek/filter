@@ -21,6 +21,7 @@
 /ad_$domain=~tieba.baidu.com
 _ad_$domain=~tieba.baidu.com
 /PCBanner*
+/log.
 ! ==============> CSS
 bing.com##.sb_adTA
 123pan.com##.VipBanner
