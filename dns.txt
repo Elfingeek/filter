@@ -99,7 +99,6 @@
 *adserv
 *adsrv
 *baichuan
-*pangolin
 *doubleclick
 *googlead
 *mobad
@@ -248,6 +247,7 @@
 *telemetry
 *tongj
 ||cnzz.
+||collect.
 ||dsp-*.
 ||dsp.
 ||elqtrk.
@@ -313,6 +313,8 @@
 ||quantserve.com^
 ||realsrv.com^
 ||stgowan.com^
+||shenshiads.com^
+||yximgs.com^
 ||wwads.cn^
 ||dlads.cn^
 ||51.la^

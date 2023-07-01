@@ -659,7 +659,6 @@ _web_ad*
 ||oms.
 ||pix.
 ||pixel*.
-||promo*.
 ||reklam*.
 ||report*.
 ||saa.
@@ -789,7 +788,6 @@ _log?
 /collect/stats?
 /collect/track
 /collect/view?
-/collect?
 /comscore*
 /coordinate*
 /count.js^

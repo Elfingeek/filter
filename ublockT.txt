@@ -23,6 +23,7 @@
 /analysis
 /analytics
 /banner*
+/collect?
 /feedback.js^
 /pixel.
 /pop/*
