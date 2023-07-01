@@ -13,6 +13,7 @@
 /user-medal*$domain=csdn.net
 /user-order*$domain=csdn.net
 /fixed-sidebar*$domain=csdn.net
+/getloft*$domain=baike.baidu.com
 /gettashuolist*$domain=baike.baidu.com
 /getstarmap*$domain=baike.baidu.com
 /lemmaRelation*$domain=baike.baidu.com
@@ -1014,6 +1015,7 @@ _tj.js^
 ||eduad.baidu.com^
 ||eiv.baidu.com^
 ||hmma.baidu.com^
+||miao.baidu.com^
 ||msite.baidu.com^
 ||pos.baidu.com^
 ||spcode.baidu.com^

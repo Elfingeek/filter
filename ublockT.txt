@@ -1,0 +1,36 @@
+[AdBlock]
+! Title: ublock test
+! Description: Experiment rules
+! Expires: 4 days
+||ad0*.
+||ad1*.
+||ad2*.
+||ad3*.
+||ad4*.
+||ad5*.
+||ad6*.
+||ad7*.
+||ads0*.
+||ads1*.
+||ads2*.
+||ads3*.
+||ads4*.
+||ads5*.
+||analytics.
+||count*.
+||ip38.com
+||ip138.com^
+/analysis
+/analytics
+/banner*
+/feedback.js^
+/newsapp_
+/notice.
+/pixel.
+/pop/*
+/recommend-
+/report.js^
+-tracking
+_tracking
+-stats.js
+_stats.js
