@@ -25,6 +25,7 @@
 /banner*
 /collect?
 /feedback.js^
+/logger.
 /pixel.
 /pop/*
 /recommend-

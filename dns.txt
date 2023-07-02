@@ -10,7 +10,6 @@
 ||a.market.xiaomi.com^
 ||hmma.baidu.com^
 ||miao.baidu.com^
-||sofire.baidu.com^
 ||tuisong.baidu.com^
 ||cpro.baidu
 ||wxs.qq.com^
@@ -41,11 +40,8 @@
 ||cm.jd.com^
 ||janapi.jd.com^
 ||kepler.jd.com^
-||knicks.jd.com^
 ||orbit.jd.com^
 ||dg.k.jd.com^
-||mars.jd.com^
-||blackhole.m.jd.com^
 ||video*.pddpic.com^
 ||video*.pddugc.com^
 ||live*.pddpic.com^
@@ -97,7 +93,6 @@
 *startapp
 *openads
 *guangg
-*game
 ||ad-*.
 ||adba*.
 ||adbi*.
@@ -205,7 +200,6 @@
 *track.
 *trace
 *trac.
-*trk.
 *clk.
 *affiliat
 *analy
@@ -271,7 +265,6 @@
 ||strack*.
 ||tj.
 ||tjlog.
-||tr.
 ||tr1.
 ||trk.
 ||ulog-*.

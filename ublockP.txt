@@ -25,6 +25,7 @@ _ad_$domain=~tieba.baidu.com
 ||log.
 ! ========> CSS
 bing.com##.sb_adTA
+you.com##[data-testid="STATIC_BOTTOM_BAR"]
 123pan.com##.VipBanner
 123pan.com##.ant-layout > div
 top.zhan.com##.model_mask

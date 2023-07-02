@@ -161,7 +161,7 @@
 .gdt.qq.com
 .gdtimg.com
 .mdt.qq.com
-trace.qq.com
+*trace.qq.com
 ||pgdt.
 ||aegis.qq.com^
 ||cfg.imtt.qq.com
@@ -944,7 +944,6 @@ _log?
 /log-
 /log?
 /log_
-/logger.
 /logger?
 /accessLog?
 /acclog.
@@ -1232,3 +1231,4 @@ bing.com##.b_msg
 bing.com##.b_footer
 bing.com###mfa_root
 ecosia.org##.main-footer
+ecosia.org##.videos-snippet
