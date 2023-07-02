@@ -945,6 +945,9 @@ _log?
 /log?
 /log_
 /logger?
+/logger/*
+/logging/*
+/logs/*
 /accessLog?
 /acclog.
 /acecounter*
@@ -1068,11 +1071,7 @@ _log?
 /logcolletct*
 /logcount*
 /logevent*
-/logger.js^
-/logger/*
-/logging/*
 /logpage*
-/logs/*
 /logstat*
 /logview*
 /mistats/*
