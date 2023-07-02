@@ -27,8 +27,6 @@
 /code.js^
 /invoke.js^
 /nocopy.js^
-/unsupported.js^
-/getrelated*
 ! -----> JD
 -x.jd.com
 ||cm.jd.com
@@ -768,10 +766,7 @@ _advert*
 /web-ad*
 /widgetad*
 /wppas*
-/wwwad.
-/wwwads.
 /xads.
-/xxgg/*
 /yads*
 _banner_ad*
 _bannerad*

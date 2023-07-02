@@ -232,7 +232,6 @@
 ||geoloc*.
 ||geoservice*.
 ||gostats.
-||gtrk.
 ||hit-*.
 ||hit.
 ||hitcount*.
