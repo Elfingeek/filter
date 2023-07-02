@@ -1,8 +1,13 @@
 [AdBlock]
 ! Title: DNS Filter
-! Description: Only for Adguard DNS Filter
+! Description: For Adguard DNS Filter
 ! Expires: 4 days
 ! -----> Apps
+adashx.m.taobao.com
+adash.m.taobao.com
+||ai.taobao.com^
+||video.taobao.com^
+||live-spare.alicdn.com^
 ||a.market.xiaomi.com^
 ||wxs.qq.com^
 ||wxsnsdy.tc.qq.com^
@@ -20,9 +25,6 @@
 ||gdtimg.com^
 ||mdt.qq.com^
 ||pgdt.
-||ai.taobao.com^
-||video.taobao.com^
-||live-spare.alicdn.com^
 ||cm.jd.com^
 ||janapi.jd.com^
 ||kepler.jd.com^

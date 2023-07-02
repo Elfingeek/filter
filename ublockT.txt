@@ -41,13 +41,12 @@ _log?
 /analysis
 /analytics
 /banner*
-/collect?
-/feedback.js^
+/feedback.js
 /logger.
 /pixel.
 /pop/*
 /recommend-
-/report.js^
+/report.js
 -tracking
 _tracking
 -stats.js

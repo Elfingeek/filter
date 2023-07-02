@@ -1,0 +1,22 @@
+[AdBlock]
+! Title: Apps Filter
+! Description: For Adguard Ads Filter
+! Expires: 4 days
+! -----> Apps
+||video*.pddugc.com^$app=com.xunmeng.pinduoduo
+||video*.pddpic.com^$app=com.xunmeng.pinduoduo
+||live*.pddpic.com^$app=com.xunmeng.pinduoduo
+_wxAd_$app=com.tencent.mm
+.wxs.qq.com$app=com.tencent.mm
+/ads|$app=system
+/cpd|$app=system
+/cps|$app=system
+! ----> ISP
+=id6.me^
+.10086.cn^
+.189.cn^
+.21cn.com^
+.10010.com^
+.wo.cn^
+.wosms.cn^
+.wostore.cn^
