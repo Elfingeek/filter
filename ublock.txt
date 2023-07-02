@@ -82,7 +82,6 @@
 ||hmma.baidu.com^
 ||iwanad.baidu.com^
 ||miao.baidu.com^
-||msite.baidu.com^
 ||pos.baidu.com^
 ||sp0.baidu.com^
 ||sp1.baidu.com^
@@ -96,7 +95,6 @@
 ||nspt.bdstatic.com^
 ||su.bdstatic.com^
 ||zz.bdstatic.com^
-||vd3.bdstatic.com^
 ||vdse.bdstatic.com^
 ||ecma.bdimg.com^
 ||ecmb.bdimg.com^
@@ -140,7 +138,7 @@
 /cnzz.
 ||alimama.
 ||baichuan-sdk.
-||nbsdk-baichuan.
+||nbsdk-baichuan.alicdn.com^
 ||atanx.alicdn.com^
 ||tce.alicdn.com^
 ! -----> Netease
