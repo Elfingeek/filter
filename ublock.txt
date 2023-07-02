@@ -32,17 +32,9 @@
 ! -----> JD
 -x.jd.com
 ||cm.jd.com
-||janapi.jd.com
-||kepler.jd.com
-||knicks.jd.com
-||orbit.jd.com
 ||dg.k.jd.com
 ||dgstatic.jd.com
-||diviner.jd.com^
-||mercury.jd.com^
 ||dd-static.jd.com^
-||mars.jd.com^
-||blackhole.jd.com^
 ! -----> ByteDance
 ||pangolin*.
 ||pglstatp*.
@@ -128,21 +120,21 @@
 *trace.qq.com
 ||pgdt.
 ||aegis.qq.com^
-||cfg.imtt.qq.com
-||e.qq.com
-||l.qq.com
+||cfg.imtt.qq.com^
+||e.qq.com^
+||l.qq.com^
 ||mqqad.html5.qq.com^
-||msdk.qq.com
+||msdk.qq.com^
 ||pingma.qq.com^
 ||pingtas.qq.com^
 ||qidian.qq.com^
 ||qiye.qq.com^
-||qzs.qq.com
-||rh.qq.com
-||sngmta.qq.com
+||qzs.qq.com^
+||rh.qq.com^
+||sngmta.qq.com^
 ||stat.y.qq.com^
 ||uplog.inews.qq.com^
-||ysdk.qq.com
+||ysdk.qq.com^
 ||bqq.gtimg.com^
 ||tianshu.gtimg.cn^
 ! -----> Ali
@@ -151,15 +143,15 @@
 ||alimama.
 ||baichuan-sdk.
 ||nbsdk-baichuan.
-||atanx.alicdn.com
+||atanx.alicdn.com^
 ||tce.alicdn.com^
 ! -----> Netease
-||g.163.com
-||g1.163.com
-||nex.163.com
-||rlogs.youdao.com
-||gorgon.youdao.com
-||nos-jd.163yun.com
+||g.163.com^
+||g1.163.com^
+||nex.163.com^
+||rlogs.youdao.com^
+||gorgon.youdao.com^
+||nos-jd.163yun.com^
 ||onegoods.nosdn.127.net^
 ||yt-adp.ws.126.net^
 ||ip.ws.126.net^
@@ -262,6 +254,8 @@
 .wostore.cn^
 ! ------> AD
 ||advert*.
+||amazon-adsystem.
+||doubleclick.
 ||ad-*.
 ||ad.
 ||adba*.
@@ -342,15 +336,10 @@
 ||advm*.
 ||adw*.
 ||adx*.
-||affiliat*.
-||amazon-adsystem.
-||doubleclick.
 ||gg.
 ||gif.
-||googlesyndication.com
 ||jads.
 ||jpush.
-||onclick*.
 ||pagead.
 ||pagead2.
 ||umeng*.
@@ -390,6 +379,7 @@
 *google-ad
 *google_ad
 *googlelead
+*googlesyndication
 /googleafc*
 /google-afc*
 /google_afc*
@@ -804,6 +794,7 @@ _web_ad*
 ?show_ad*
 ! -----> Privacy
 ||facebook.
+||affiliat*.
 ||analysis*.
 ||analytic*.
 ||beacon*.
@@ -878,8 +869,6 @@ _web_ad*
 *analysis.com
 *analytics.com
 *analysis.min.js^
-*clk.com
-*counter.com
 *trk.com
 *trk.net
 *track.net

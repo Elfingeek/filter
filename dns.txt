@@ -3,15 +3,7 @@
 ! Description: Only for Adguard DNS Filter
 ! Expires: 4 days
 ! -----> Apps
--x.jd.com
-*tj.baidu.com
-*log.baidu.com
-*click.baidu.com
 ||a.market.xiaomi.com^
-||hmma.baidu.com^
-||miao.baidu.com^
-||tuisong.baidu.com^
-||cpro.baidu
 ||wxs.qq.com^
 ||wxsnsdy.tc.qq.com^
 ||wxsnsdy.video.qq.com^
@@ -20,7 +12,6 @@
 ||szt-obs-image.
 ||poplayer.
 ||getui.
-||mj.weimob.net^
 ||bugly.qq.com^
 ||rh.qq.com^
 ||e.qq.com^
@@ -32,11 +23,6 @@
 ||ai.taobao.com^
 ||video.taobao.com^
 ||live-spare.alicdn.com^
-||g1.163.com^
-||nex.163.com^
-||nos-jd.163yun.com^
-||onegoods.nosdn.127.net^
-||pglstatp*.
 ||cm.jd.com^
 ||janapi.jd.com^
 ||kepler.jd.com^
@@ -46,6 +32,11 @@
 ||video*.pddugc.com^
 ||live*.pddpic.com^
 ||live.bilibili.com^
+||g1.163.com^
+||nex.163.com^
+||nos-jd.163yun.com^
+||onegoods.nosdn.127.net^
+||pglstatp*.
 ! ----> ISP
 ||id6.me^
 ||10086.cn^
@@ -55,7 +46,7 @@
 ||wo.cn^
 ||wosms.cn^
 ||wostore.cn^
-! ----- AD
+! -----> Ads
 -ad-
 -ad.
 -ads-
@@ -181,7 +172,16 @@
 ||pagead2.
 ||umeng*.
 ||zhanzhang.
-! ----- privacy
+||admob*.
+||inmobi*.
+||appjiagu.com^
+||appspot.com^
+||appsflyer.com^
+||qchannel01.cn^
+||qchannel03.cn^
+||qchannel04.cn^
+||shenshiads.com^
+! -----> Privacy
 *facebook
 -log-
 -log.
@@ -200,7 +200,6 @@
 *track.
 *trace
 *trac.
-*clk.
 *affiliat
 *analy
 *alysis
@@ -228,7 +227,6 @@
 ||elqtrk.
 ||error*.
 ||event*.
-||feedback*.
 ||geo.
 ||geoip*.
 ||geoloc*.
@@ -265,20 +263,7 @@
 ||strack*.
 ||tj.
 ||tjlog.
-||tr1.
-||trk.
 ||ulog-*.
 ||weblog.
 ||webstat*.
 ||xlog.
-! --------
-||admob*.
-||inmobi*.
-||appjiagu.com^
-||appspot.com^
-||appsflyer.com^
-||qchannel01.cn^
-||qchannel03.cn^
-||qchannel04.cn^
-||shenshiads.com^
-||yximgs.com^

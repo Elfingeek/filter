@@ -29,7 +29,6 @@
 /ECommerceAd*$domain=zhihu.com
 /linkcard*$domain=zhihu.com
 /link_card*$domain=zhihu.com
-&biz_tag=$domain=zhihu.com
 /getloft*$domain=baike.baidu.com
 /gettashuolist*$domain=baike.baidu.com
 /getstarmap*$domain=baike.baidu.com
