@@ -52,8 +52,6 @@
 /ad_
 _ad_
 /getmobads*
-/log.
-/log/*
 /300-
 /300x
 ! ========> CSS

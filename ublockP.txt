@@ -17,7 +17,6 @@
 /ad_$domain=~tieba.baidu.com
 _ad_$domain=~tieba.baidu.com
 /PCBanner*
-/log.
 ||log.
 ! ========> CSS
 bing.com##.sb_adTA
