@@ -35,6 +35,7 @@
 /game_pop*
 /game_swap*
 ?feedback=
+||log.
 ! ----- App
 *appdownload
 *app-download
