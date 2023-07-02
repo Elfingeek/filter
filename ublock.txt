@@ -1,47 +1,12 @@
 [AdBlock]
 ! Title: ublock
-! Description: For PC & Mobile
+! Description: For PC & Mobile Browser
 ! Expires: 4 days
 ! ----> 
-||live.bilibili.com^$domain=bilibili.com
-||cm.bilibili.com/cm/api/fees/*$domain=bilibili.com
-||hdslb.com/bfs/sycp/creative_img/*$domain=bilibili.com
-||zhancrmerp.$domain=top.zhan.com
-||erebor.douban.com^$domain=douban.com
-||at*.doubanio.com^$domain=douban.com
-||sugar.zhihu.com^
-||oia.zhihu.com^
-/csdn-notification*$domain=csdn.net
-/csdn-toolbar*$domain=csdn.net
-/csdn-login*$domain=csdn.net
-/user-login*$domain=csdn.net
-/user-medal*$domain=csdn.net
-/user-order*$domain=csdn.net
-/fixed-sidebar*$domain=csdn.net
-/getloft*$domain=baike.baidu.com
-/gettashuolist*$domain=baike.baidu.com
-/getstarmap*$domain=baike.baidu.com
-/lemmaRelation*$domain=baike.baidu.com
-/second*$domain=baike.baidu.com
-/tashuo*$domain=baike.baidu.com
-/wikiad/*$domain=baike.baidu.com
-/GoodsRecommend*$domain=zhihu.com
-/recommend*$domain=zhihu.com
-/collector*$domain=zhihu.com
-/commercial_*$domain=zhihu.com
-/ECommerceAd*$domain=zhihu.com
-/linkcard*$domain=zhihu.com
-/link_card*$domain=zhihu.com
-&biz_tag=$domain=zhihu.com
-/rewards*$domain=bing.com
-/web4static*$domain=yandex.com
-/safeclick*$domain=yandex.com
-/images-apphost/*$domain=yandex.com
-/sidebar*$domain=v2ex.com
 *antiAdblock
 *blockAdblock
 *fuckAdblock
-/fuck-debug*
+/fuck-debugger*
 /adblock?
 /debugger.js^
 /a.js^
@@ -64,7 +29,6 @@
 /nocopy.js^
 /unsupported.js^
 /getrelated*
-/directad?
 ! -----> JD
 -x.jd.com
 ||cm.jd.com
@@ -678,6 +642,7 @@ _advert*
 /dclk_ads*
 /delivery.
 /delivery/*
+/directad?
 /displayad*
 /dynamicad*
 /easyads*
@@ -1037,8 +1002,8 @@ _web_ad*
 /geoip_
 /geoipAPI.js^
 /geo-ip-detect*
-/geolocation*
-/geo-location*
+/geoloc*
+/geo-loc*
 /getloc?
 /gpt.
 /gtag.
@@ -1162,60 +1127,3 @@ _tj.js^
 -web-analytics*
 ?imp_
 ?zoneid=
-! =============> CSS
-! ----- Ad
-*###ad
-*##.ad
-*##[id$="Ad"]
-*##[class$="Ad"]
-*##[id^="ad-"i]
-*##[id^="ad_"i]
-*##[id$="-ad"i]
-*##[id$="_ad"i]
-*##[id*="-ad-"i]
-*##[id*="_ad_"i]
-*##[class^="ad-"i]
-*##[class^="ad_"i]
-*##[class$="_ad"i]
-*##[class$="-ad"i]
-! ------ Ads
-*###ads
-*##.ads
-*##.adsbygoogle
-*###adsbygoogle
-*##[id$="Ads"]
-*##[class$="Ads"]
-*##[id~="ads"i]
-*##[id|="ads"i]
-*##[id^="ads-"i]
-*##[id^="ads_"i]
-*##[id$="-ads"i]
-*##[id$="_ads"i]
-*##[id*="-ads-"i]
-*##[id*="_ads_"i]
-*##[class~="ads"i]
-*##[class|="ads"i]
-*##[class^="ads-"i]
-*##[class^="ads_"i]
-*##[class$="-ads"i]
-*##[class$="_ads"i]
-*##[class*="-ads-"i]
-*##[class*="_ads_"i]
-*##[id^="adv"i]
-*##[class^="adv"i]
-*##[id*="advert"i]
-*##[class*="advert"i]
-*##[class*="popupad"i]
-*##[class*="-promoted-"i]
-*##[id*="tuiguang"i]
-*##[class*="tuiguang"i]
-*##[id*="interested"i]
-*##[class*="interested"i]
-*##[id*="promotion"]
-*##[class*="promotion"]
-bing.com##.b_ans
-bing.com##.b_msg
-bing.com##.b_footer
-bing.com###mfa_root
-ecosia.org##.main-footer
-ecosia.org##.videos-snippet
