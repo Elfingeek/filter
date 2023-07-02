@@ -1,5 +1,5 @@
 [AdBlock]
-! Title: DNS Mobile
+! Title: DNS Filter
 ! Description: Only for Adguard DNS Filter
 ! Expires: 4 days
 ! -----> Apps
@@ -7,42 +7,31 @@
 *tj.baidu.com
 *log.baidu.com
 *click.baidu.com
-||a.market.xiaomi.com
-||experiment.xiaomi.com
-||statup.
-||zhancrmerp.
-||gateway.zhan.com
-||ops-api.zhan.com
-||operation-cdn.zhan.com
-||wxs.qq.com
-||wxsnsdy.tc.qq.com
-||wxsnsdy.video.qq.com
-||badjs.weixinbridge.com
-||messpop.shenzhentong.com
+||a.market.xiaomi.com^
+||hmma.baidu.com^
+||miao.baidu.com^
+||sofire.baidu.com^
+||tuisong.baidu.com^
+||cpro.baidu
+||wxs.qq.com^
+||wxsnsdy.tc.qq.com^
+||wxsnsdy.video.qq.com^
+||badjs.weixinbridge.com^
+||messpop.shenzhentong.com^
 ||szt-obs-image.
 ||poplayer.
 ||getui.
-||mj.weimob.net
-||android.rqd.qq.com
-||bugly.qq.com
-||cfg.imtt.qq.com
-||rh.qq.com
-||e.qq.com
-||l.qq.com
+||mj.weimob.net^
+||bugly.qq.com^
+||rh.qq.com^
+||e.qq.com^
+||l.qq.com^
+||gdt.qq.com^
+||gdtimg.com^
+||mdt.qq.com^
 ||pgdt.
-||gdt.qq.com
-||gdtimg.com
-||mdt.qq.com
-||tdid.m.qq.com
-||cpro.
-||hmma.baidu.com
-||miao.baidu.com
-||sofire.baidu.com^
-||tuisong.baidu.com
 ||ai.taobao.com^
-||audid-api.taobao.com^
 ||video.taobao.com^
-||amdcopen.m.taobao.com^
 ||live-spare.alicdn.com^
 ||g1.163.com^
 ||nex.163.com^
@@ -62,14 +51,14 @@
 ||live*.pddpic.com^
 ||live.bilibili.com^
 ! ----> ISP
-||id6.me
-||10086.cn
-||189.cn
-||21cn.com
-||10010.com
-||wo.cn
-||wosms.cn
-||wostore.cn
+||id6.me^
+||10086.cn^
+||189.cn^
+||21cn.com^
+||10010.com^
+||wo.cn^
+||wosms.cn^
+||wostore.cn^
 ! ----- AD
 -ad-
 -ad.
@@ -108,7 +97,6 @@
 *startapp
 *openads
 *guangg
-*promo
 *game
 ||ad-*.
 ||adba*.
@@ -189,12 +177,8 @@
 ||advm*.
 ||adw*.
 ||adx*.
-||affiliat*.
-||amazon-adsystem.
-||doubleclick.
 ||gg.
 ||gif.
-||googlesyndication.com
 ||jads.
 ||jpush.
 ||onclick*.
@@ -203,6 +187,7 @@
 ||umeng*.
 ||zhanzhang.
 ! ----- privacy
+*facebook
 -log-
 -log.
 -logs.
@@ -226,23 +211,19 @@
 *analy
 *alysis
 *alytic
-*applog
 *audience
 *beacon
-*click
 *counter
 *crash
-*facebook
 *feedback
 *firebase
 *metric
-*metrika
+*metrik
 *metrix
 *monitor
 *pixel
 *prebid
 *reklam
-*sensordata
 *syndication
 *telemetry
 *tongj
@@ -258,9 +239,6 @@
 ||geoip*.
 ||geoloc*.
 ||geoservice*.
-||google-analytics.com
-||googleanalytics.com
-||googletagmanager.com
 ||gostats.
 ||gtrk.
 ||hit-*.
@@ -303,18 +281,11 @@
 ! --------
 ||admob*.
 ||inmobi*.
-||appads.com^
 ||appjiagu.com^
 ||appspot.com^
 ||appsflyer.com^
 ||qchannel01.cn^
 ||qchannel03.cn^
 ||qchannel04.cn^
-||quantserve.com^
-||realsrv.com^
-||stgowan.com^
 ||shenshiads.com^
 ||yximgs.com^
-||wwads.cn^
-||dlads.cn^
-||51.la^

@@ -2,7 +2,7 @@
 ! Title: ublock mobile
 ! Description: For Mobile browser
 ! Expires: 4 days
-! --------
+! ========> URL
 ||ecosia.org^$script,domain=ecosia.org
 ||163.com/wap/special/*$domain=163.com
 ||163.com/touch/api/paid-$domain=163.com
@@ -10,6 +10,13 @@
 ||img.koolearn.com^$domain=koolearn.com
 ||file.koolearn.com^$domain=koolearn.com
 /fe_upload/*$domain=koolearn.com
+/dt_$domain=apkpure.com
+/share-$domain=apkpure.com
+-shares.$domain=apkpure.com
+/report*$domain=apkpure.com
+/login.$domain=ithome.com
+/newsgradeget?$domain=ithome.com
+/newpromoteget*$domain=ithome.com
 /m-second*$domain=baike.baidu.com
 /loft*$domain=baike.baidu.com
 /video*$domain=baike.baidu.com
@@ -24,18 +31,8 @@
 /recommendpb/*$domain=tieba.baidu.com
 /game*$domain=tieba.baidu.com
 /invoke*$domain=baidu.com
-/login.$domain=ithome.com
-/newsgradeget?$domain=ithome.com
-/newpromoteget*$domain=ithome.com
-/share-$domain=apkpure.com
--shares.$domain=apkpure.com
-/report/*$domain=apkpure.com
-/dt_$domain=apkpure.com
-/gamecent*
-/game_pop*
-/game_swap*
-?feedback=
 ||log.
+||mbd.baidu.com^
 ! ----- App
 *appdownload
 *app-download
@@ -59,9 +56,7 @@ _ad_
 /log/*
 /300-
 /300x
-! --------
-||mbd.baidu.com^
-! ============> CSS
+! ========> CSS
 *##[class*="app-banner"i]
 *##[class*="m-app-"i]
 *##a[href*="openApp"i]

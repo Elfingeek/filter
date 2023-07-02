@@ -2,7 +2,7 @@
 ! Title: ublock pc
 ! Description: For PC
 ! Expires: 4 days
-! ==============> URL
+! =========> URL
 /tianshu*$domain=weiyun.com
 /attachments/image*$domain=w3cschool.cn
 /image/blog*$domain=zhangxinxu.com
@@ -23,7 +23,7 @@ _ad_$domain=~tieba.baidu.com
 /PCBanner*
 /log.
 ||log.
-! ==============> CSS
+! ========> CSS
 bing.com##.sb_adTA
 123pan.com##.VipBanner
 123pan.com##.ant-layout > div
