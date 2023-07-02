@@ -7,10 +7,6 @@
 /attachments/image*$domain=w3cschool.cn
 /image/blog*$domain=zhangxinxu.com
 /mapLogReport*$domain=baike.baidu.com
-/larkplayer*$domain=baike.baidu.com
--larkplayer*$domain=baike.baidu.com
--videoPlayer*$domain=baike.baidu.com
--second_*$domain=baike.baidu.com
 /Audio*$domain=baike.baidu.com
 /video*$domain=baike.baidu.com
 /widget/game_$domain=tieba.baidu.com
