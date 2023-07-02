@@ -1173,5 +1173,6 @@ bing.com##.b_msg
 bing.com##.b_footer
 bing.com###mfa_root
 ecosia.org##.main-footer
+ecosia.org##.news-snippet
 ecosia.org##.videos-snippet
 smzdm.com###feed-side

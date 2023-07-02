@@ -3,12 +3,11 @@
 ! Description: For Adguard DNS Filter
 ! Expires: 4 days
 ! -----> Apps
-adashx.m.taobao.com
-adash.m.taobao.com
 ||ai.taobao.com^
 ||video.taobao.com^
 ||live-spare.alicdn.com^
 ||a.market.xiaomi.com^
+||android.rqd.qq.com^
 ||wxs.qq.com^
 ||wxsnsdy.tc.qq.com^
 ||wxsnsdy.video.qq.com^
@@ -30,10 +29,13 @@ adash.m.taobao.com
 ||kepler.jd.com^
 ||orbit.jd.com^
 ||dg.k.jd.com^
+||jdpull.jd.com^
+||live*.jd.com^
+||live*.pddpic.com^
 ||video*.pddpic.com^
 ||video*.pddugc.com^
-||live*.pddpic.com^
 ||live.bilibili.com^
+||biligame.
 ||g1.163.com^
 ||nex.163.com^
 ||nos-jd.163yun.com^
