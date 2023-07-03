@@ -223,7 +223,7 @@
 *reklam
 *syndication
 *telemetry
-*tongj
+*tongji
 ||cnzz.
 ||collect.
 ||dsp-*.

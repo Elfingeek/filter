@@ -37,8 +37,8 @@
 *blockAdblock
 *fuckAdblock
 /fuck-debugger*
-/adblock?
 /debugger.js
+/adblock?
 /a.js
 /bd.js
 /c.js
@@ -54,6 +54,7 @@
 /x.js
 /code.js
 /invoke.js
+/matomo.js
 /nocopy.js
 /push.js
 /pk1.js

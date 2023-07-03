@@ -14,7 +14,6 @@
 /newpromoteget*$domain=ithome.com
 /m-second*$domain=baike.baidu.com
 /loft*$domain=baike.baidu.com
-/video*$domain=baike.baidu.com
 /lemmagraph*$domain=baike.baidu.com
 /lemmaAudio*$domain=baike.baidu.com
 /lemmaVideo*$domain=baike.baidu.com
