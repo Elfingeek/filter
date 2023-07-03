@@ -13,7 +13,6 @@ _wxAd_$app=com.tencent.mm
 /cps|$app=system
 ||ad.
 ||adver*.
-||log.
 ! ----> ISP
 =id6.me^
 .10086.cn^
