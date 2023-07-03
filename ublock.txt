@@ -158,8 +158,6 @@
 .gdt.qq.com
 .gdtimg.com
 .mdt.qq.com
-*trace.qq.com
-||pgdt.
 ||e.qq.com^
 ||l.qq.com^
 ||msdk.qq.com^
@@ -173,6 +171,7 @@
 ||stat.y.qq.com^
 ||ysdk.qq.com^
 ||bqq.gtimg.com^
+||pgdt.gtimg.cn^
 ||tianshu.gtimg.cn^
 ! -----> Ali
 .cnzz.
@@ -1065,7 +1064,6 @@ _web_ad*
 /site-track*
 /smartpixel*
 /smarttag*
-/snowplow*
 /statcount*
 /stat-dfp/*
 /statscollect*

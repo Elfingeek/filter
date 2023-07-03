@@ -5,7 +5,7 @@
 ! ========> URL
 ||163.com/wap/special/*$domain=163.com
 ||163.com/touch/api/paid-$domain=163.com
-||music.$domain=163.com
+||music.126.net^$domain=163.com
 ||img.koolearn.com^$domain=koolearn.com
 ||file.koolearn.com^$domain=koolearn.com
 /fe_upload/*$domain=koolearn.com
@@ -95,8 +95,8 @@ ithome.com##.footer
 ithome.com##.ruanmei-footer
 163.com##.js-open-app,.js-open-newsapp
 163.com##.open-app-btn,.s-openApp
+163.com##.recommend.js-recommend
 163.com##.g-relative-new
-163.com##.recommend
 163.com##.slider-footer
 163.com##.logoBottom
 163.com##.hotSlider

@@ -4,12 +4,32 @@
 ! Expires: 4 days
 ! -----> Apps
 ||a.market.xiaomi.com^
+||open.meituan.com^
+||cm.jd.com^
+||kepler.jd.com^
+||orbit.jd.com^
+||dg.k.jd.com^
+||jdpull.jd.com^
+||live*.jd.com^
+||live*.pddpic.com^
+||video*.pddpic.com^
+||video*.pddugc.com^
+||live.bilibili.com^
+||biligame.
+||g1.163.com^
+||nex.163.com^
+||nos-jd.163yun.com^
+||onegoods.nosdn.127.net^
+||pglstatp*.
+||live.qcloud.com^
+||live*.myqcloud.com^
 ||getui.
 ! ---> Ali
 *baichuan
 ||eco.taobao.com
 ||video.taobao.com^
 ||live-spare.alicdn.com^
+||ynuf.aliapp.org^
 ! ---> Tencent
 ||android.bugly.qq.com^
 ||android.rqd.qq.com^
@@ -28,7 +48,7 @@
 ||gdt.qq.com^
 ||mdt.qq.com^
 ||gdtimg.com^
-||pgdt.
+||pgdt.gtimg.cn^
 ! ---> Baidu
 ||a.baidu.com
 ||ada.baidu.com
@@ -64,23 +84,6 @@
 ||tuijian.baidu.com
 ||tuisong.baidu.com
 ||ucstat.baidu.com
-! ----
-||cm.jd.com^
-||kepler.jd.com^
-||orbit.jd.com^
-||dg.k.jd.com^
-||jdpull.jd.com^
-||live*.jd.com^
-||live*.pddpic.com^
-||video*.pddpic.com^
-||video*.pddugc.com^
-||live.bilibili.com^
-||biligame.
-||g1.163.com^
-||nex.163.com^
-||nos-jd.163yun.com^
-||onegoods.nosdn.127.net^
-||pglstatp*.
 ! ----> ISP
 ||id6.me^
 ||10086.cn^
