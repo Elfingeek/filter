@@ -13,7 +13,6 @@
 -shares.$domain=apkpure.com
 /report*$domain=apkpure.com
 /GoodsRecommend*$domain=zhihu.com
-/recommend*$domain=zhihu.com
 /collector*$domain=zhihu.com
 /commercial_*$domain=zhihu.com
 /ECommerceAd*$domain=zhihu.com
@@ -633,9 +632,6 @@ _advert*
 /banner728*
 /bannerad*
 /banner-ad*
-/banner.cgi?
-/banner.htm
-/banner.php
 /bgads.
 /bigad*
 /blogad*
@@ -1070,11 +1066,6 @@ _web_ad*
 /smartpixel*
 /smarttag*
 /snowplow*
-/spy*
-/stats.
-/stats/*
-/stats?
-/stat/*
 /statcount*
 /stat-dfp/*
 /statscollect*
@@ -1099,7 +1090,6 @@ _web_ad*
 /trackjs*
 /trackpush*
 /trackstats*
-/trk*
 /umami.js
 /usertrack*
 /utm_cookie*

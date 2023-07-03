@@ -47,6 +47,10 @@ _log?
 /pop/*
 /recommend-
 /report.js
+/stats.
+/stats/*
+/stats?
+/stat/*
 -tracking
 _tracking
 -stats.js
