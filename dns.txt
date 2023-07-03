@@ -3,11 +3,17 @@
 ! Description: For Adguard DNS Filter
 ! Expires: 4 days
 ! -----> Apps
-||ai.taobao.com^
+||a.market.xiaomi.com^
+||getui.
+! ---> Ali
+*baichuan
+||eco.taobao.com
 ||video.taobao.com^
 ||live-spare.alicdn.com^
-||a.market.xiaomi.com^
+! ---> Tencent
+||android.bugly.qq.com^
 ||android.rqd.qq.com^
+||adrdir.qq.com^
 ||wxs.qq.com^
 ||wxsnsdy.tc.qq.com^
 ||wxsnsdy.video.qq.com^
@@ -15,17 +21,51 @@
 ||messpop.shenzhentong.com^
 ||szt-obs-image.
 ||poplayer.
-||getui.
 ||bugly.qq.com^
 ||rh.qq.com^
 ||e.qq.com^
 ||l.qq.com^
 ||gdt.qq.com^
-||gdtimg.com^
 ||mdt.qq.com^
+||gdtimg.com^
 ||pgdt.
+! ---> Baidu
+||a.baidu.com
+||ada.baidu.com
+||adm.baidu.com
+||afd.baidu.com
+||als.baidu.com
+||bdplus.baidu.com
+||cb.baidu.com
+||cbjs.baidu.com
+||cm.baidu.com
+||cpro.baidu.com
+||cpro.baidustatic.com
+||crab.baidu.com
+||crs.baidu.com
+||datax.baidu.com
+||dup.baidustatic.com
+||ecma.bdimg.com
+||ecmb.bdimg.com
+||eiv.baidu.com
+||hdj.baidu.com
+||hm.baidu.com
+||hmma.baidu.com
+||hpd.baidu.com
+||msite.baidu.com
+||mssp.baidu.com
+||openrcv.baidu.com
+||qapm.baidu.com
+||sestat.baidu.com
+||sofire.baidu.com
+||sp0.baidu.com
+||stat.v.baidu.com
+||tcbox.baidu.com
+||tuijian.baidu.com
+||tuisong.baidu.com
+||ucstat.baidu.com
+! ----
 ||cm.jd.com^
-||janapi.jd.com^
 ||kepler.jd.com^
 ||orbit.jd.com^
 ||dg.k.jd.com^
@@ -78,10 +118,9 @@
 *yads.
 *adserv
 *adsrv
-*baichuan
 *doubleclick
 *googlead
-*mobad
+*mobads
 *mobilead
 *firstpage
 *startpage
@@ -128,7 +167,6 @@
 ||adpo*.
 ||adpr*.
 ||adqu*.
-||adrdir.
 ||adre*.
 ||adri*.
 ||adro*.
@@ -140,6 +178,7 @@
 ||adsd*.
 ||adse*.
 ||adsf*.
+||adsg*.
 ||adsh*.
 ||adsi*.
 ||adsk*.
@@ -148,7 +187,7 @@
 ||adsn*.
 ||adso*.
 ||adsp*.
-||adsrv*.
+||adsr*.
 ||adsstat*.
 ||adst*.
 ||adsu*.
@@ -200,15 +239,10 @@
 *elogs.
 *plogs.
 *slogs.
-*tracking
-*track.
-*trace
-*trac.
 *affiliat
-*analy
 *alysis
 *alytic
-*audience
+*analy
 *beacon
 *counter
 *crash
@@ -240,7 +274,6 @@
 ||hit.
 ||hitcount*.
 ||hits.
-||hm.
 ||ipservice.
 ||log-*.
 ||log.
