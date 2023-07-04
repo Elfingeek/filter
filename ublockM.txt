@@ -26,23 +26,23 @@
 /game*$domain=tieba.baidu.com
 /invoke*$domain=baidu.com
 ! -----> App
-*appdownload
-*app-download
-*applaunch
-*applink.
+appdownload
+app-download
+applaunch
+applink.
 /jump-app.
 /openapp*
 /open-app.
 /open-app-
 /open-newsapp.
 ! ----- Ads
-*adserv
-*advert
-*mobad
-*mobilead
-*mobile_ad
-/ad_
+adserv
+advert
+mobad
+mobilead
+mobile_ad
 _ad_
+/ad_
 /getmobads*
 /300-
 /300x

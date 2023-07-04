@@ -28,9 +28,9 @@ _wxAd_$app=com.tencent.mm
 .gdtimg.com
 .mdt.qq.com
 .cnzz.
-*tj.baidu.com
-*log.baidu.com
-*click.baidu.com
+tj.baidu.com
+log.baidu.com
+click.baidu.com
 ! ---- Ads
 ||ad-*.
 ||ad.
@@ -155,7 +155,6 @@ _wxAd_$app=com.tencent.mm
 ||pglstatp-toutiao.com^
 ! ---
 ||upl.baidu.com^
-||firebase*.
 ||admob*.
 ||inmobi*.
 ||getui.net^
@@ -172,6 +171,8 @@ _wxAd_$app=com.tencent.mm
 ||unity3d.com^
 ! -----> Privacy
 ||facebook.
+||firebase*.
+||affil.
 ||affiliat*.
 ||analysis*.
 ||analytic*.
@@ -211,7 +212,6 @@ _wxAd_$app=com.tencent.mm
 ||pix.
 ||pixel*.
 ||reklam*.
-||report*.
 ||saa.
 ||sadbmetrics.
 ||sanalytics.
