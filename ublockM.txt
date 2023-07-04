@@ -25,7 +25,7 @@
 /recommendpb/*$domain=tieba.baidu.com
 /game*$domain=tieba.baidu.com
 /invoke*$domain=baidu.com
-! ----- App
+! -----> App
 *appdownload
 *app-download
 *applaunch
@@ -36,6 +36,8 @@
 /open-app-
 /open-newsapp.
 ! ----- Ads
+||admob*.
+||inmobi*.
 *adserv
 *advert
 *mobad

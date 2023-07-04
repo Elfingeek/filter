@@ -2,7 +2,7 @@
 ! Title: ublock
 ! Description: For PC & Mobile Browser
 ! Expires: 4 days
-! =====> URL
+! ======> URL
 /rewards*$domain=bing.com
 /web4static*$domain=yandex.com
 /safeclick*$domain=yandex.com
@@ -89,26 +89,24 @@
 *tj.baidu.com
 *log.baidu.com
 *click.baidu.com
-||a.baidu.com
-||ada.baidu.com
-||adm.baidu.com
+||a.baidu.com^
+||ada.baidu.com^
+||adm.baidu.com^
 ||ae.bdstatic.com^
 ||afd.baidu.com^
 ||als.baidu.com^
-||bdplus.baidu.com
+||bdplus.baidu.com^
 ||cb.baidu.com^
 ||cbjs.baidu.com^
 ||cm.baidu.com^
 ||cpro.baidu
 ||cpu.baidu.com^
-||crab.baidu.com
+||crab.baidu.com^
 ||crs.baidu.com^
 ||cstm.baidu.com^
-||datax.baidu.com
+||datax.baidu.com^
 ||drmcmm.baidu.com^
 ||duiwai.baidu.com^
-||ecma.bdimg.com^
-||ecmb.bdimg.com^
 ||eduad.baidu.com^
 ||eiv.baidu.com^
 ||fc1tn.baidu.com^
@@ -118,31 +116,32 @@
 ||fc5tn.baidu.com^
 ||fex.bdstatic.com^
 ||gsp1.baidu.com^
-||hdj.baidu.com
+||hdj.baidu.com^
 ||hectorstatic.baidu.com^
-||hm.baidu.com
+||hm.baidu.com^
 ||hmma.baidu.com^
-||hpd.baidu.com
+||hpd.baidu.com^
 ||iwanad.baidu.com^
-||miao.baidu.com^
-||msite.baidu.com
-||mssp.baidu.com
-||openrcv.baidu.com
+||msite.baidu.com^
+||mssp.baidu.com^
+||openrcv.baidu.com^
 ||pos.baidu.com^
-||qapm.baidu.com
-||sestat.baidu.com
-||sofire.baidu.com
+||qapm.baidu.com^
+||sestat.baidu.com^
+||sofire.baidu.com^
 ||sp0.baidu.com^
 ||sp1.baidu.com^
 ||sp2.baidu.com^
 ||sp3.baidu.com^
 ||spcode.baidu.com^
-||stat.v.baidu.com
-||tcbox.baidu.com
-||tuijian.baidu.com
-||tuisong.baidu.com
-||ucstat.baidu.com
+||stat.v.baidu.com^
+||tcbox.baidu.com^
+||tuijian.baidu.com^
+||tuisong.baidu.com^
+||ucstat.baidu.com^
 ||usp1.baidu.com^
+||ecma.bdimg.com^
+||ecmb.bdimg.com^
 ||nspt.bdstatic.com^
 ||vdse.bdstatic.com^
 ||zz.bdstatic.com^
@@ -158,6 +157,7 @@
 .gdt.qq.com
 .gdtimg.com
 .mdt.qq.com
+||adrdir.qq.com^
 ||e.qq.com^
 ||l.qq.com^
 ||msdk.qq.com^
@@ -177,7 +177,7 @@
 .cnzz.
 /cnzz.
 ||alimama.
-||baichuan-sdk.
+||baichuan-sdk.alicdn.com
 ||nbsdk-baichuan.alicdn.com^
 ||atanx.alicdn.com^
 ||tce.alicdn.com^
@@ -207,7 +207,6 @@
 ||dlads.cn^
 ||dmclick.cn^
 ||ecukwai.com^
-||getui.
 ||gshtrl.top^
 ||hualigs.cn^
 ||iclickcdn.com^
@@ -272,6 +271,14 @@
 ||xcads.cn^
 ||yximgs.com^
 ! ----> ISP
+||id6.me^
+||10086.cn^
+||189.cn^
+||21cn.com^
+||10010.com^
+||wo.cn^
+||wosms.cn^
+||wostore.cn^
 =id6.me^
 .10086.cn^
 .189.cn^
@@ -281,9 +288,6 @@
 .wosms.cn^
 .wostore.cn^
 ! ------> AD
-||advert*.
-||amazon-adsystem.
-||doubleclick.
 ||ad-*.
 ||ad.
 ||adba*.
@@ -360,7 +364,7 @@
 ||adu*.
 ||adv-*.
 ||adv.
-||advers*.
+||adver*.
 ||advi*.
 ||advm*.
 ||adw*.
@@ -818,7 +822,7 @@ _web_ad*
 ||analytic*.
 ||beacon*.
 ||cnzz.
-||crash2.
+||crash*.
 ||dsp-*.
 ||dsp.
 ||elqtrk.
@@ -924,10 +928,6 @@ _web_ad*
 /cgi-bin/count*
 /chartbeat*
 /cct?
-/count?
-/counter.
-/counter?
-/countly.
 /click_stat*
 /clickability*
 /clickcount*
@@ -939,15 +939,11 @@ _web_ad*
 /cls_report?
 /cls_rpt.
 /cnil*
-/collect/kf?
-/collect/pageview?
-/collect/sdk?
-/collect/stats?
-/collect/track*
-/collect/view?
 /comscore*
 /coordinate*
 /count.js
+/counter.
+/countly.
 /csi?v=
 /csp_
 /dcs_tag*
@@ -956,14 +952,6 @@ _web_ad*
 /diffuser.js
 /dsgvo*
 /eulerian.js
-/event/page*
-/event/track*
-/event-log*
-/eventlog.
-/events/track*
-/eventtrack*
-/event-track*
-/evercookie*
 /exoclick*
 /fbevent*
 /fingerprint.

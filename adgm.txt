@@ -1,0 +1,27 @@
+[AdBlock]
+! Title: Adguard Mobile
+! Description: For Adguard Mobile
+! Expires: 4 days
+||android.bugly.qq.com^
+||android.rqd.qq.com^
+||getui.com^
+||getui.net^
+||a.market.xiaomi.com^$app=com.xiaomi.market
+||open.meituan.com^$app=com.sankuai.meituan
+||video.taobao.com^$app=com.taobao.taobao
+||live-spare.alicdn.com^$app=com.taobao.taobao
+||jdpull.jd.com^$app=com.jingdong.app.mall
+||live*.jd.com^$app=com.jingdong.app.mall
+||live*.pddpic.com^$app=com.xunmeng.pinduoduo
+||video*.pddpic.com^$app=com.xunmeng.pinduoduo
+||video*.pddugc.com^$app=com.xunmeng.pinduoduo
+||live.bilibili.com^$app=com.bilibili.app.in
+||biligame.*$app=com.bilibili.app.in
+||wxs.qq.com^$app=com.tencent.mm
+||wxsnsdy.tc.qq.com^$app=com.tencent.mm
+||wxsnsdy.video.qq.com^$app=com.tencent.mm
+||badjs.weixinbridge.com^$app=com.tencent.mm
+||messpop.shenzhentong.com^$app=com.tencent.mm
+||szt-obs-image.$app=com.tencent.mm
+||poplayer.$app=com.tencent.mm
+_wxAd_$app=com.tencent.mm
