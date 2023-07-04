@@ -28,6 +28,9 @@ _wxAd_$app=com.tencent.mm
 .gdtimg.com
 .mdt.qq.com
 .cnzz.
+*tj.baidu.com
+*log.baidu.com
+*click.baidu.com
 ! ---- Ads
 ||ad-*.
 ||ad.
@@ -151,6 +154,8 @@ _wxAd_$app=com.tencent.mm
 ||pangolin-sdk-toutiao-b.com^
 ||pglstatp-toutiao.com^
 ! ---
+||upl.baidu.com^
+||firebase*.
 ||admob*.
 ||inmobi*.
 ||getui.net^

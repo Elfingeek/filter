@@ -29,6 +29,8 @@ tracking		https://filters.adtidy.org/ios/filters/3_optimized.txt
 
 social			https://filters.adtidy.org/ios/filters/4_optimized.txt
 
+mobile		https://filters.adtidy.org/ios/filters/11_optimized.txt
+
 chinese：	https://filters.adtidy.org/ios/filters/224_optimized.txt
 
 annoyances	https://filters.adtidy.org/ios/filters/21_optimized.txt
