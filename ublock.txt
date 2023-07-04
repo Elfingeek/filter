@@ -32,6 +32,7 @@
 /user-medal*$domain=csdn.net
 /user-order*$domain=csdn.net
 /fixed-sidebar*$domain=csdn.net
+-x.jd.com
 *antiAdblock
 *blockAdblock
 *fuckAdblock
@@ -58,14 +59,6 @@
 /push.js
 /pk1.js
 /px.js
-! -----> JD
--x.jd.com
-||cm.jd.com
-||kepler.jd.com^
-||orbit.jd.com^
-||dg.k.jd.com
-||dgstatic.jd.com
-||dd-static.jd.com^
 ! -----> ByteDance
 ||pangolin*.
 ||pglstatp*.

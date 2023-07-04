@@ -2,10 +2,24 @@
 ! Title: Adguard Mobile
 ! Description: For Adguard Mobile
 ! Expires: 4 days
-||android.bugly.qq.com^
-||android.rqd.qq.com^
-||getui.com^
-||getui.net^
+! -----> ISP
+||id6.me^
+||10086.cn^
+||189.cn^
+||21cn.com^
+||10010.com^
+||wo.cn^
+||wosms.cn^
+||wostore.cn^
+=id6.me^
+.10086.cn^
+.189.cn^
+.21cn.com^
+.10010.com^
+.wo.cn^
+.wosms.cn^
+.wostore.cn^
+! -----> Apps
 ||a.market.xiaomi.com^$app=com.xiaomi.market
 ||open.meituan.com^$app=com.sankuai.meituan
 ||video.taobao.com^$app=com.taobao.taobao
@@ -25,3 +39,23 @@
 ||szt-obs-image.$app=com.tencent.mm
 ||poplayer.$app=com.tencent.mm
 _wxAd_$app=com.tencent.mm
+.gdt.qq.com
+.gdtimg.com
+.mdt.qq.com
+.cnzz.
+! ---
+||android.bugly.qq.com^
+||android.rqd.qq.com^
+||gdt.qq.com^
+||gdtimg.com^
+||mdt.qq.com^
+||getui.com^
+||getui.net^
+||umeng*.
+||ad-*.
+||ad.
+||ads-*.
+||ads.
+||adv-*.
+||adv.
+||adver*.
