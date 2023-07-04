@@ -36,8 +36,6 @@
 /open-app-
 /open-newsapp.
 ! ----- Ads
-||admob*.
-||inmobi*.
 *adserv
 *advert
 *mobad

@@ -59,25 +59,6 @@
 /push.js
 /pk1.js
 /px.js
-! -----> ByteDance
-||pangolin*.
-||pglstatp*.
-||dm.pstatp.com
-||dm.toutiao.com
-||bds.snssdk.com
-||extlog.snssdk.com
-||ib.snssdk.com^
-||mcs.snssdk.com^
-||mon.snssdk.com^
-||sdfp.snssdk.com
-||dm.isnssdk.com^
-||h5.isnssdk.com^
-||hotapi-va.isnssdk.com^
-||i.isnssdk.com^
-||ichannel.isnssdk.com^
-||imapi-sg.isnssdk.com^
-||mon.isnssdk.com^
-||open.isnssdk.com^
 ! -----> Baidu
 *tj.baidu.com
 *log.baidu.com
@@ -150,6 +131,8 @@
 .gdt.qq.com
 .gdtimg.com
 .mdt.qq.com
+||pgdt.gtimg.
+||pgdt.ugdtimg.
 ||adrdir.qq.com^
 ||e.qq.com^
 ||l.qq.com^
@@ -164,22 +147,17 @@
 ||stat.y.qq.com^
 ||ysdk.qq.com^
 ||bqq.gtimg.com^
-||pgdt.gtimg.cn^
-||tianshu.gtimg.cn^
+||tianshu.gtimg.
 ! -----> Ali
 .cnzz.
 /cnzz.
 ||alimama.
-||baichuan-sdk.alicdn.com
-||nbsdk-baichuan.alicdn.com^
-||atanx.alicdn.com^
-||tce.alicdn.com^
+||baichuan-sdk.
+||nbsdk-baichuan.
 ! -----> Netease
 ||g.163.com^
 ||g1.163.com^
 ||nex.163.com^
-||rlogs.youdao.com^
-||gorgon.youdao.com^
 ||nos-jd.163yun.com^
 ||onegoods.nosdn.127.net^
 ||yt-adp.ws.126.net^
