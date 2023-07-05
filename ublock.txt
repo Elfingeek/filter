@@ -795,7 +795,6 @@ _web_ad*
 ||dsp.
 ||elqtrk.
 ||error*.
-||event*.
 ||feedback*.
 ||geo.
 ||geoip*.
@@ -807,7 +806,6 @@ _web_ad*
 ||hit.
 ||hitcount*.
 ||hits.
-||ipservice.
 ||log-*.
 ||log.
 ||log1.
@@ -932,11 +930,12 @@ google-track
 /ga?
 /ga_
 /gaaddon*
-/gaAnalytics*
+/gaAnaly*
+/gacontrol*
 /gaclick*
 /gaevent*
 /gajs*
-/ganalytics*
+/ganaly*
 /gapro*
 /gastat*
 /gatrack*
@@ -949,7 +948,7 @@ google-track
 /geo-ip-detect*
 /geoloc*
 /geo-loc*
-/getloc?
+/getloc*
 /gpt.
 /gtag.
 /gtm.

@@ -6,6 +6,7 @@
 ||live.bilibili.com^$domain=bilibili.com
 ||cm.bilibili.com/cm/api/fees/*$domain=bilibili.com
 ||hdslb.com/bfs/sycp/creative_img/*$domain=bilibili.com
+||tieba-ares.cdn.bcebos.com^$domain=tieba.baidu.com
 /tianshu*$domain=weiyun.com
 /attachments/image*$domain=w3cschool.cn
 /image/blog*$domain=zhangxinxu.com

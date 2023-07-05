@@ -6,7 +6,8 @@
 ||a.market.xiaomi.com^$app=com.xiaomi.market
 ||open.meituan.com^$app=com.sankuai.meituan
 ||video.taobao.com^$app=com.taobao.taobao
-||live-spare.alicdn.com^$app=com.taobao.taobao
+||video*.alicdn.com^$app=com.taobao.taobao
+||live*.alicdn.com^$app=com.taobao.taobao
 ||jdpull.jd.com^$app=com.jingdong.app.mall
 ||live*.jd.com^$app=com.jingdong.app.mall
 ||live*.pddpic.com^$app=com.xunmeng.pinduoduo
@@ -126,11 +127,12 @@ click.baidu.com
 ||baichuan-sdk.
 ||nbsdk-baichuan.
 ||acs4baichuan.
-||adashx.ut.
-||h-adashx.ut.
+||adashx.
+||h-adashx.
 ||tanx.com^
 ||atanx.alicdn.com^
 ||tce.alicdn.com^
+||ynuf.aliapp.org^
 ! ---> Tencent
 ||android.bugly.qq.com^
 ||android.rqd.qq.com^
@@ -183,19 +185,16 @@ click.baidu.com
 ||dsp.
 ||elqtrk.
 ||error*.
-||event*.
 ||feedback*.
 ||geo.
 ||geoip*.
 ||geoloc*.
 ||geoservice*.
 ||gostats.
-||gtrk.
 ||hit-*.
 ||hit.
 ||hitcount*.
 ||hits.
-||ipservice.
 ||log-*.
 ||log.
 ||log1.
