@@ -9,7 +9,7 @@
 ||img.koolearn.com^$domain=koolearn.com
 ||file.koolearn.com^$domain=koolearn.com
 /fe_upload/*$domain=koolearn.com
-/login.$domain=ithome.com
+||ruanmei.com^$domain=ithome.com
 /newsgradeget?$domain=ithome.com
 /newpromoteget*$domain=ithome.com
 /m-second*$domain=baike.baidu.com

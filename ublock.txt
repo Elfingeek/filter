@@ -282,7 +282,6 @@ click.baidu.com
 ||adim*.
 ||adinfo.
 ||adjoin*.
-||adjust.
 ||adk*.
 ||adl*.
 ||adm.
