@@ -82,6 +82,7 @@ _ad_
 ##[class*="-ad-"i]
 ##[class*="_ad_"i]
 sogou.com###topHint
+yandex.com##.react-component
 coolapk.com##.under
 zhihu.com##.OpenInApp,.Button--blue
 view.inews.qq.com##[dt-eid="em_pull_news"]

@@ -35,12 +35,14 @@ _log.
 /logs-
 /logs.
 /logs/*
+/affiliate*
 /analysis*
 /analytics*
 /banner*
 /feedback.js
 /monitor*
 /pixel.
+/pixel/*
 /pop/*
 /recommend-
 /report.js

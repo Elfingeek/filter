@@ -3,11 +3,12 @@
 ! Description: For PC & Mobile Browser
 ! Expires: 4 days
 ! ======> URL
+/imgextra/*$domain=423down.com
+/sidebar*$domain=v2ex.com
 /rewards*$domain=bing.com
 /web4static*$domain=yandex.com
 /safeclick*$domain=yandex.com
-/images-apphost/*$domain=yandex.com
-/sidebar*$domain=v2ex.com
+/clck/*$domain=yandex.com
 /dt_$domain=apkpure.com
 /share-$domain=apkpure.com
 -shares.$domain=apkpure.com
