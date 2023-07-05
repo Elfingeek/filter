@@ -5,7 +5,10 @@
 ! -----> Apps
 ||a.market.xiaomi.com^$app=com.xiaomi.market
 ||open.meituan.com^$app=com.sankuai.meituan
-||video.taobao.com^$app=com.taobao.taobao
+||img.meituan.net^$app=com.sankuai.meituan
+||tlivesource.com^$app=com.sankuai.meituan
+||live.qcloud.com^$app=com.sankuai.meituan
+||video*.taobao.com^$app=com.taobao.taobao
 ||video*.alicdn.com^$app=com.taobao.taobao
 ||live*.alicdn.com^$app=com.taobao.taobao
 ||jdpull.jd.com^$app=com.jingdong.app.mall
@@ -15,8 +18,6 @@
 ||video*.pddugc.com^$app=com.xunmeng.pinduoduo
 ||live.bilibili.com^$app=com.bilibili.app.in
 ||biligame.*$app=com.bilibili.app.in
-||voiceads.cn^$app=com.iflytek.inputmethod.google
-||iflyad.*$app=com.iflytek.inputmethod.google
 ||wxs.qq.com^$app=com.tencent.mm
 ||wxsnsdy.*$app=com.tencent.mm
 ||wxsnsdyad.*$app=com.tencent.mm
@@ -28,6 +29,7 @@ _wxAd_$app=com.tencent.mm
 .gdt.qq.com
 .gdtimg.com
 .mdt.qq.com
+.trace.qq.com
 .cnzz.
 tj.baidu.com
 log.baidu.com

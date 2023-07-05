@@ -131,6 +131,7 @@ click.baidu.com
 .gdt.qq.com
 .gdtimg.com
 .mdt.qq.com
+.trace.qq.com
 ||pgdt.gtimg.
 ||pgdt.ugdtimg.
 ||adrdir.qq.com^

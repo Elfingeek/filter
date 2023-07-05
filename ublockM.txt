@@ -6,6 +6,8 @@
 ||163.com/wap/special/*$domain=163.com
 ||163.com/touch/api/paid-$domain=163.com
 ||music.126.net^$domain=163.com
+||news.ssp.qq.com/app$domain=qq.com
+/getrelated*$domain=qq.com
 ||img.koolearn.com^$domain=koolearn.com
 ||file.koolearn.com^$domain=koolearn.com
 /fe_upload/*$domain=koolearn.com
