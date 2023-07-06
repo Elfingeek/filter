@@ -4,8 +4,11 @@
 ! Expires: 4 days
 ! -----> Apps
 ||a.market.xiaomi.com^$app=com.xiaomi.market
+||qxb-minicode-pic-osscache.qixin.com^$app=com.bertadata.qxb
+||map-mobile-opnimg.cdn.bcebos.com^$app=com.baidu.BaiduMap
 ||open.meituan.com^$app=com.sankuai.meituan
 ||img.meituan.net^$app=com.sankuai.meituan
+||gaea.meituan.net^$app=com.sankuai.meituan
 ||tlivesource.com^$app=com.sankuai.meituan
 ||live.qcloud.com^$app=com.sankuai.meituan
 ||video*.taobao.com^$app=com.taobao.taobao
@@ -157,7 +160,6 @@ click.baidu.com
 ||pangolin-sdk-toutiao-b.com^
 ||pglstatp-toutiao.com^
 ! ---
-||upl.baidu.com^
 ||admob*.
 ||inmobi*.
 ||getui.net^

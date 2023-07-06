@@ -6,9 +6,6 @@
 /imgextra/*$domain=423down.com
 /sidebar*$domain=v2ex.com
 /rewards*$domain=bing.com
-/web4static*$domain=yandex.com
-/safeclick*$domain=yandex.com
-/clck/*$domain=yandex.com
 /dt_$domain=apkpure.com
 /share-$domain=apkpure.com
 -shares.$domain=apkpure.com
@@ -986,7 +983,6 @@ google-track
 /optimost*
 /outbrain*
 /pagecount*
-/pageevent*
 /pagelog*
 /pagetrack*
 /pageview*
