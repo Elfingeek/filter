@@ -173,7 +173,6 @@ click.baidu.com
 ||celtra.com^
 ||flurry.com^
 ||pflexads.com^
-||unity3d.com^
 ! -----> Privacy
 ||facebook.
 ||firebase*.
