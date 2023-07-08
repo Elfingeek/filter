@@ -393,7 +393,6 @@ _doubleclick*
 .ads.
 .adserv*
 .iads.js
--ad-
 -ad.
 -ad_
 -ads-
@@ -970,8 +969,6 @@ google-track
 /logstat*
 /logview*
 /mistats/*
-/mlog/*
-/mlogs.
 /mpss/o/*
 /mtracks*
 /nettrack*
@@ -1063,8 +1060,6 @@ _tj.js
 ! =====> CSS
 ###ad
 ##.ad
-##[id$="Ad"]
-##[class$="Ad"]
 ##[id^="ad-"i]
 ##[id^="ad_"i]
 ##[id$="-ad"i]
@@ -1079,8 +1074,6 @@ _tj.js
 ##.ads
 ##.adsbygoogle
 ###adsbygoogle
-##[id$="Ads"]
-##[class$="Ads"]
 ##[id~="ads"i]
 ##[id|="ads"i]
 ##[id^="ads-"i]
