@@ -86,7 +86,7 @@ yandex.com##.react-component
 coolapk.com##.under
 zhihu.com##.OpenInApp,.Button--blue
 view.inews.qq.com##[dt-eid="em_pull_news"]
-view.inews.qq.com##[class*="interaction-bottom_interaction"]
+view.inews.qq.com##[class*="interaction-bottom"]
 smzdm.com##.module-waper,.crumbs
 appinn.com##.featured-section
 appinn.com##.sidebar
@@ -97,8 +97,8 @@ ithome.com##.hot-app
 ithome.com##.footer
 ithome.com##.ruanmei-footer
 163.com##.js-open-app,.js-open-newsapp
-163.com##.open-app-btn,.s-openApp
-163.com##.recommend.js-recommend
+163.com##.open-app-btn
+163.com##.js-recommend
 163.com##.g-relative-new
 163.com##.slider-footer
 163.com##.logoBottom

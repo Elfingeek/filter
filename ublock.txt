@@ -3,9 +3,15 @@
 ! Description: For PC & Mobile Browser
 ! Expires: 4 days
 ! ======> URL
+/csdn-notification*$domain=csdn.net
+/csdn-toolbar*$domain=csdn.net
+/csdn-login*$domain=csdn.net
+/user-login*$domain=csdn.net
+/user-medal*$domain=csdn.net
+/user-order*$domain=csdn.net
+/fixed-sidebar*$domain=csdn.net
 /imgextra/*$domain=423down.com
 /sidebar*$domain=v2ex.com
-/rewards*$domain=bing.com
 /dt_$domain=apkpure.com
 /share-$domain=apkpure.com
 -shares.$domain=apkpure.com
@@ -23,13 +29,6 @@
 /second*$domain=baike.baidu.com
 /tashuo*$domain=baike.baidu.com
 /wikiad/*$domain=baike.baidu.com
-/csdn-notification*$domain=csdn.net
-/csdn-toolbar*$domain=csdn.net
-/csdn-login*$domain=csdn.net
-/user-login*$domain=csdn.net
-/user-medal*$domain=csdn.net
-/user-order*$domain=csdn.net
-/fixed-sidebar*$domain=csdn.net
 -x.jd.com
 antiAdblock
 blockAdblock
@@ -1060,6 +1059,8 @@ _tj.js
 ! =====> CSS
 ###ad
 ##.ad
+##[id$="Ad"]
+##[class$="Ad"]
 ##[id^="ad-"i]
 ##[id^="ad_"i]
 ##[id$="-ad"i]
@@ -1074,6 +1075,8 @@ _tj.js
 ##.ads
 ##.adsbygoogle
 ###adsbygoogle
+##[id$="Ads"]
+##[class$="Ads"]
 ##[id~="ads"i]
 ##[id|="ads"i]
 ##[id^="ads-"i]
