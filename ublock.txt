@@ -29,13 +29,13 @@
 /second*$domain=baike.baidu.com
 /tashuo*$domain=baike.baidu.com
 /wikiad/*$domain=baike.baidu.com
+/getrelated*
 -x.jd.com
 antiAdblock
 blockAdblock
 fuckAdblock
 /fuck-debugger*
 /debugger.js
-/adblock?
 /a.js
 /bd.js
 /c.js
@@ -132,6 +132,7 @@ click.baidu.com
 ||pgdt.gtimg.
 ||pgdt.ugdtimg.
 ||adrdir.qq.com^
+||aegis.qq.com^
 ||e.qq.com^
 ||l.qq.com^
 ||msdk.qq.com^
@@ -745,6 +746,7 @@ _advert*
 /tanad.
 /tc.js
 /tc/*
+/tc?
 /textad*
 /top_ad*
 /topad*
@@ -965,6 +967,7 @@ google-track
 /logcount*
 /logevent*
 /logpage*
+/logreport*
 /logstat*
 /logview*
 /mistats/*
