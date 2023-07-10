@@ -27,6 +27,8 @@
 ||messpop.shenzhentong.com^
 ||szt-obs-image.
 ||poplayer.
+||access.pikpak*
+||access.mypikpak*
 ||admob*.
 ||inmobi*.
 ||getui.net^

@@ -109,7 +109,7 @@ koolearn.com##.p-mo
 koolearn.com##.p-mo-tit
 koolearn.com##.jp-popup
 koolearn.com###jp-list
-tieba.baidu.com##div.nav-bar
+tieba.baidu.com##.nav-bar
 tieba.baidu.com##.feed-warp
 tieba.baidu.com##.fengchao-banner-defensive
 baike.baidu.com##.BK-body-header-wrapper

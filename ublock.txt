@@ -17,6 +17,7 @@
 -shares.$domain=apkpure.com
 /report*$domain=apkpure.com
 /GoodsRecommend*$domain=zhihu.com
+/recommend*$domain=zhihu.com
 /collector*$domain=zhihu.com
 /commercial_*$domain=zhihu.com
 /ECommerceAd*$domain=zhihu.com
@@ -162,6 +163,8 @@ click.baidu.com
 ||yt-adp.ws.126.net^
 ||ip.ws.126.net^
 ! -------
+||access.pikpak*
+||access.mypikpak*
 ||2mdn.net^
 ||51.la^
 ||7mmtv.top^
@@ -776,10 +779,6 @@ _web_ad*
 -side-ad*
 -sticky-ad*
 -web-ad*
-?ad_
-?adunit*
-?advert*
-?show_ad*
 ! -----> Privacy
 ||facebook.
 ||affiliat*.
@@ -1057,7 +1056,6 @@ _ga_track*
 _gatrack*
 _tj.js
 -web-analytics*
-?imp_
 ! =====> CSS
 ###ad
 ##.ad
