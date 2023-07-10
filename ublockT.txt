@@ -40,7 +40,6 @@ _log.
 /analytics*
 /banner*
 /feedback.js
-/monitor*
 /pixel.
 /pixel/*
 /pop/*
