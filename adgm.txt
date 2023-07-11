@@ -27,6 +27,8 @@
 ||messpop.shenzhentong.com^
 ||szt-obs-image.
 ||poplayer.
+||vip.wps.cn^
+||vipapi.wps.cn^
 ||access.pikpak*
 ||access.mypikpak*
 ||admob*.
@@ -41,6 +43,7 @@
 ||mydas.mobi^
 ||celtra.com^
 ||flurry.com^
+||umsns.com^
 ||pflexads.com^
 ! ---> Ali
 .cnzz.
@@ -50,8 +53,7 @@
 ||acs4baichuan.
 ||adashx.
 ||h-adashx.
-||tanx.com^
-||atanx.alicdn.com^
+||fourier.taobao.com^
 ||tce.alicdn.com^
 ||ynuf.aliapp.org^
 ! ---> Tencent

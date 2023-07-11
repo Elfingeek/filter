@@ -28,10 +28,6 @@
 /game*$domain=tieba.baidu.com
 /invoke*$domain=baidu.com
 ! -----> App
-appdownload
-app-download
-applaunch
-applink.
 /jump-app.
 /openapp*
 /open-app.
