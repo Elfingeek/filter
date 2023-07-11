@@ -81,7 +81,6 @@ _ad_
 sogou.com###topHint
 yandex.com##.react-component
 coolapk.com##.under
-zhihu.com##.OpenInApp,.Button--blue
 view.inews.qq.com##[dt-eid="em_pull_news"]
 view.inews.qq.com##[class*="interaction-bottom"]
 smzdm.com##.module-waper,.crumbs
