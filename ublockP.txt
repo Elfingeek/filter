@@ -3,13 +3,15 @@
 ! Description: For PC Browser
 ! Expires: 4 days
 ! =========> URL
-||live.bilibili.com^$domain=bilibili.com
-||cm.bilibili.com/cm/api/fees/*$domain=bilibili.com
-||hdslb.com/bfs/sycp/creative_img/*$domain=bilibili.com
-||tieba-ares.cdn.bcebos.com^$domain=tieba.baidu.com
 /tianshu*$domain=weiyun.com
 /attachments/image*$domain=w3cschool.cn
 /image/blog*$domain=zhangxinxu.com
+/list_merchandise?$domain=kdocs.cn
+/odimg/*$domain=kdocs.cn
+=homeWhatNewGuide$domain=kdocs.cn
+/invit*$domain=mypikpak.com
+/creative_img/*$domain=bilibili.com
+/fees/*$domain=bilibili.com
 /mapLogReport*$domain=baike.baidu.com
 /Audio*$domain=baike.baidu.com
 /video*$domain=baike.baidu.com
@@ -23,7 +25,6 @@ _ad_$domain=~tieba.baidu.com
 /PCBanner*
 ! ========> CSS
 bing.com##.sb_adTA
-you.com##[data-testid="STATIC_BOTTOM_BAR"]
 123pan.com##.VipBanner
 123pan.com##.ant-layout > div
 top.zhan.com##.model_mask
@@ -50,7 +51,6 @@ baike.baidu.com##.tashuo-bottom
 map.baidu.com##.cityData
 map.baidu.com###message-center
 map.baidu.com##[id*="leadDownloadCard"i],[class*="leadDownloadCard"i]
-youtube.com###secondary
 youtube.com##ytd-fact-check-renderer
 youtube.com##ytd-reel-shelf-renderer
 youtube.com##ytd-merch-shelf-renderer

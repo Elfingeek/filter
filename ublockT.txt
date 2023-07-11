@@ -28,10 +28,6 @@ _log.
 /log-
 /log/*
 /log_
-/logger-
-/logger.
-/logger/*
-/logging/*
 /logs-
 /logs.
 /logs/*

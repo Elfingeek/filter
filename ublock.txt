@@ -30,7 +30,8 @@
 /second*$domain=baike.baidu.com
 /tashuo*$domain=baike.baidu.com
 /wikiad/*$domain=baike.baidu.com
-/getrelated*
+/getRelated*
+/get_business*
 -x.jd.com
 antiAdblock
 blockAdblock
@@ -125,6 +126,7 @@ click.baidu.com
 ||mgzs.cdn.bcebos.com^
 ||ns-strategy.cdn.bcebos.com^
 ||staticsns.cdn.bcebos.com^
+||tieba-ares.cdn.bcebos.com^
 ! -----> Tencent
 .gdt.qq.com
 .gdtimg.com
@@ -850,6 +852,7 @@ analytics.com
 analysis.min.js
 tracking.js
 tracking.min.js
+metricsTrack
 googleanalytic
 google-analytic
 google_analytic
@@ -1109,7 +1112,4 @@ bing.com##.b_ans
 bing.com##.b_msg
 bing.com##.b_footer
 bing.com###mfa_root
-ecosia.org##.main-footer
-ecosia.org##.news-snippet
-ecosia.org##.videos-snippet
 smzdm.com###feed-side

@@ -14,6 +14,7 @@
 ||ruanmei.com^$domain=ithome.com
 /newsgradeget?$domain=ithome.com
 /newpromoteget*$domain=ithome.com
+/user/*$domain=ithome.com
 /m-second*$domain=baike.baidu.com
 /loft*$domain=baike.baidu.com
 /lemmagraph*$domain=baike.baidu.com
