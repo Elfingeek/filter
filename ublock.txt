@@ -3,6 +3,7 @@
 ! Description: For PC & Mobile Browser
 ! Expires: 4 days
 ! ======> URL
+||qxb-minicode-pic-osscache.qixin.com^
 /csdn-notification*$domain=csdn.net
 /csdn-toolbar*$domain=csdn.net
 /csdn-login*$domain=csdn.net
@@ -750,7 +751,6 @@ _advert*
 /tanad.
 /tc.js
 /tc/*
-/tc?
 /textad*
 /top_ad*
 /topad*
