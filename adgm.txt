@@ -7,7 +7,6 @@
 ||qxb-minicode-pic-osscache.qixin.com^
 ||map-mobile-opnimg.cdn.bcebos.com^
 ||open.meituan.com^
-||gaea.meituan.
 ||tlivesource.com^
 ||live.qcloud.com^
 ||jdpull.jd.com^
@@ -36,7 +35,6 @@
 ||pflexads.com^
 ! ---> Ali
 .cnzz.
-||ynuf.aliapp.org^
 ||live*.alicdn.com^
 ||video*.alicdn.com^
 ||video*.taobao.com^
