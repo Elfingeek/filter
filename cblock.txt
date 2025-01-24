@@ -37,11 +37,7 @@
 423down.com##p[style]
 423down.com##span[style]
 423down.com##li:has(a[href*="activity"])
-rexdl.com##.yarpp
-rexdl.com##p[style]
-rexdlbox.com##p[style]
 /plugin$domain=pojiejd.com
-/script$domain=pojiejd.com
 pojiejd.com##.catetop-list
 pojiejd.com##.jzftp,.readlist
 pojiejd.com##.jzinfo-down,.title
