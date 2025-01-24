@@ -1,0 +1,27 @@
+{
+  "timeStamp": 0,
+  "version": "",
+  "userSettings": {
+    "advancedUserEnabled": true,
+    "importedLists": [
+      "https://filters.adtidy.org/ios/filters/15_optimized.txt",
+      "https://gitlab.com/Elfingeek/filter/-/raw/main/cblock.txt",
+      "https://gitlab.com/Elfingeek/filter/-/raw/main/cblockP.txt"
+    ],
+    "popupPanelSections": 31,
+    "showIconBadge": false,
+    "suspendUntilListsAreLoaded": true
+  },
+  "selectedFilterLists": [
+    "user-filters",
+    "https://filters.adtidy.org/ios/filters/15_optimized.txt",
+    "https://gitlab.com/Elfingeek/filter/-/raw/main/cblock.txt",
+    "https://gitlab.com/Elfingeek/filter/-/raw/main/cblockP.txt"
+  ],
+  "hiddenSettings": {},
+  "whitelist": [],
+  "dynamicFilteringString": "",
+  "urlFilteringString": "",
+  "hostnameSwitchesString": "no-csp-reports: * true",
+  "userFilters": ""
+}
