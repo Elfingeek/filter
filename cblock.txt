@@ -173,9 +173,8 @@ zhihu.com##[data-za-detail-view-path-is_ad]
 ||gdtimg.com^
 ||ugdtimg.com^
 ||tui.gtimg.com^
+||vmat.gtimg.com^
 ||wa.gtimg.com^
-||qqq.gtimg.cn^
-||i.gtimg.cn^
 ! -> Baidu
 -bawu-$domain=baidu.com
 /openjs/*$domain=baidu.com
@@ -877,7 +876,6 @@ _prebid
 /referrer.js
 /rtoaster.js
 /report|
-/report?
 /report/*
 /report.js
 /reportsdk
